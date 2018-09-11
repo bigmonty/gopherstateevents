@@ -1,0 +1,232 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0;
+	padding:0;
+	height:100%;
+	font-family:arial, serif;
+	text-align:center;
+ 	background-color:#fff;
+}
+
+html{
+	height:100%;
+}
+
+a{
+	text-decoration:none;
+	color:#036;
+	padding:0;
+	margin:0;
+}
+
+#admin_content{
+	margin:0px 0 0 165px;
+	padding:0px;
+	text-align:left;
+	position:relative;
+	min-height:100%;
+	overflow: auto;
+	font-size:0.8em;
+	width:800px;
+}
+
+.admin_hdr{
+	background-color:#ececd8;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#000;
+}
+
+.alert{
+	border:1px solid #c00;
+	text-align:center;
+	color:#c00;
+	background-color:#ececec;
+}
+
+.alt{
+	background-color:#ececd8;
+}
+
+#content{
+	margin:0;
+	padding:0;
+	text-align:left;
+	min-height: 550px;
+    height: auto;
+	overflow: auto;
+	background-color:#fff;
+}
+
+.err_msg{
+	border:1px solid red;
+	background-color:#ececec;
+	color:red;
+	font-size:0.95em;
+	text-align:center;
+}
+
+#footer{
+	height:20px;
+	background-color:#fff;
+	color:#555;
+	text-align:right;
+	font-size:0.7em;
+	width:1000px;
+	margin:0 auto;
+	padding:0 5px 0 0;
+	clear:both;
+}
+
+#footer a{
+	font-size:1.0em;
+}
+
+h1,h2,h3,h4{
+    color: #ececec;
+    margin: 5px;
+    background-color:#039;
+}
+
+#header{
+	width:1000px;
+	margin:0;
+	padding:0;
+}
+
+image{
+	border:none;
+}
+
+#inner_content{
+	margin:40px 0 0 160px;
+	font-size:0.85em;
+}
+
+input, select, textarea{
+	font-size:0.9em;
+}
+
+#left_menu{
+	width:150px;
+	float:left;
+	font-size:0.8em;
+	text-align:center;
+    margin: 35px 0 0 0;
+    padding: 0;
+ }
+ 
+legend{
+	font-weight:bold;
+}
+
+#main{
+	width:860px;
+	margin:40px 0 0 150px;
+	color:#036;
+    padding: 0;
+}
+
+#menu{
+	float:left;
+	width:150px;
+	font-size:0.9em;
+	margin-top:40px;
+	background-color:#ececd8;
+}
+
+#menu ul{
+	margin:5px 0 0 5px;
+}
+
+#menu li{
+	margin:0;
+	padding:0;
+}
+
+#menu a{
+	font-size:0.8em;
+	color:#000;
+}
+
+#menu a:hover{
+	text-decoration:underline;
+	color:#000;
+}
+
+#menu a:visited{
+	color:#000;
+}
+
+.alt{
+	background-color:#ececec;
+}
+
+#nav_bar{
+	color:#036;
+	margin: 0;
+	padding:0 0 0 5px;
+	background-color:#ececd8;
+}
+
+#nav_bar a{
+	font-size:0.8em;
+	color:#036;
+	padding:0;
+}
+
+p{
+	margin:5px;
+	padding:5px;
+    color: #000;
+}
+
+#right_menu{
+	padding:0;
+	position:absolute;
+	left:790px;
+	width:200px;
+	top:170px;
+	background:none;
+	color:#fff;
+	text-align:left;
+}
+
+.submit_cell{
+	text-align:center;
+	background-color:#ececd8;
+}
+
+table{
+	font-size:0.9em;
+}
+
+td,th{
+    color: #000;
+}
+ul,ol{
+ 	padding-left:20px;
+	}
+
+#wrap{
+	position:relative;
+	width:1000px;
+	margin:0 auto;
+	padding:0;
+	background-color:#fff;
+	text-align:left;
+	overflow:hidden; 
+	padding-bottom:10px
+}
+
+#wrap:after{
+	display:block;
+	clear:both;
+}

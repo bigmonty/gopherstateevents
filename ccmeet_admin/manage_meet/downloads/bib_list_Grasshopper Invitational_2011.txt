@@ -1,0 +1,360 @@
+BIB LIST FOR GRASSHOPPER INVITATIONAL-2011
+Generated: 9/19/2011 5:56:05 PM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Chancellor, Jordan      	Blake (F)               	F	9	G-V	1
+Chase, Emily            	Blake (F)               	F	7	G-JH	2
+Everson, Lilia          	Blake (F)               	F	9	G-JV	3
+Feroe, Aliya            	Blake (F)               	F	11	G-V	4
+Flanagan, Clare         	Blake (F)               	F	10	G-V	5
+Graham, Margaret        	Blake (F)               	F	10	G-JV	6
+Israel, Ellen           	Blake (F)               	F	7	G-JH	7
+Johnson, Victoria       	Blake (F)               	F	11	G-JV	8
+Jordan, Alexandra       	Blake (F)               	F	11	G-JV	9
+Longley, Emily          	Blake (F)               	F	12	G-V	10
+Lovaas, Alex            	Blake (F)               	F	10	G-V	11
+McManus, Alison         	Blake (F)               	F	12	G-JV	12
+Meyer, Michelle         	Blake (F)               	F	12	G-JV	13
+Norberg, Natalie        	Blake (F)               	F	9	G-JV	14
+Nye, Carolyn            	Blake (F)               	F	9	G-V	15
+O'Neill, Ariel          	Blake (F)               	F	12	G-JV	16
+Van Slooten, Hudson     	Blake (F)               	F	12	G-V	17
+Watchmaker, Madeline    	Blake (F)               	F	10	G-JV	18
+Coyle, Quinn            	Blake (M)               	M	10	B-V	19
+Edinburgh, Zach         	Blake (M)               	M	11	B-V	20
+Gould, Joe              	Blake (M)               	M	11	B-JV	21
+Hall, Chris             	Blake (M)               	M	10	B-JV	22
+Herkert, Alex           	Blake (M)               	M	11	B-V	23
+Levin, Daniel           	Blake (M)               	M	10	B-V	24
+McManus, Thomas         	Blake (M)               	M	11	B-V	25
+Mitchell, Michael       	Blake (M)               	M	7	B-V	26
+Patterson, Stuart       	Blake (M)               	M	8	B-JH	27
+Pruett, Humphrey        	Blake (M)               	M	9	B-JV	28
+Rosco, Geordie          	Blake (M)               	M	8	B-JH	29
+Secor, Justin           	Blake (M)               	M	8	B-JH	30
+Sigmundik, Alex         	Blake (M)               	M	10	B-JV	31
+Smith, Danny            	Blake (M)               	M	11	B-V	32
+Tieszen, Jack           	Blake (M)               	M	11	B-JV	33
+Caruso, David           	Breck (M)               	M	10	B-V	34
+Curoe, Patrick          	Breck (M)               	M	11	B-JV	35
+Dorn, Robby             	Breck (M)               	M	12	B-V	36
+Ekberg, Jon             	Breck (M)               	M	7	B-JH	37
+Guzman, Luis            	Breck (M)               	M	10	B-JV	38
+Jundt, Max              	Breck (M)               	M	8	B-JH	39
+Pohlad, Jack            	Breck (M)               	M	7	B-JH	40
+Powell, Thornton        	Breck (M)               	M	7	B-JH	41
+Samaratunga, Nath       	Breck (M)               	M	10	B-V	42
+Thyr, Nicholas          	Breck (M)               	M	11	B-V	43
+Walsh, Seamus           	Breck (M)               	M	8	B-JH	44
+Weiler, Elliot          	Breck (M)               	M	10	B-V	45
+Berman, Elena           	Breck (F)               	F	7	G-JH	46
+Drysdale, Claire        	Breck (F)               	F	10	G-V	47
+Duncan, Adria           	Breck (F)               	F	10	G-V	48
+Huss, Johanna           	Breck (F)               	F	11	G-JV	49
+Short, Sarah            	Breck (F)               	F	12	G-V	50
+Thom, Anna              	Breck (F)               	F	11	G-JV	51
+Vijayakar, Roshny       	Breck (F)               	F	12	G-JV	52
+Wang, Melody            	Breck (F)               	F	12	G-JV	53
+Billig, Lindsay         	DeLaSalle (F)           	F	9	G-V	54
+Brand, Hannah           	DeLaSalle (F)           	F	9	G-V	55
+Dockter, Clara          	DeLaSalle (F)           	F	12	G-V	56
+Feldhahn, Alana         	DeLaSalle (F)           	F	10	G-JV	57
+Fritz, Hana             	DeLaSalle (F)           	F	9	G-V	58
+Hommerding, Ally        	DeLaSalle (F)           	F	10	G-JV	59
+Lasecke, Bailey         	DeLaSalle (F)           	F	9	G-JV	60
+Mayer, Mary             	DeLaSalle (F)           	F	10	G-JV	61
+Morandi, Martina        	DeLaSalle (F)           	F	12	G-JV	62
+Mullin, Ellie           	DeLaSalle (F)           	F	12	G-V	63
+Purtle, Anna            	DeLaSalle (F)           	F	9	G-V	64
+Rodriguez, Paige        	DeLaSalle (F)           	F	11	G-JV	65
+Ryan, Autumn            	DeLaSalle (F)           	F	10	G-JV	66
+Schaff, Ana             	DeLaSalle (F)           	F	11	G-V	67
+Swift, Kaleigh          	DeLaSalle (F)           	F	10	G-JV	68
+Thiel, Amy              	DeLaSalle (F)           	F	11	G-JV	69
+Wilczynski, Emily       	DeLaSalle (F)           	F	11	G-JV	70
+Beckman, Zach           	DeLaSalle (M)           	M	11	B-V	71
+Bowker-Hassan, Malik    	DeLaSalle (M)           	M	9	B-V	72
+Cox, Bailey             	DeLaSalle (M)           	M	10	B-JV	73
+Ebner, Ian              	DeLaSalle (M)           	M	11	B-JV	74
+Elfstrand, Matthew      	DeLaSalle (M)           	M	11	B-JV	75
+Hart, Max               	DeLaSalle (M)           	M	9	B-JV	76
+Houle, Anton            	DeLaSalle (M)           	M	9	B-JV	77
+Lusteck, Joey           	DeLaSalle (M)           	M	9	B-JV	78
+Mueller, Max            	DeLaSalle (M)           	M	9	B-JV	79
+Osterbauer, Rudy        	DeLaSalle (M)           	M	12	B-JV	80
+Pemberton, Nick         	DeLaSalle (M)           	M	10	B-V	81
+Podewils, Alex          	DeLaSalle (M)           	M	11	B-JV	82
+Podewils, Nathaniel     	DeLaSalle (M)           	M	9	B-JV	83
+Quednau, Mike           	DeLaSalle (M)           	M	11	B-V	84
+Suek, Ben               	DeLaSalle (M)           	M	10	B-JV	85
+Tipping, Will           	DeLaSalle (M)           	M	11	B-V	86
+Walstrom, Jack          	DeLaSalle (M)           	M	11	B-JV	87
+Welch, Hal              	DeLaSalle (M)           	M	9	B-JV	88
+Wilson, Jalen           	DeLaSalle (M)           	M	11	B-V	89
+Wohletz, Louis          	DeLaSalle (M)           	M	11	B-V	90
+Xiong, Seng Yee         	DeLaSalle (M)           	M	12	B-JV	91
+Barrera, Cruz           	Henry Sibley Boys (M)   	M	12	B-V	92
+Bruns, Chris            	Henry Sibley Boys (M)   	M	8	B-JH	93
+Burrell, Eric           	Henry Sibley Boys (M)   	M	9	B-JV	94
+Deitchler, Will         	Henry Sibley Boys (M)   	M	10	B-V	95
+Dill, Joe               	Henry Sibley Boys (M)   	M	7	B-V	96
+Dosh, Mark              	Henry Sibley Boys (M)   	M	11	B-JV	97
+Dupont, Anthony         	Henry Sibley Boys (M)   	M	9	B-JV	98
+Holec, Patrick          	Henry Sibley Boys (M)   	M	12	B-V	99
+Jarvis, James           	Henry Sibley Boys (M)   	M	12	B-JV	100
+Liu, Alex               	Henry Sibley Boys (M)   	M	10	B-JV	101
+Meyer, Sam              	Henry Sibley Boys (M)   	M	11	B-V	102
+Overvig, Kellen         	Henry Sibley Boys (M)   	M	10	B-JV	103
+Rosno, Mark             	Henry Sibley Boys (M)   	M	12	B-V	104
+Vodovoz, Ben            	Henry Sibley Boys (M)   	M	11	B-JV	105
+Whitcomb, Adam          	Henry Sibley Boys (M)   	M	9	B-JV	106
+Ally, Shannon           	Henry Sibley Girls (F)  	F	10	G-JV	107
+Benick, Laura           	Henry Sibley Girls (F)  	F	8	G-V	108
+Bohlig, Emily           	Henry Sibley Girls (F)  	F	11	G-JV	109
+Carrero, Leila          	Henry Sibley Girls (F)  	F	8	G-JH	110
+Cooper, Demi            	Henry Sibley Girls (F)  	F	9	G-V	111
+Cunningham, Haley       	Henry Sibley Girls (F)  	F	12	G-JV	112
+Fudenberg, Anne         	Henry Sibley Girls (F)  	F	10	G-JV	113
+Giest, Danielle         	Henry Sibley Girls (F)  	F	11	G-JV	114
+Gordon, Christina       	Henry Sibley Girls (F)  	F	12	G-JV	115
+Haagenson, Lilly        	Henry Sibley Girls (F)  	F	12	G-JV	116
+Haas, Casey             	Henry Sibley Girls (F)  	F	11	G-JV	117
+Hesbjerg, Ahnika        	Henry Sibley Girls (F)  	F	12	G-JV	118
+Larson, Emily           	Henry Sibley Girls (F)  	F	12	G-V	119
+Latterell, Sydney       	Henry Sibley Girls (F)  	F	10	G-V	120
+Olsen, Alicia           	Henry Sibley Girls (F)  	F	11	G-V	121
+Rice, Laura             	Henry Sibley Girls (F)  	F	11	G-V	122
+Roe, Haley              	Henry Sibley Girls (F)  	F	10	G-JV	123
+Ryan, Molly             	Henry Sibley Girls (F)  	F	10	G-JV	124
+Saunders, Morgan        	Henry Sibley Girls (F)  	F	7	G-JH	125
+Saxon, Emily            	Henry Sibley Girls (F)  	F	11	G-JV	126
+Steffens, Kirby         	Henry Sibley Girls (F)  	F	11	G-V	127
+Storkamp, Emma          	Henry Sibley Girls (F)  	F	7	G-JH	128
+Wild, Alexa             	Henry Sibley Girls (F)  	F	10	G-JV	129
+Wild, Mikaela           	Henry Sibley Girls (F)  	F	10	G-JV	130
+Boll, Karly             	Mound-Westonka (F)      	F	12	G-JV	131
+Brustad, Hannah         	Mound-Westonka (F)      	F	10	G-JV	132
+Franck, Kendra          	Mound-Westonka (F)      	F	7	G-JV	133
+Fuhrman, Emma           	Mound-Westonka (F)      	F	7	G-JH	134
+Heilman, Shawny         	Mound-Westonka (F)      	F	12	G-V	135
+Kohls, Ella             	Mound-Westonka (F)      	F	8	G-JH	136
+LaLuzerne, Emma         	Mound-Westonka (F)      	F	9	G-JH	137
+LaLuzerne, Georgia      	Mound-Westonka (F)      	F	12	G-JV	138
+Matt, Meghan            	Mound-Westonka (F)      	F	8	G-JV	139
+Ogata, Sharon           	Mound-Westonka (F)      	F	7	G-JH	140
+Peterson, Callie        	Mound-Westonka (F)      	F	12	G-JV	141
+Pinault, Leah           	Mound-Westonka (F)      	F	10	G-JV	142
+Skogsberg, Kylie        	Mound-Westonka (F)      	F	8	G-JH	143
+Spurbeck, Veronica      	Mound-Westonka (F)      	F	10	G-JV	144
+Strehle, Mackenzie      	Mound-Westonka (F)      	F	10	G-JV	145
+Westby, Emma            	Mound-Westonka (F)      	F	5	G-JH	146
+Wharram, Abby           	Mound-Westonka (F)      	F	7	G-JH	147
+Boser, Weston           	Mound-Westonka (M)      	M	8	B-JH	148
+Brandt, Adam W.         	Mound-Westonka (M)      	M	11	B-JV	149
+Brenk, Victor           	Mound-Westonka (M)      	M	12	B-JV	150
+Brown, Nick             	Mound-Westonka (M)      	M	5	B-JH	151
+Davis, Andrew           	Mound-Westonka (M)      	M	12	B-JV	152
+Ebner, Nick             	Mound-Westonka (M)      	M	10	B-JV	153
+Edington, Chazz         	Mound-Westonka (M)      	M	10	B-JV	154
+Greenslit, Morton       	Mound-Westonka (M)      	M	12	B-JV	155
+Harrison, Scott         	Mound-Westonka (M)      	M	10	B-V	156
+Hewitt, Chad            	Mound-Westonka (M)      	M	12	B-V	157
+Hoffman, Cole           	Mound-Westonka (M)      	M	12	B-V	158
+Humbert, Danny          	Mound-Westonka (M)      	M	11	B-JV	159
+Humbert, Matt           	Mound-Westonka (M)      	M	6	B-JH	160
+Larson, Bjorn           	Mound-Westonka (M)      	M	12	B-JV	161
+Leif, Nathan            	Mound-Westonka (M)      	M	7	B-JH	162
+Maahs, Charlie          	Mound-Westonka (M)      	M	12	B-JV	163
+Opheim, Bill            	Mound-Westonka (M)      	M	11	B-JV	164
+Pate, Samuel            	Mound-Westonka (M)      	M	10	B-JV	165
+Petterson, Cole         	Mound-Westonka (M)      	M	10	B-JV	166
+Piepkorn, Grant         	Mound-Westonka (M)      	M	11	B-V	167
+Reinhardt, Charlie      	Mound-Westonka (M)      	M	5	B-JH	168
+Retterath, Kade         	Mound-Westonka (M)      	M	5	B-JH	169
+Retterath, Kole         	Mound-Westonka (M)      	M	10	B-V	170
+Rice, Rudy              	Mound-Westonka (M)      	M	10	B-JV	171
+Sjovist, Johan          	Mound-Westonka (M)      	M	12	B-JV	172
+Solberg, Tyler          	Mound-Westonka (M)      	M	11	B-JV	173
+Sotirin, John V         	Mound-Westonka (M)      	M	11	B-JV	174
+Tully, Tommy            	Mound-Westonka (M)      	M	11	B-V	175
+Wharram, Parker         	Mound-Westonka (M)      	M	12	B-V	176
+Woods, James            	Mound-Westonka (M)      	M	12	B-JV	177
+Allen, Sarah            	New Prague (F)          	F	11	G-JV	178
+Altschul, Ashley        	New Prague (F)          	F	10	G-V	179
+Bartyzal, Ellie         	New Prague (F)          	F	10	G-JV	180
+Berg, Maria             	New Prague (F)          	F	8	G-V	181
+Bowman, Meaghan         	New Prague (F)          	F	9	G-JV	182
+Buss, Maya              	New Prague (F)          	F	9	G-JV	183
+Ellanson, Bridget       	New Prague (F)          	F	9	G-V	184
+Friedges, Maria         	New Prague (F)          	F	12	G-V	185
+Giles, Mikayla          	New Prague (F)          	F	10	G-JV	186
+Grote, Ella             	New Prague (F)          	F	10	G-JV	187
+Hummel, Katie           	New Prague (F)          	F	9	G-JV	188
+Jendersee, Natasha      	New Prague (F)          	F	12	G-JV	189
+Johnson, Elisa          	New Prague (F)          	F	9	G-V	190
+Kanten, Alyssa          	New Prague (F)          	F	10	G-JV	191
+Kotek, Courtney         	New Prague (F)          	F	12	G-JV	192
+Nuetzman, Elizabeth     	New Prague (F)          	F	12	G-JV	193
+Russell, Nikki          	New Prague (F)          	F	12	G-JV	194
+Scheonbauer, Lauren     	New Prague (F)          	F	12	G-V	195
+Wallem, Devyn           	New Prague (F)          	F	10	G-JV	196
+Wilson, Korey           	New Prague (F)          	F	10	G-V	197
+Wormer, Racchel         	New Prague (F)          	F	9	G-JV	198
+Bornholdt, Blane        	New Prague (M)          	M	10	B-V	199
+Currie, Hunter          	New Prague (M)          	M	10	B-V	200
+Dietz, Zach             	New Prague (M)          	M	11	B-V	201
+Doheny, Haakon          	New Prague (M)          	M	12	B-JV	202
+Dorzinski, Carter       	New Prague (M)          	M	10	B-V	203
+Dudley, Kevin           	New Prague (M)          	M	10	B-JV	204
+Dvorak, Josh            	New Prague (M)          	M	9	B-JV	205
+Erickson, Jason         	New Prague (M)          	M	10	B-V	206
+Friedges, Jakob         	New Prague (M)          	M	10	B-JV	207
+Gieger, John            	New Prague (M)          	M	12	B-V	208
+Gullickson, Matt        	New Prague (M)          	M	12	B-JV	209
+Jacobson, Michael       	New Prague (M)          	M	10	B-JV	210
+Kaczor, Jimmy           	New Prague (M)          	M	11	B-JV	211
+Wehseler, Josh          	New Prague (M)          	M	12	B-JV	212
+Wooten, Blake           	New Prague (M)          	M	11	B-V	213
+Zeimet, Patrick         	New Prague (M)          	M	11	B-JV	214
+Berger, Julie           	Orono (F)               	F	9	G-JV	215
+Flietman, Chelsie       	Orono (F)               	F	12	G-V	216
+Leslie, Grace           	Orono (F)               	F	7	G-JH	217
+Longe, Becky            	Orono (F)               	F	10	G-JV	218
+Longe, Jessie           	Orono (F)               	F	12	G-JV	219
+Longe, Kelsie           	Orono (F)               	F	12	G-V	220
+Lundberg, Sammy         	Orono (F)               	F	12	G-V	221
+Mongullia, Stephanie    	Orono (F)               	F	9	G-JV	222
+Nielsen, Haley          	Orono (F)               	F	9	G-V	223
+Rahkola, Alanna         	Orono (F)               	F	12	G-JV	224
+Surver, Betsy           	Orono (F)               	F	7	G-JH	225
+Wall, Sarah             	Orono (F)               	F	12	G-V	226
+Webster, Kathleen       	Orono (F)               	F	12	G-JV	227
+White, Hallie           	Orono (F)               	F	8	G-V	228
+White, Samantha         	Orono (F)               	F	12	G-V	229
+Wuollett, Kjersten      	Orono (F)               	F	10	G-JV	230
+Albers, Mitch           	Orono (M)               	M	8	B-JH	231
+Assen, Adam             	Orono (M)               	M	11	B-JV	232
+Bakken, Eric            	Orono (M)               	M	11	B-JV	233
+Banavige, Ben           	Orono (M)               	M	10	B-JV	234
+Bergh, Adam             	Orono (M)               	M	11	B-JV	235
+Brauchle, Paul          	Orono (M)               	M	11	B-V	236
+Cadwallader, Kyle       	Orono (M)               	M	7	B-JH	237
+Carlson, Joey           	Orono (M)               	M	12	B-JV	238
+Casey, Drew             	Orono (M)               	M	11	B-JV	239
+Choiniere, Mike         	Orono (M)               	M	10	B-V	240
+Cox, Grant              	Orono (M)               	M	9	B-JV	241
+Effrem, Tim             	Orono (M)               	M	10	B-JV	242
+Gieger, Jake            	Orono (M)               	M	11	B-JV	243
+Gorsuch, Eric           	Orono (M)               	M	8	B-JH	244
+Hacker, Ben             	Orono (M)               	M	12	B-V	245
+Janisch, Jacob          	Orono (M)               	M	10	B-JV	246
+Johnson, Jack           	Orono (M)               	M	11	B-JV	247
+Katola, Keith           	Orono (M)               	M	10	B-V	248
+Knutson, Connor         	Orono (M)               	M	8	B-JH	249
+Koetting, Brady         	Orono (M)               	M	11	B-V	250
+Lindholm, Connor        	Orono (M)               	M	11	B-JV	251
+Longe, Thomas           	Orono (M)               	M	10	B-JV	252
+McLaughlin, Connor      	Orono (M)               	M	12	B-JV	253
+Morrison, Tully         	Orono (M)               	M	8	B-JH	254
+Secundino, Kevin        	Orono (M)               	M	11	B-JV	255
+Secundino, Ozzie        	Orono (M)               	M	12	B-JV	256
+Surver, Josh            	Orono (M)               	M	11	B-V	257
+Van Dyck, Gabe          	Orono (M)               	M	11	B-V	258
+Wall, Daniel            	Orono (M)               	M	10	B-JV	259
+Wickstrom, Logan        	Orono (M)               	M	7	B-JH	260
+Williams, Jim           	Orono (M)               	M	10	B-JV	261
+Winkey, Austin          	Orono (M)               	M	7	B-JH	262
+Burke, Maya             	Southwest (F)           	F	11	G-JV	263
+Counihan, Abby          	Southwest (F)           	F	10	G-V	264
+Dusek, Natalie          	Southwest (F)           	F	9	G-JV	265
+Fassett-Carman, Robin   	Southwest (F)           	F	11	G-V	266
+Fritsch, Josie          	Southwest (F)           	F	11	G-JV	267
+King, Haley             	Southwest (F)           	F	11	G-V	268
+Kirkpatrick, Ellie      	Southwest (F)           	F	11	G-JV	269
+Mackin, Andi            	Southwest (F)           	F	9	G-JV	270
+Maloney, Kara           	Southwest (F)           	F	12	G-V	271
+McGinty, Molly          	Southwest (F)           	F	12	G-JV	272
+Metzdorff, Cecelia      	Southwest (F)           	F	11	G-JV	273
+Miller, Emma Rose       	Southwest (F)           	F	10	G-JV	274
+Pfister, Maria          	Southwest (F)           	F	10	G-V	275
+Richmond, Daisy         	Southwest (F)           	F	9	G-V	276
+Ryden, Anna             	Southwest (F)           	F	10	G-V	277
+Thurston, Hannah        	Southwest (F)           	F	11	G-JV	278
+Voltz, Susie            	Southwest (F)           	F	9	G-JV	279
+Alexander, Graeme       	Southwest (M)           	M	10	B-V	280
+Anderson, Shawn         	Southwest (M)           	M	12	B-JV	281
+Engen, Carl-Lars        	Southwest (M)           	M	11	B-JV	282
+Gaines, Brian           	Southwest (M)           	M	10	B-JV	283
+Gaines, Luke            	Southwest (M)           	M	10	B-JV	284
+Gaines, Michael         	Southwest (M)           	M	10	B-V	285
+Gordon, Stuart          	Southwest (M)           	M	10	B-JV	286
+Groth, Sam              	Southwest (M)           	M	11	B-JV	287
+Hays, Cameron           	Southwest (M)           	M	12	B-JV	288
+Holm, Eric              	Southwest (M)           	M	11	B-V	289
+John, Ben               	Southwest (M)           	M	12	B-JV	290
+Kirk, Joshua            	Southwest (M)           	M	10	B-JV	291
+Knowlton, Austin        	Southwest (M)           	M	11	B-V	292
+Lane, Ben               	Southwest (M)           	M	9	B-JV	293
+Leighton, Tanner        	Southwest (M)           	M	9	B-JV	294
+Lewis, Max              	Southwest (M)           	M	10	B-JV	295
+Marita-Davis, Ryan      	Southwest (M)           	M	10	B-JV	296
+McGillivary, Andrew     	Southwest (M)           	M	11	B-JV	297
+Metzdorff, Augustine    	Southwest (M)           	M	11	B-V	298
+Metzdorff, Peter        	Southwest (M)           	M	12	B-V	299
+Olson, Andy             	Southwest (M)           	M	12	B-JV	300
+Opdahl, Jon             	Southwest (M)           	M	11	B-JV	301
+Parsons, Bradley        	Southwest (M)           	M	10	B-JV	302
+Ragatz, Will            	Southwest (M)           	M	9	B-JV	303
+Roche, Jackson          	Southwest (M)           	M	9	B-JV	304
+Rorke, Mac              	Southwest (M)           	M	12	B-JV	305
+Rose, Charlie           	Southwest (M)           	M	10	B-JV	306
+Schelzel, George        	Southwest (M)           	M	11	B-JV	307
+Shaheen, Sam            	Southwest (M)           	M	10	B-JV	308
+Shaw, Jonah             	Southwest (M)           	M	10	B-JV	309
+Sinkler, Sam            	Southwest (M)           	M	10	B-JV	310
+Smith, Malcolm          	Southwest (M)           	M	10	B-JV	311
+Stimson, Ronnie         	Southwest (M)           	M	12	B-V	312
+Thomazin, Matt          	Southwest (M)           	M	12	B-JV	313
+Villalta, Matt          	Southwest (M)           	M	10	B-JV	314
+Bachman, Amy            	St Louis Park (F)       	F	9	G-JV	315
+Behnken, Jenna          	St Louis Park (F)       	F	10	G-V	316
+Cassuto, Shimrit        	St Louis Park (F)       	F	11	G-JV	317
+Eberhardt, Siedah       	St Louis Park (F)       	F	11	G-V	318
+Frank, Jenna            	St Louis Park (F)       	F	10	G-V	319
+James, Marcie           	St Louis Park (F)       	F	7	G-JH	320
+Newman, Allisa          	St Louis Park (F)       	F	11	G-V	321
+Peterson, Maddie        	St Louis Park (F)       	F	11	G-JV	322
+Temkin, Sophia          	St Louis Park (F)       	F	11	G-V	323
+Williams, Grace         	St Louis Park (F)       	F	8	G-JH	324
+Anderson, Micah         	St Louis Park (M)       	M	7	B-JH	325
+Buckhalton, Kevin       	St Louis Park (M)       	M	11	B-JV	326
+Butler, Spencer         	St Louis Park (M)       	M	12	B-JV	327
+Casey, Ryan             	St Louis Park (M)       	M	8	B-JH	328
+Coleman, Seth           	St Louis Park (M)       	M	12	B-JV	329
+Conroy, Anders          	St Louis Park (M)       	M	11	B-JV	330
+Danforth, John          	St Louis Park (M)       	M	12	B-JV	331
+Dawson, Sam             	St Louis Park (M)       	M	12	B-V	332
+Delaney, Jack           	St Louis Park (M)       	M	9	B-JV	333
+Elias, Jack             	St Louis Park (M)       	M	7	B-JH	334
+Frazier, Stefan         	St Louis Park (M)       	M	11	B-JV	335
+Gruber, Ben             	St Louis Park (M)       	M	11	B-V	336
+Hames, Tommy            	St Louis Park (M)       	M	7	B-JH	337
+Hamilton, Jacob         	St Louis Park (M)       	M	12	B-JV	338
+Heller, Thaine          	St Louis Park (M)       	M	11	B-JV	339
+Hickstein, Eric         	St Louis Park (M)       	M	7	B-JH	340
+Hill, Caleb             	St Louis Park (M)       	M	9	B-JV	341
+Jewell, Andrew          	St Louis Park (M)       	M	10	B-V	342
+Klaverkamp, Henry       	St Louis Park (M)       	M	11	B-JV	343
+Meier, Jacob            	St Louis Park (M)       	M	12	B-JV	344
+Pantazides, Thanasi     	St Louis Park (M)       	M	9	B-JV	345
+Peterson, Gavin         	St Louis Park (M)       	M	8	B-JH	346
+Phelan, Conrad          	St Louis Park (M)       	M	8	B-JH	347
+Pokorny, Jacob          	St Louis Park (M)       	M	10	B-JV	348
+Reed, Dominic           	St Louis Park (M)       	M	12	B-V	349
+Rumpza, Nathan          	St Louis Park (M)       	M	12	B-V	350
+Schmelzle, Liam         	St Louis Park (M)       	M	9	B-JV	351
+Sherno, Peter           	St Louis Park (M)       	M	7	B-JH	352
+Sixel, Nathan           	St Louis Park (M)       	M	9	B-JV	353
+Slade, Elliot           	St Louis Park (M)       	M	10	B-V	354
+Sokolowski, Nick        	St Louis Park (M)       	M	10	B-V	355
+Villano, Joe            	St Louis Park (M)       	M	8	B-JH	356

@@ -1,0 +1,96 @@
+Lake Conf Relays 2014
+12/4/2014
+
+G-V Results-Relay
+
+
+1	Wayzata  Varsity	Wayzata     	1004	30:55.41    
+	Keller-Miller, Kristine 	1001	15:42:27.00	15:50:33.37	8:06.37
+	Frenz, Evelyn           	1002	15:50:33.37	15:59:16.33	8:42.96
+	Williams, Madeline      	1003	15:59:16.33	16:06:46.32	7:29.98
+	Schneider, Nicole       	1004	16:06:46.32	16:13:22.42	6:36.10
+
+2	Hopkins Girls Te	Hopkins     	601	31:06.34    
+	Benton, Claire          	604	15:42:27.00	15:50:10.37	7:43.37
+	Anderson, Renae         	605	15:50:10.37	15:58:33.28	8:22.91
+	Dirnberger, Sophie      	606	15:58:33.28	16:05:52.13	7:18.84
+	Olson, Jennifer         	601	16:05:52.13	16:13:35.96	7:43.83
+
+3	Girls Relay A   	Eden Prairie	204	33:49.33    
+	Drach, Abigail          	201	15:42:27.00	15:50:11.30	7:44.30
+	Manning, Megan          	202	15:50:11.30	16:00:20.89	10:09.58
+	Frischmon, Caroline     	203	16:00:20.89	16:08:32.55	8:11.66
+	Nelson, Rachel          	204	16:08:32.55	16:16:16.33	7:43.77
+
+4	Hopkins Girls Te	Hopkins     	602	34:31.93    
+	Hall, Anna              	607	15:42:27.00	15:51:51.19	9:24.19
+	Giesting, Anna          	608	15:51:51.19	16:01:28.83	9:37.63
+	Versen, Theresa         	609	16:01:28.83	16:09:31.16	8:02.33
+	Craemer, Katherine      	602	16:09:31.16	16:16:58.85	7:27.69
+
+5	Girls Relay B   	Eden Prairie	208	35:09.88    
+	Miller, Ellie           	205	15:42:27.00	15:51:18.49	8:51.49
+	Fusaro, Maxine          	206	15:51:18.49	16:00:48.13	9:29.64
+	Schnirring, Sam         	207	16:00:48.13	16:09:08.32	8:20.19
+	Ziegler, Mikaela        	208	16:09:08.32	16:17:36.89	8:28.56
+
+6	Wayzata  Varsity	Wayzata     	1008	35:27.41    
+	Silbaugh, Abby          	1005	15:42:27.00	15:51:28.65	9:01.65
+	Griwac, Madeline        	1006	15:51:28.65	16:01:09.26	9:40.61
+	Farquhar, Katie         	1007	16:01:09.26	16:09:45.31	8:36.05
+	Jette, Megan            	1008	16:09:45.31	16:17:54.42	8:09.10
+
+7	Mtka Varsity A  	Minnetonka  	801	35:40.32    
+	Janssen, Meghan         	804	15:42:27.00	15:51:42.82	9:15.82
+	Nesbitt, Meredith       	805	15:51:42.82	16:01:25.90	9:43.07
+	Melmer, Mara            	806	16:01:25.90	16:10:00.37	8:34.47
+	Janssen, Meghan         	801	16:10:00.37	16:18:07.32	8:06.94
+
+8	Team A Girls Rel	Edina       	404	36:51.90    
+	Oconnell, Kitty         	401	15:42:27.00	15:52:51.53	10:24.53
+	Lindberg, Ella          	402	15:52:51.53	16:03:02.65	10:11.11
+	Kompelien, Emily        	403	16:03:02.65	16:10:51.83	7:49.17
+	Willmert, Triana        	404	16:10:51.83	16:19:18.91	8:27.08
+
+9	Hopkins Girls Te	Hopkins     	603	37:05.93    
+	Holm, Sophia            	610	15:42:27.00	15:51:46.55	9:19.55
+	Burnett, Emma           	611	15:51:46.55	16:02:15.31	10:28.75
+	Marti, Claire           	612	16:02:15.31	16:10:51.51	8:36.20
+	Douglass, Chance        	603	16:10:51.51	16:19:32.46	8:40.94
+
+10	Girls Relay C   	Eden Prairie	212	38:15.60    
+	Birkle, Elise           	209	15:42:27.00	15:52:40.63	10:13.62
+	Stenoien, Hannah        	210	15:52:40.63	16:03:21.34	10:40.71
+	Birkle, Elise           	211	16:03:21.34	16:12:02.18	8:40.83
+	Stenoien, Hannah        	212	16:12:02.18	16:20:42.60	8:40.42
+
+11	Team B Girls Rel	Edina       	408	38:19.13    
+	Behling, Emily          	405	15:42:27.00	15:52:58.93	10:31.92
+	McKlveen, Charlotte     	406	15:52:58.93	16:03:43.91	10:44.98
+	Bernstein, Melissa      	407	16:03:43.91	16:12:30.50	8:46.58
+	Hinrichs, Raegan        	408	16:12:30.50	16:20:46.14	8:15.64
+
+12	Team C Girls Rel	Edina       	412	38:32.69    
+	Pflaster, Ellen         	409	15:42:27.00	15:53:02.48	10:35.48
+	Mendel, Katherine       	410	15:53:02.48	16:03:50.16	10:47.67
+	Bowlin, Alayna          	411	16:03:50.16	16:12:37.93	8:47.76
+	Willmert, Talia         	412	16:12:37.93	16:21:00.00	8:21.76
+
+13	Wayzata  Varsity	Wayzata     	1012	38:43.18    
+	Andrews, Maeve          	1009	15:42:27.00	15:52:20.82	9:53.82
+	Brew, Anna              	1010	15:52:20.82	16:03:06.92	10:46.09
+	Dahl, Miranda           	1011	16:03:06.92	16:11:55.67	8:48.75
+	Schwarz, Kaitlin        	1012	16:11:55.67	16:21:10.19	9:14.51
+
+14	Mtka Varsity B  	Minnetonka  	802	39:59.15    
+	Klaysmat, Madeline      	807	15:42:27.00	15:53:06.88	10:39.88
+	Hanzlik, Deneen         	808	15:53:06.88	16:03:46.34	10:39.46
+	Maples, Amanda          	809	16:03:46.34	16:13:11.66	9:25.31
+	SINGH, WYATT            	802	16:13:11.66	16:22:26.16	9:14.50
+
+15	Mtka Varsity C  	Minnetonka  	803	41:53.92    
+	Ryan, Lauren            	810	15:42:27.00	15:54:17.92	11:50.92
+	Dahl, Lauren            	811	15:54:17.92	16:06:17.26	11:59.33
+	Lewis, Katie            	812	16:06:17.26	16:15:32.49	9:15.22
+	Stedman, Nicole         	803	16:15:32.49	16:24:20.93	8:48.44
+

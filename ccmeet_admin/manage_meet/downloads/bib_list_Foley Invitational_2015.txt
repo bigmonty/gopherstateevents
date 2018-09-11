@@ -1,0 +1,387 @@
+BIB LIST FOR FOLEY INVITATIONAL-2015
+Generated: 9/30/2015 12:19:25 PM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Bauer, Trinity          	Albany (F)              	F	7	G-JH	1001
+Burg, Isabelle          	Albany (F)              	F	8	G-JH	1002
+Christen, Abbie         	Albany (F)              	F	7	G-JV	1003
+Christen, Bethany       	Albany (F)              	F	11	G-V	1004
+Cigelske, Natalie       	Albany (F)              	F	9	G-V	1005
+Corte, Casey            	Albany (F)              	F	7	G-JH	1006
+Fauk, Kenzie            	Albany (F)              	F	11	G-V	1007
+Fauk, Kourtney          	Albany (F)              	F	11	G-V	1008
+Friederichs, Sydney     	Albany (F)              	F	7	G-JH	1009
+Juhl, Erin              	Albany (F)              	F	7	G-JH	1010
+Kalthoff, Kristine      	Albany (F)              	F	7	G-V	1011
+Killmer, Hannah         	Albany (F)              	F	8	G-JV	1012
+Klein, Jaclyn           	Albany (F)              	F	12	G-JV	1013
+Kollodge, Amanda        	Albany (F)              	F	9	G-JV	1014
+Kotten, Brooke          	Albany (F)              	F	7	G-JV	1015
+Kremers, Marissa        	Albany (F)              	F	10	G-JV	1016
+Maus, Olivia            	Albany (F)              	F	11	G-JV	1017
+Nack, Brittany          	Albany (F)              	F	11	G-JV	1018
+Neu, Jennifer           	Albany (F)              	F	10	G-V	1019
+Olson, Rose             	Albany (F)              	F	11	G-JV	1020
+Pelkey, Hannah          	Albany (F)              	F	8	G-V	1021
+Rieland, Grace          	Albany (F)              	F	7	G-JV	1022
+Roerick, Haley          	Albany (F)              	F	12	G-JV	1023
+Rosenberger, Jessica    	Albany (F)              	F	7	G-JV	1024
+Schultzenberg, Anna     	Albany (F)              	F	11	G-JV	1025
+Seiler, Emma            	Albany (F)              	F	10	G-JV	1026
+Smith, Samantha         	Albany (F)              	F	7	G-JH	1027
+Studniski, Alexis       	Albany (F)              	F	8	G-JH	1028
+Wege, Gina              	Albany (F)              	F	7	G-JV	1029
+Bates, Jacob            	Albany (M)              	M	8	B-JH	1030
+Becker, Evan            	Albany (M)              	M	7	B-JH	1031
+Boyer, Travis           	Albany (M)              	M	9	B-JV	1032
+Budde, Chris            	Albany (M)              	M	11	B-V	1033
+Bushman, Jacob          	Albany (M)              	M	10	B-V	1034
+Clapper, Quinn          	Albany (M)              	M	9	B-JV	1035
+Czajkowski, Evan        	Albany (M)              	M	10	B-JV	1036
+Duckson, Elisha         	Albany (M)              	M	10	B-JV	1037
+Fischer, Tyler          	Albany (M)              	M	11	B-JV	1038
+Friederichs, Will       	Albany (M)              	M	8	B-JH	1039
+Greeley, John           	Albany (M)              	M	10	B-JV	1040
+Harding, Nathan         	Albany (M)              	M	7	B-JH	1041
+Hause, Cole             	Albany (M)              	M	7	B-JH	1042
+Jacques, Kayne          	Albany (M)              	M	7	B-JH	1043
+Jensen-Athoy, Schyler   	Albany (M)              	M	7	B-JH	1044
+Johnson, Eli            	Albany (M)              	M	11	B-V	1045
+K, Randall              	Albany (M)              	M	7	B-JH	1046
+Kalthoff, Nathan        	Albany (M)              	M	7	B-JH	1047
+Kauder, John            	Albany (M)              	M	2	B-JV	1048
+Kirchner, Jason         	Albany (M)              	M	8	B-JH	1049
+Kulzer, Hayden          	Albany (M)              	M	10	B-V	1050
+McGuinnes, Biagio       	Albany (M)              	M	7	B-JH	1051
+Pundsack, Austin        	Albany (M)              	M	7	B-JH	1052
+Scherping, Andrew       	Albany (M)              	M	12	B-V	1053
+Scherping, Sam          	Albany (M)              	M	10	B-JV	1054
+Schirmers, Mitchell     	Albany (M)              	M	12	B-JV	1055
+Schmitt, Luke           	Albany (M)              	M	10	B-JV	1056
+Schrubbe, Damien        	Albany (M)              	M	8	B-JH	1057
+Schwinghamer, Kyle      	Albany (M)              	M	10	B-JV	1058
+Shay, Wyatt             	Albany (M)              	M	8	B-JH	1059
+Sonnenberg, Luke        	Albany (M)              	M	8	B-JH	1060
+Tamm, Nathan            	Albany (M)              	M	9	B-JV	1061
+Thesing, Gage           	Albany (M)              	M	8	B-JH	1062
+Waletzko, Lucas         	Albany (M)              	M	12	B-V	1063
+Weiss, Eli              	Albany (M)              	M	9	B-V	1064
+Benda, Haley            	Becker (F)              	F	10	G-JV	1065
+Bengston, Julia         	Becker (F)              	F	7	G-V	1066
+Chonsky, Caylah         	Becker (F)              	F	9	G-JV	1067
+Dehmer, Lexi            	Becker (F)              	F	8	G-V	1068
+Doucette, Callie        	Becker (F)              	F	8	G-JV	1069
+Edling, Bryanna         	Becker (F)              	F	9	G-JV	1070
+Garding, Alli           	Becker (F)              	F	9	G-V	1071
+Hendrickson, Allison    	Becker (F)              	F	10	G-V	1072
+Imm, Gabrielle          	Becker (F)              	F	9	G-JV	1073
+Knick, Siera            	Becker (F)              	F	12	G-JV	1074
+Kolbinger, Victoria     	Becker (F)              	F	9	G-V	1075
+Kowalsky, Karly         	Becker (F)              	F	9	G-JV	1076
+Kraus, Jaden            	Becker (F)              	F	7	G-JH	1077
+Lawrence, Deedra        	Becker (F)              	F	11	G-JV	1078
+Loken, Allie            	Becker (F)              	F	8	G-JH	1079
+Mateyka, Olivia         	Becker (F)              	F	8	G-JH	1080
+McDonald, Madison       	Becker (F)              	F	7	G-JV	1081
+Nelson, Abigail         	Becker (F)              	F	7	G-JH	1082
+Olson-bur, Trinity      	Becker (F)              	F	7	G-JH	1083
+Pancoast, Anna          	Becker (F)              	F	7	G-JH	1084
+Pancoast, Laura         	Becker (F)              	F	9	G-JV	1085
+Paumen, Cayla           	Becker (F)              	F	8	G-JV	1086
+Potter, Faith           	Becker (F)              	F	7	G-JH	1087
+Rositas, Jada           	Becker (F)              	F	11	G-V	1088
+Sand, Jessica           	Becker (F)              	F	10	G-JV	1089
+Schwartz, Ellie         	Becker (F)              	F	10	G-JV	1090
+Spinner, Tate           	Becker (F)              	F	9	G-JV	1091
+Stommes, Sydney         	Becker (F)              	F	9	G-V	1092
+Storms, Allyna          	Becker (F)              	F	11	G-JV	1093
+Sydow, Shannon          	Becker (F)              	F	12	G-JV	1094
+Thielen, Alyssa         	Becker (F)              	F	11	G-JV	1095
+Tripp, Renee            	Becker (F)              	F	10	G-JV	1096
+Westin, Kayden          	Becker (F)              	F	10	G-JV	1097
+Wilhelm, Grace          	Becker (F)              	F	8	G-JH	1098
+ Lahr, Lachlan          	Becker (M)              	M	10	B-JV	1099
+ Parson, Erik           	Becker (M)              	M	10	B-JV	1100
+Baker, Ethan            	Becker (M)              	M	8	B-JH	1101
+Budd, Jack              	Becker (M)              	M	7	B-JH	1102
+Edling, Bennett         	Becker (M)              	M	7	B-JV	1103
+Foster, Caleb           	Becker (M)              	M	12	B-V	1104
+Gregory, Aaron          	Becker (M)              	M	8	B-JH	1105
+Hiltner, Wyatt          	Becker (M)              	M	7	B-JH	1106
+Hines, Jimmy            	Becker (M)              	M	8	B-JH	1107
+Johnson, Adrian         	Becker (M)              	M	8	B-JH	1108
+Lahr, Logan             	Becker (M)              	M	12	B-JV	1109
+Myres, David            	Becker (M)              	M	8	B-JV	1110
+Nelson, Jake            	Becker (M)              	M	8	B-JH	1111
+Novak, Jonathan         	Becker (M)              	M	10	B-V	1112
+Pancoast, Olsen         	Becker (M)              	M	12	B-V	1113
+Pappenfus, Luke         	Becker (M)              	M	10	B-V	1114
+Parson, Brett           	Becker (M)              	M	12	B-JV	1115
+Potter, Brendan         	Becker (M)              	M	9	B-JV	1116
+Ricker, Basil           	Becker (M)              	M	9	B-V	1117
+Soenneker, Blake        	Becker (M)              	M	8	B-JH	1118
+Somrock, Sam            	Becker (M)              	M	12	B-V	1119
+Sorensen, Keith         	Becker (M)              	M	12	B-V	1120
+Stommes, Cade           	Becker (M)              	M	7	B-JH	1121
+Bastian, Nicole         	Foley (F)               	F	9	G-V	1122
+Batty, Hannah           	Foley (F)               	F	10	G-JV	1123
+Braun, Megan            	Foley (F)               	F	9	G-V	1124
+Efterfield, Paige       	Foley (F)               	F	11	G-JV	1125
+Falk, Emily             	Foley (F)               	F	10	G-V	1126
+Keller, Hannah          	Foley (F)               	F	7	G-JH	1127
+Kwon, Jisu              	Foley (F)               	F	10	G-JV	1128
+Manderfeld, Ellie       	Foley (F)               	F	12	G-V	1129
+Marquard, Audra         	Foley (F)               	F	10	G-JV	1130
+Rasmusson, Katrina      	Foley (F)               	F	11	G-V	1131
+Ratka, Aubrey           	Foley (F)               	F	7	G-JH	1132
+Rau, Lanie              	Foley (F)               	F	7	G-JH	1133
+Simon, Rachel           	Foley (F)               	F	10	G-V	1134
+Allie, Chris            	Foley (M)               	M	7	B-JH	1135
+Bastian, Joe            	Foley (M)               	M	12	B-V	1136
+Chmielewski, Blake      	Foley (M)               	M	9	B-JV	1137
+Dumonceaux, Patrick     	Foley (M)               	M	11	B-JV	1138
+Hutchins, Jacob         	Foley (M)               	M	11	B-JV	1139
+Ironi, Devin            	Foley (M)               	M	8	B-JH	1140
+Jochum, Nich            	Foley (M)               	M	7	B-JH	1141
+Lindberg, Evan          	Foley (M)               	M	7	B-JH	1142
+Metzger, Ezra           	Foley (M)               	M	7	B-JH	1143
+Metzger, Kyle           	Foley (M)               	M	12	B-V	1144
+Monnier, Terrel         	Foley (M)               	M	12	B-JV	1145
+Morris, Sam             	Foley (M)               	M	10	B-JV	1146
+Novak, Isaiah           	Foley (M)               	M	8	B-JH	1147
+Olson, Connor           	Foley (M)               	M	8	B-JH	1148
+Pflipsen, Jared         	Foley (M)               	M	11	B-V	1149
+Ranweiler, Steven       	Foley (M)               	M	11	B-V	1150
+Rasmusson, Jackson      	Foley (M)               	M	9	B-V	1151
+Rau, Evan               	Foley (M)               	M	11	B-JV	1152
+Rhonemus, Wade          	Foley (M)               	M	9	B-JV	1153
+Rudnitski, Nick         	Foley (M)               	M	11	B-JV	1154
+Scott, Austin           	Foley (M)               	M	8	B-JH	1155
+Storkamp, Drew          	Foley (M)               	M	9	B-V	1156
+Swansom, Joe            	Foley (M)               	M	7	B-JH	1157
+Swanson, Jack           	Foley (M)               	M	10	B-V	1158
+Thole, Matt             	Foley (M)               	M	10	B-JV	1159
+Allen, Nicole           	Milaca (F)              	F	9	G-V	1160
+Bolt, Emma              	Milaca (F)              	F	11	G-V	1161
+Burns, Emma             	Milaca (F)              	F	10	G-JV	1162
+Danilyuk, Elizabeth     	Milaca (F)              	F	8	G-JH	1163
+Eggen, Brooklyn         	Milaca (F)              	F	9	G-JV	1164
+Erickson, Cherramae     	Milaca (F)              	F	9	G-V	1165
+Fordyce, Lizzy          	Milaca (F)              	F	12	G-V	1166
+Hansen, Brittany        	Milaca (F)              	F	7	G-JH	1167
+Katke, Kalysta          	Milaca (F)              	F	11	G-JV	1168
+Knapp, Joelle           	Milaca (F)              	F	10	G-V	1169
+Peterson, Nicole        	Milaca (F)              	F	12	G-JV	1170
+Ploeger, Jerica         	Milaca (F)              	F	9	G-V	1171
+Baker, Joe              	Milaca (M)              	M	10	B-JV	1172
+Bolt, Sam               	Milaca (M)              	M	9	B-V	1173
+Erickson, Anton         	Milaca (M)              	M	7	B-JH	1174
+Garber, Mitch           	Milaca (M)              	M	11	B-V	1175
+Hall, Garrett           	Milaca (M)              	M	8	B-JH	1176
+Hall, Jon               	Milaca (M)              	M	10	B-V	1177
+Hockert, Josh           	Milaca (M)              	M	9	B-V	1178
+Hultman, Hayden         	Milaca (M)              	M	8	B-JH	1179
+Hussman, Brett          	Milaca (M)              	M	11	B-V	1180
+James, Alec             	Milaca (M)              	M	8	B-JH	1181
+Lerud, Sash             	Milaca (M)              	M	7	B-JH	1182
+Patten, Zach            	Milaca (M)              	M	11	B-V	1183
+Paulson, Brandon        	Milaca (M)              	M	10	B-JV	1184
+Petty, Gabe             	Milaca (M)              	M	11	B-JV	1185
+Petty, Jack             	Milaca (M)              	M	7	B-JH	1186
+Petty, Sam              	Milaca (M)              	M	11	B-V	1187
+Roehl, Joe              	Milaca (M)              	M	10	B-JV	1188
+Smith, Dominick         	Milaca (M)              	M	8	B-JH	1189
+Strohmayer, Dan         	Milaca (M)              	M	12	B-JV	1190
+Anderson, Rachel        	Mora (F)                	F	9	G-V	1191
+Bakke, Ariel            	Mora (F)                	F	9	G-JV	1192
+Bohachek, Emalie        	Mora (F)                	F	8	G-JH	1193
+Bohnen, Ella            	Mora (F)                	F	9	G-JV	1194
+Brackenbury, Stephanie  	Mora (F)                	F	12	G-JV	1195
+Curtis, Makayla         	Mora (F)                	F	12	G-JV	1196
+Dopp, Tessla            	Mora (F)                	F	10	G-JV	1197
+Folkema, Emma           	Mora (F)                	F	7	G-JH	1198
+Hawkins, Addison        	Mora (F)                	F	9	G-JV	1199
+Hyland-Lucking, Hunter  	Mora (F)                	F	11	G-JV	1200
+Koch, Cheyenne          	Mora (F)                	F	7	G-JH	1201
+Limanen, Lauren         	Mora (F)                	F	8	G-JH	1202
+Mackie, Abigail         	Mora (F)                	F	9	G-JV	1203
+Mackie, Brigit          	Mora (F)                	F	7	G-JH	1204
+Moravec, Olivia         	Mora (F)                	F	7	G-JH	1205
+Obert, Mikaela          	Mora (F)                	F	11	G-V	1206
+Onasch, Ariella         	Mora (F)                	F	7	G-JH	1207
+Pegg, Catie             	Mora (F)                	F	10	G-JV	1208
+Peterson, Lily          	Mora (F)                	F	8	G-V	1209
+Peterson, Sadie         	Mora (F)                	F	12	G-V	1210
+Reeves, Ellie           	Mora (F)                	F	7	G-JH	1211
+Schwinghamer, Johanna   	Mora (F)                	F	8	G-V	1212
+Thielen, Hailey         	Mora (F)                	F	10	G-V	1213
+Wedin, Brook            	Mora (F)                	F	11	G-V	1214
+Weinrich, Anna          	Mora (F)                	F	8	G-JH	1215
+Weisz, Karli            	Mora (F)                	F	12	G-JV	1216
+Wolff, Mascha           	Mora (F)                	F	11	G-JV	1217
+Anderson, Trevor        	Mora (M)                	M	10	B-JV	1218
+Balmer, Isaac           	Mora (M)                	M	9	B-JV	1219
+Bohachek, Robert        	Mora (M)                	M	7	B-JH	1220
+Buckingham, Dylan       	Mora (M)                	M	8	B-JH	1221
+Ergen, Matt             	Mora (M)                	M	11	B-V	1222
+Fluegge, Bohdi          	Mora (M)                	M	8	B-JH	1223
+Garza, Zach             	Mora (M)                	M	10	B-V	1224
+Gravening, Zander       	Mora (M)                	M	7	B-JH	1225
+Greenberg, Jared        	Mora (M)                	M	11	B-JV	1226
+Halverson, Dane         	Mora (M)                	M	7	B-JH	1227
+Halvorsen, Kaden        	Mora (M)                	M	9	B-JV	1228
+Helmbrecht, Max         	Mora (M)                	M	10	B-JV	1229
+Hippen, Nick            	Mora (M)                	M	9	B-JV	1230
+Honstrom, Hunter        	Mora (M)                	M	8	B-JH	1231
+Johnson, Jacob          	Mora (M)                	M	7	B-JH	1232
+Krueger, Wil            	Mora (M)                	M	9	B-JV	1233
+Lennox, Cooper          	Mora (M)                	M	8	B-JV	1234
+Lennox, Jackson         	Mora (M)                	M	11	B-JV	1235
+Moravec, Noah           	Mora (M)                	M	12	B-V	1236
+Nord, Gabe              	Mora (M)                	M	11	B-JV	1237
+Okroi, Brandon          	Mora (M)                	M	10	B-JV	1238
+Oslin, Chase            	Mora (M)                	M	10	B-JV	1239
+Oslin, Cole             	Mora (M)                	M	12	B-V	1240
+Rawls, Josh             	Mora (M)                	M	7	B-JH	1241
+Reeves, Andrew          	Mora (M)                	M	11	B-JV	1242
+Richert, Jon            	Mora (M)                	M	7	B-JH	1243
+Sampson, Jack           	Mora (M)                	M	7	B-JH	1244
+Sanbeck, Alec           	Mora (M)                	M	11	B-V	1245
+Schroeder, Tommy        	Mora (M)                	M	7	B-JH	1246
+Schwinghamer, John      	Mora (M)                	M	11	B-V	1247
+Schwinghamer, Michael   	Mora (M)                	M	11	B-V	1248
+Smart, Kaden            	Mora (M)                	M	9	B-JV	1249
+Telander, Austin        	Mora (M)                	M	10	B-JV	1250
+Weinand, Caleb          	Mora (M)                	M	11	B-JV	1251
+Weinand, Noah           	Mora (M)                	M	9	B-JV	1252
+Williams, Nathan        	Mora (M)                	M	9	B-JV	1253
+Woods, Jordan           	Mora (M)                	M	10	B-JV	1254
+Zimmer, Justin          	Mora (M)                	M	8	B-JH	1255
+Andres, Brenna          	Pierz (F)               	F	8	G-V	1256
+Dickmann, Brenna        	Pierz (F)               	F	6	G-JH	1257
+Dickmann, Erika         	Pierz (F)               	F	7	G-JH	1258
+Gall, Allyssa           	Pierz (F)               	F	6	G-JH	1259
+Girtz, Megan            	Pierz (F)               	F	6	G-JH	1260
+Hebler, Kierra          	Pierz (F)               	F	6	G-JH	1261
+Marshik, Grace          	Pierz (F)               	F	8	G-V	1262
+Mattison, Katie         	Pierz (F)               	F	8	G-JH	1263
+Schaefer, Katie         	Pierz (F)               	F	8	G-JH	1264
+Swenson, Cloey          	Pierz (F)               	F	6	G-JH	1265
+Talberg, Madison        	Pierz (F)               	F	6	G-JH	1266
+Winscher, Sam           	Pierz (F)               	F	10	G-V	1267
+Andres, Cole            	Pierz (M)               	M	8	B-V	1268
+Andres, Jake            	Pierz (M)               	M	9	B-V	1269
+Dieterle, Drew          	Pierz (M)               	M	10	B-V	1270
+Foust, Chris            	Pierz (M)               	M	6	B-JH	1271
+Gottwalt, Alex          	Pierz (M)               	M	8	B-V	1272
+Hennen, Jaden           	Pierz (M)               	M	8	B-V	1273
+Heschke, William        	Pierz (M)               	M	7	B-JH	1274
+Janson, Matt            	Pierz (M)               	M	12	B-V	1275
+Pawlu, Bradley          	Pierz (M)               	M	7	B-JH	1276
+Pekar, Charles          	Pierz (M)               	M	8	B-JH	1277
+Bombard, Sarah          	Pine City (F)           	F	8	G-JH	1278
+Cavallin, Allison       	Pine City (F)           	F	7	G-JH	1279
+Grubbs, Grace           	Pine City (F)           	F	8	G-JV	1280
+Haug, Abbey             	Pine City (F)           	F	10	G-JV	1281
+Irlbeck, Karly          	Pine City (F)           	F	9	G-JV	1282
+Johnson, Ellaina        	Pine City (F)           	F	7	G-JH	1283
+Johnson, Janae          	Pine City (F)           	F	10	G-JV	1284
+Peters, Nicole          	Pine City (F)           	F	10	G-JV	1285
+Rockstroh, Summer       	Pine City (F)           	F	10	G-JV	1286
+Thieman, Aaleaha        	Pine City (F)           	F	8	G-JH	1287
+Thieman, Alexis         	Pine City (F)           	F	9	G-JV	1288
+Tyberg, Elly            	Pine City (F)           	F	7	G-JH	1289
+Adams, Jake             	Pine City (M)           	M	9	B-JV	1290
+Blake, Ryan             	Pine City (M)           	M	11	B-JV	1291
+Bombard, Brayden        	Pine City (M)           	M	7	B-JH	1292
+Clementson, Derek       	Pine City (M)           	M	8	B-JH	1293
+Dieckmann, Nathan       	Pine City (M)           	M	10	B-JV	1294
+Eckert, Austin          	Pine City (M)           	M	8	B-JH	1295
+Foster, Casey           	Pine City (M)           	M	10	B-JV	1296
+Graves, Max             	Pine City (M)           	M	10	B-JV	1297
+Grubbs, Eli             	Pine City (M)           	M	11	B-V	1298
+Hunter, Beau            	Pine City (M)           	M	12	B-JV	1299
+Kleppe, Nathan          	Pine City (M)           	M	10	B-JV	1300
+Leibel, Ethan           	Pine City (M)           	M	11	B-JV	1301
+Lind, Koleman           	Pine City (M)           	M	8	B-JH	1302
+Long, Matthew           	Pine City (M)           	M	8	B-JH	1303
+Merrick, Jacob          	Pine City (M)           	M	8	B-JH	1304
+Miller, Noah            	Pine City (M)           	M	8	B-JV	1305
+Rademacher, Jake        	Pine City (M)           	M	10	B-JV	1306
+Rank, TJ                	Pine City (M)           	M	9	B-JV	1307
+Rike, Josh              	Pine City (M)           	M	8	B-JH	1308
+Root, Joseph            	Pine City (M)           	M	10	B-JV	1309
+Saunders, Sam           	Pine City (M)           	M	11	B-JV	1310
+Stolp, Justin           	Pine City (M)           	M	9	B-JV	1311
+Stolp, Nick             	Pine City (M)           	M	11	B-JV	1312
+Struss, Lukas           	Pine City (M)           	M	7	B-JH	1313
+Webster, Nate           	Pine City (M)           	M	8	B-JH	1314
+Wiechman, Ethean        	Pine City (M)           	M	7	B-JH	1315
+Alickson, Katie         	Princeton (F)           	F	9	G-JV	1316
+Alickson, Kristen       	Princeton (F)           	F	10	G-JV	1317
+Bastian, Kassie         	Princeton (F)           	F	8	G-JH	1318
+Bialka, Mckenzie        	Princeton (F)           	F	8	G-JH	1319
+Duscher, Lexi           	Princeton (F)           	F	8	G-JH	1320
+Jung, Madison           	Princeton (F)           	F	10	G-V	1321
+Kittock, Lauryn         	Princeton (F)           	F	8	G-JH	1322
+Kruschek, Emily         	Princeton (F)           	F	12	G-V	1323
+Langenfeld, Katie       	Princeton (F)           	F	9	G-JV	1324
+McGowan, Tracy          	Princeton (F)           	F	8	G-JH	1325
+Meixell, Ahna           	Princeton (F)           	F	10	G-JV	1326
+Opay, Lily              	Princeton (F)           	F	8	G-JH	1327
+Schafer, Madyson        	Princeton (F)           	F	9	G-V	1328
+Swedzinski, Samantha    	Princeton (F)           	F	11	G-V	1329
+Bell, Noah              	Princeton (M)           	M	10	B-JV	1330
+Carlberg, Parker        	Princeton (M)           	M	10	B-V	1331
+Katzke, Gabe            	Princeton (M)           	M	10	B-V	1332
+Luark, Jacob            	Princeton (M)           	M	7	B-JH	1333
+Nelson, Clay            	Princeton (M)           	M	10	B-V	1334
+Russell, Nathanael      	Princeton (M)           	M	9	B-V	1335
+Wold, Anders            	Princeton (M)           	M	10	B-V	1336
+Anderson, Josie         	St Cloud Cathedral (F)  	F	12	G-V	1337
+Athmann, Kaylee         	St Cloud Cathedral (F)  	F	10	G-JV	1338
+Boever, Makenna         	St Cloud Cathedral (F)  	F	8	G-JH	1339
+Dorn, Victoria          	St Cloud Cathedral (F)  	F	10	G-JV	1340
+Dvoracek, Clare         	St Cloud Cathedral (F)  	F	8	G-JV	1341
+Dvoracek, Sarah         	St Cloud Cathedral (F)  	F	10	G-JV	1342
+Eickhoff, Maija         	St Cloud Cathedral (F)  	F	11	G-JV	1343
+Esplana, Marjorie       	St Cloud Cathedral (F)  	F	8	G-JH	1344
+Fromelt, Andrea         	St Cloud Cathedral (F)  	F	9	G-V	1345
+Hagen, Claire           	St Cloud Cathedral (F)  	F	8	G-JH	1346
+Jacobson, Tess          	St Cloud Cathedral (F)  	F	10	G-JV	1347
+Mahler, Sydney          	St Cloud Cathedral (F)  	F	11	G-V	1348
+McCarty, Clare          	St Cloud Cathedral (F)  	F	12	G-JV	1349
+Merchlewicz, Nicole     	St Cloud Cathedral (F)  	F	12	G-JV	1350
+O'Donnell, Maggie       	St Cloud Cathedral (F)  	F	9	G-JH	1351
+Pfannenstein, Hannah    	St Cloud Cathedral (F)  	F	11	G-JV	1352
+Schoenecker, Celene     	St Cloud Cathedral (F)  	F	9	G-JH	1353
+Schwieters, Brooke      	St Cloud Cathedral (F)  	F	9	G-JH	1354
+Sia Su, Allie           	St Cloud Cathedral (F)  	F	10	G-V	1355
+Soto Verera, Clara      	St Cloud Cathedral (F)  	F	10	G-JV	1356
+Steinessen, Morgan      	St Cloud Cathedral (F)  	F	11	G-JV	1357
+Weinreis, Ava           	St Cloud Cathedral (F)  	F	7	G-JH	1358
+Weinreis, Emily         	St Cloud Cathedral (F)  	F	9	G-JH	1359
+Weldon, Hannah          	St Cloud Cathedral (F)  	F	9	G-JH	1360
+Windfeldt, Allison      	St Cloud Cathedral (F)  	F	8	G-JH	1361
+Wintheiser, Rachel      	St Cloud Cathedral (F)  	F	10	G-V	1362
+Witte, Kylie            	St Cloud Cathedral (F)  	F	11	G-V	1363
+Zack, Madalyn           	St Cloud Cathedral (F)  	F	9	G-JH	1364
+Zimmer, Katelyn         	St Cloud Cathedral (F)  	F	9	G-JH	1365
+Bouley, Cheresa         	Zimmerman (F)           	F	9	G-V	1366
+Kerzman, Grace          	Zimmerman (F)           	F	10	G-V	1367
+Koch, Alyssa            	Zimmerman (F)           	F	8	G-JH	1368
+Olinger, Emily          	Zimmerman (F)           	F	9	G-V	1369
+Peoples, Summer         	Zimmerman (F)           	F	12	G-V	1370
+Smith, Sophia           	Zimmerman (F)           	F	7	G-JH	1371
+Tufto, Kelsie           	Zimmerman (F)           	F	11	G-V	1372
+Wehmeyer, Kaitlyn       	Zimmerman (F)           	F	7	G-JH	1373
+Coons, Aaron            	Zimmerman (M)           	M	8	B-V	1374
+Firkus, Jack            	Zimmerman (M)           	M	7	B-JH	1375
+Gagne, Connor           	Zimmerman (M)           	M	12	B-V	1376
+Gagne, Jacob            	Zimmerman (M)           	M	10	B-V	1377
+Garcia, Todd            	Zimmerman (M)           	M	8	B-JH	1378
+Karens, Alex            	Zimmerman (M)           	M	11	B-V	1379
+Koch, Aaron             	Zimmerman (M)           	M	10	B-V	1380
+Opsahl, Jordan          	Zimmerman (M)           	M	8	B-JH	1381
+Pramann, Wyatt          	Zimmerman (M)           	M	11	B-V	1382
+Wells, Christian        	Zimmerman (M)           	M	7	B-JH	1383

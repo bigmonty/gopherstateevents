@@ -1,0 +1,626 @@
+BIB LIST FOR MONTICELLO INVITATIONAL-2011
+Generated: 9/7/2011 4:57:09 PM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Alama, Colleen          	Annandale (F)           	F	12	G-JV	1
+Alama, Courtney         	Annandale (F)           	F	10	G-V	2
+Alama, Taylor           	Annandale (F)           	F	12	G-V	3
+Bigalk, Kartina         	Annandale (F)           	F	9	G-JV	4
+Chapman, Marina         	Annandale (F)           	F	9	G-V	5
+Ekholm, Mavis           	Annandale (F)           	F	9	G-JV	6
+Ekholm, McKenna         	Annandale (F)           	F	10	G-JV	7
+Flemming, Kristin       	Annandale (F)           	F	9	G-JV	8
+Froehlich, Celeste      	Annandale (F)           	F	7	G-JH	9
+Garmon, Michelle        	Annandale (F)           	F	10	G-JV	10
+Gilbertson, Katelyn     	Annandale (F)           	F	10	G-JV	11
+Grambart, Shanna        	Annandale (F)           	F	10	G-V	12
+Grossinger, Sapphire    	Annandale (F)           	F	8	G-JH	13
+Hagstrom, Claire        	Annandale (F)           	F	7	G-JH	14
+Heidebrink, Ellie       	Annandale (F)           	F	7	G-JH	15
+Hesch, Emma             	Annandale (F)           	F	8	G-JH	16
+Johnson, Katelyn        	Annandale (F)           	F	8	G-JH	17
+Kasper, Samantha        	Annandale (F)           	F	12	G-JV	18
+Loch, Jenna             	Annandale (F)           	F	9	G-JV	19
+Massmann, Julia         	Annandale (F)           	F	7	G-JH	20
+Miller, Rachael         	Annandale (F)           	F	12	G-JV	21
+Miller, Sharna          	Annandale (F)           	F	10	G-JV	22
+Paumen, Andrea          	Annandale (F)           	F	12	G-JV	23
+Provo, Kayla            	Annandale (F)           	F	12	G-V	24
+Quandt, Emily           	Annandale (F)           	F	8	G-V	25
+Schlafke, Elizabeth     	Annandale (F)           	F	8	G-V	26
+Weis, Mackenzie         	Annandale (F)           	F	8	G-JH	27
+Bowman, Dylan           	Annandale  (M)          	M	10	B-JV	28
+Braun, Jeffrey          	Annandale  (M)          	M	7	B-JH	29
+Burns, Kasey            	Annandale  (M)          	M	10	B-JV	30
+Casey, Mike             	Annandale  (M)          	M	12	B-JV	31
+Diers, Carter           	Annandale  (M)          	M	9	B-JV	32
+Diers, Jordan           	Annandale  (M)          	M	9	B-JV	33
+Flemming, Zach          	Annandale  (M)          	M	12	B-JV	34
+Fliegel, Matt           	Annandale  (M)          	M	10	B-V	35
+Gilbertson, Eric        	Annandale  (M)          	M	10	B-JV	36
+Gjevre, Carter          	Annandale  (M)          	M	12	B-V	37
+Hoien, David            	Annandale  (M)          	M	11	B-V	38
+Johannes, Alex          	Annandale  (M)          	M	11	B-JV	39
+Kasper, Jamie           	Annandale  (M)          	M	8	B-JH	40
+Kleine, Darius          	Annandale  (M)          	M	7	B-JH	41
+Knickerbocker, Chase    	Annandale  (M)          	M	9	B-JV	42
+Lewison, Blake          	Annandale  (M)          	M	7	B-JH	43
+Magrum, Connor          	Annandale  (M)          	M	7	B-JH	44
+Morningstar, Alex       	Annandale  (M)          	M	10	B-V	45
+Neuenschwander, Clayton 	Annandale  (M)          	M	9	B-V	46
+Olsen, Matt             	Annandale  (M)          	M	12	B-JV	47
+Paumen, Erik            	Annandale  (M)          	M	10	B-JV	48
+Paumen, Evan            	Annandale  (M)          	M	7	B-JH	49
+Thomsen, Noah           	Annandale  (M)          	M	7	B-JH	50
+Wendt, Clint            	Annandale  (M)          	M	12	B-V	51
+Yanta, Chris            	Annandale  (M)          	M	11	B-JV	52
+Zabinski, Schuyler      	Annandale  (M)          	M	12	B-JV	53
+Zabinski, Shane         	Annandale  (M)          	M	9	B-V	54
+Asp, Annie              	Anoka (F)               	F	11	G-V	55
+Bertzyk, Jewel          	Anoka (F)               	F	12	G-JV	56
+Boyles, Kate            	Anoka (F)               	F	12	G-V	57
+Brezinka, Iasabella     	Anoka (F)               	F	7	G-JH	58
+Cross, Alysa            	Anoka (F)               	F	11	G-JV	59
+Ctvrtnik, Marissa       	Anoka (F)               	F	11	G-V	60
+Fritz, Alexis           	Anoka (F)               	F	10	G-V	61
+Fritz, Katelyn          	Anoka (F)               	F	12	G-V	62
+Gast, Lindsey           	Anoka (F)               	F	10	G-V	63
+Guimont, Gabbi          	Anoka (F)               	F	11	G-V	64
+Johnston, Madeline      	Anoka (F)               	F	7	G-JH	65
+Maki, Bri               	Anoka (F)               	F	11	G-JV	66
+Manke, Kalie            	Anoka (F)               	F	10	G-JV	67
+Nelson, Shaina          	Anoka (F)               	F	11	G-JV	68
+Payeur, Chelsea         	Anoka (F)               	F	11	G-JV	69
+Picha, Megan            	Anoka (F)               	F	11	G-JV	70
+Putnam, Haley           	Anoka (F)               	F	12	G-JV	71
+Quist, Emily            	Anoka (F)               	F	8	G-JH	72
+Roo, Mareesa            	Anoka (F)               	F	11	G-JV	73
+Skaalerud, Abigail      	Anoka (F)               	F	9	G-JV	74
+Steffens, Emma          	Anoka (F)               	F	8	G-JH	75
+Stevens, Alexandra      	Anoka (F)               	F	12	G-JV	76
+Thieschafer, Shawna     	Anoka (F)               	F	11	G-JV	77
+Ubl, Elle               	Anoka (F)               	F	11	G-JV	78
+Wilcox, Shelby          	Anoka (F)               	F	11	G-JV	79
+Barstow, Jeff           	Anoka (M)               	M	10	B-V	80
+Bell, Anders            	Anoka (M)               	M	12	B-JV	81
+Benz, Scott             	Anoka (M)               	M	10	B-JV	82
+Bianchi-Rossi, Gino     	Anoka (M)               	M	12	B-JV	83
+Bloch, Austin           	Anoka (M)               	M	11	B-JV	84
+Crooker, Zach           	Anoka (M)               	M	12	B-JV	85
+Czech, Logan            	Anoka (M)               	M	12	B-V	86
+Doppler, Connor         	Anoka (M)               	M	12	B-V	87
+Gast, Ken               	Anoka (M)               	M	9	B-JV	88
+Griffith, Nathan        	Anoka (M)               	M	8	B-JV	89
+Hagerty, Thomas         	Anoka (M)               	M	11	B-V	90
+Hedin, Michael          	Anoka (M)               	M	11	B-JV	91
+Herrala, Jeff           	Anoka (M)               	M	12	B-V	92
+Johnson, Adam           	Anoka (M)               	M	12	B-JV	93
+Kraemer, Brian          	Anoka (M)               	M	10	B-JV	94
+Kutina, Christian       	Anoka (M)               	M	12	B-V	95
+Marks, Jacob            	Anoka (M)               	M	12	B-JV	96
+Matson, Cole            	Anoka (M)               	M	10	B-JV	97
+McArdle, Tanner         	Anoka (M)               	M	11	B-JV	98
+Mecl, Cory              	Anoka (M)               	M	10	B-JV	99
+Powers, Justin          	Anoka (M)               	M	10	B-JV	100
+Redepenning, Harrison   	Anoka (M)               	M	8	B-JH	101
+Roo, Shawn              	Anoka (M)               	M	9	B-JV	102
+Schuh, Zach             	Anoka (M)               	M	10	B-JV	103
+Sherman, Matt           	Anoka (M)               	M	12	B-JV	104
+Simon, Alex             	Anoka (M)               	M	12	B-JV	105
+Simon, Kevin            	Anoka (M)               	M	10	B-JV	106
+Tanner, Christian       	Anoka (M)               	M	10	B-JV	107
+Virvone, Judah          	Anoka (M)               	M	7	B-JH	108
+Wesp, Patrick           	Anoka (M)               	M	10	B-JV	109
+White, Aaron            	Anoka (M)               	M	12	B-V	110
+Williams, Cole          	Anoka (M)               	M	8	B-JH	111
+Egdorf, Rayna           	Becker (F)              	F	9	G-JV	112
+Gretsch, Katie          	Becker (F)              	F	11	G-V	113
+Gudmundson, Erika       	Becker (F)              	F	12	G-JV	114
+Kealy, Madison          	Becker (F)              	F	10	G-V	115
+Knick, Siera            	Becker (F)              	F	8	G-JH	116
+Mastey, Sydney          	Becker (F)              	F	9	G-V	117
+Reichel, Ashlee         	Becker (F)              	F	10	G-V	118
+Reisem, Lauren          	Becker (F)              	F	10	G-V	119
+Rositas, Jada           	Becker (F)              	F	7	G-JH	120
+Sydow, Shannon          	Becker (F)              	F	8	G-JH	121
+Tripp, Roseanne         	Becker (F)              	F	12	G-V	122
+Wilkening, Jena         	Becker (F)              	F	9	G-JV	123
+Foster, Caleb           	Becker (M)              	M	8	B-JH	124
+House, Kyle             	Becker (M)              	M	9	B-JV	125
+Johnson, Andy           	Becker (M)              	M	9	B-JV	126
+Kealy, John             	Becker (M)              	M	12	B-JV	127
+Kerzman, Zach           	Becker (M)              	M	10	B-JV	128
+Kirchner, Sam           	Becker (M)              	M	9	B-JV	129
+Lahr, Luke              	Becker (M)              	M	9	B-JV	130
+McDowall, Alex          	Becker (M)              	M	12	B-JV	131
+Murphy, Josh            	Becker (M)              	M	10	B-JV	132
+Neidenfeuhr, Travis     	Becker (M)              	M	12	B-JV	133
+Novitsky, Austin        	Becker (M)              	M	11	B-JV	134
+Oys, John               	Becker (M)              	M	9	B-JV	135
+Parson, Brett           	Becker (M)              	M	8	B-JH	136
+Scepurek, Kaleb         	Becker (M)              	M	10	B-JV	137
+Sorensen, Keith         	Becker (M)              	M	8	B-JH	138
+Sydow, Nathan           	Becker (M)              	M	9	B-JV	139
+Ages, Ashley            	Big Lake (F)            	F	12	G-JV	140
+Allen, Michaela         	Big Lake (F)            	F	7	G-JH	141
+Crocker, Olivia         	Big Lake (F)            	F	10	G-V	142
+Gerdts, Sonja           	Big Lake (F)            	F	8	G-JH	143
+Graving, Allie          	Big Lake (F)            	F	12	G-JV	144
+Gunderson, Kalley       	Big Lake (F)            	F	9	G-JV	145
+Kinney, Erin            	Big Lake (F)            	F	9	G-JV	146
+Kisner, Laura           	Big Lake (F)            	F	9	G-V	147
+Kline, Shelby           	Big Lake (F)            	F	9	G-V	148
+Lastavich, Carli        	Big Lake (F)            	F	11	G-JV	149
+Morehead, Allison       	Big Lake (F)            	F	11	G-V	150
+Olson, Noelle           	Big Lake (F)            	F	11	G-V	151
+Olson, Rachel           	Big Lake (F)            	F	9	G-V	152
+Sorem, Kelsey           	Big Lake (F)            	F	12	G-V	153
+Zocolli, Shiloh         	Big Lake (F)            	F	8	G-JH	154
+Audette, Chris          	Big Lake (M)            	M	12	B-V	155
+Blasing, Connor         	Big Lake (M)            	M	12	B-V	156
+Block, Jacob            	Big Lake (M)            	M	9	B-V	157
+Carston, Kevin          	Big Lake (M)            	M	9	B-JV	158
+Clausing, Jackson       	Big Lake (M)            	M	8	B-JH	159
+Codden, Aaron           	Big Lake (M)            	M	11	B-JV	160
+Everly, Josh            	Big Lake (M)            	M	11	B-JV	161
+Fiskum, Jack            	Big Lake (M)            	M	9	B-JV	162
+Gease, Cory             	Big Lake (M)            	M	10	B-V	163
+Halvorson, Trevor       	Big Lake (M)            	M	12	B-JV	164
+Hughes, Xeian           	Big Lake (M)            	M	9	B-JV	165
+Karls, Logan            	Big Lake (M)            	M	8	B-JH	166
+Karolewski, Chase       	Big Lake (M)            	M	7	B-JH	167
+Liebl, Patrick          	Big Lake (M)            	M	9	B-JV	168
+McGarvey, Keon          	Big Lake (M)            	M	10	B-JV	169
+Moss, Caleb             	Big Lake (M)            	M	7	B-JH	170
+Olson, Peter            	Big Lake (M)            	M	11	B-V	171
+Poffenberger, Tim       	Big Lake (M)            	M	9	B-JV	172
+Prosser, Justin         	Big Lake (M)            	M	12	B-V	173
+Sanford, Alex           	Big Lake (M)            	M	8	B-JH	174
+Souther, Nathaniel      	Big Lake (M)            	M	9	B-V	175
+Wehmas, Ben             	Big Lake (M)            	M	10	B-JV	176
+Alexander, Rico         	Champlin Park (M)       	M	12	B-V	177
+Anderson, Josh          	Champlin Park (M)       	M	11	B-JV	178
+Bierker, Alec           	Champlin Park (M)       	M	10	B-JV	179
+Hillman, Jake           	Champlin Park (M)       	M	12	B-V	180
+Holm, Jacob             	Champlin Park (M)       	M	11	B-V	181
+Johnson, Brandon        	Champlin Park (M)       	M	12	B-V	182
+Johnson, Michael        	Champlin Park (M)       	M	11	B-JV	183
+Klopp, Jarrod           	Champlin Park (M)       	M	12	B-JV	184
+Nelson, Spencer         	Champlin Park (M)       	M	11	B-V	185
+Norman, Tim             	Champlin Park (M)       	M	11	B-JV	186
+Peterson, Izaak         	Champlin Park (M)       	M	11	B-JV	187
+Rodeback, Ryan          	Champlin Park (M)       	M	10	B-JV	188
+Sagmoe, Tanner          	Champlin Park (M)       	M	11	B-JV	189
+Sayles, Tyler           	Champlin Park (M)       	M	10	B-JV	190
+Seward, Michael         	Champlin Park (M)       	M	11	B-JV	191
+Simon, Peter            	Champlin Park (M)       	M	11	B-V	192
+Smoger, Logan           	Champlin Park (M)       	M	12	B-JV	193
+Trimble, Evan           	Champlin Park (M)       	M	11	B-JV	194
+Urvig, Andrew           	Champlin Park (M)       	M	11	B-JV	195
+VanVoorhis, Derek       	Champlin Park (M)       	M	10	B-JV	196
+Wachowiak, Derek        	Champlin Park (M)       	M	12	B-V	197
+Wattenhofer, Joey       	Champlin Park (M)       	M	11	B-JV	198
+Williamson, John        	Champlin Park (M)       	M	10	B-JV	199
+Wood, Evan              	Champlin Park (M)       	M	12	B-JV	200
+Alexander, Alexis       	Champlin Park (F)       	F	10	G-V	201
+Atkins, Anne            	Champlin Park (F)       	F	10	G-JV	202
+Baarson, Rachel         	Champlin Park (F)       	F	12	G-JV	203
+Goldsberry, Alex        	Champlin Park (F)       	F	9	G-V	204
+Heie, Maddie            	Champlin Park (F)       	F	11	G-JV	205
+Herron, Kathryn         	Champlin Park (F)       	F	12	G-JV	206
+Holman, Ashley          	Champlin Park (F)       	F	12	G-JV	207
+Johnson, Dani           	Champlin Park (F)       	F	8	G-JV	208
+Johnson, Megan          	Champlin Park (F)       	F	10	G-JV	209
+Jonason, Kelsey         	Champlin Park (F)       	F	9	G-JV	210
+Lorentzen, Hannah       	Champlin Park (F)       	F	11	G-JV	211
+Mattson, Karli          	Champlin Park (F)       	F	11	G-V	212
+Moore, Mckinley         	Champlin Park (F)       	F	12	G-V	213
+Novak, Katherine        	Champlin Park (F)       	F	9	G-V	214
+Ockluy, Gabby           	Champlin Park (F)       	F	11	G-JV	215
+Perry, Caitlyn          	Champlin Park (F)       	F	9	G-JV	216
+Riggenberg, Katy        	Champlin Park (F)       	F	10	G-JV	217
+Rorvick, Hannah         	Champlin Park (F)       	F	10	G-JV	218
+Schmitz, Anna           	Champlin Park (F)       	F	11	G-JV	219
+Schuman, Karly          	Champlin Park (F)       	F	12	G-JV	220
+Skoglund, Natalie       	Champlin Park (F)       	F	12	G-JV	221
+Smith, Kendra           	Champlin Park (F)       	F	12	G-JV	222
+Soli, Cassidy           	Champlin Park (F)       	F	11	G-V	223
+Soli, Somer             	Champlin Park (F)       	F	11	G-JV	224
+Stifter, Emma           	Champlin Park (F)       	F	12	G-JV	225
+Trescony, Maria         	Champlin Park (F)       	F	12	G-V	226
+Wald, Shannon           	Champlin Park (F)       	F	10	G-JV	227
+Weber, Michelle         	Champlin Park (F)       	F	12	G-JV	228
+Weimerskirch, Kelsey    	Champlin Park (F)       	F	12	G-JV	229
+Barberg, Adrienne       	Cooper (F)              	F	10	G-JV	230
+Belden, Sara            	Cooper (F)              	F	8	G-JV	231
+Bowden, Katie           	Cooper (F)              	F	12	G-V	232
+Crofoot, Kelsey         	Cooper (F)              	F	12	G-V	233
+Evans, Ellie            	Cooper (F)              	F	11	G-V	234
+Gellner, Brynn          	Cooper (F)              	F	10	G-V	235
+House, Kirsten          	Cooper (F)              	F	12	G-JV	236
+Kessler, Natalie        	Cooper (F)              	F	11	G-V	237
+Kraemer, Krystal        	Cooper (F)              	F	12	G-JV	238
+Krause, Kyla            	Cooper (F)              	F	12	G-V	239
+McCall, Olivia          	Cooper (F)              	F	8	G-JV	240
+Salhus, Erica           	Cooper (F)              	F	10	G-JV	241
+Thompson, Erin          	Cooper (F)              	F	12	G-JV	242
+Urevig, Allison         	Cooper (F)              	F	8	G-JV	243
+Weiser, Erin            	Cooper (F)              	F	12	G-JV	244
+Williams, Kaelyn        	Cooper (F)              	F	12	G-V	245
+Wuollet, Molly          	Cooper (F)              	F	10	G-JV	246
+Daniel, Jordan          	Cooper (M)              	M	11	B-V	247
+De Jesus, Kyle          	Cooper (M)              	M	8	B-JV	248
+Evans, Mike M.          	Cooper (M)              	M	11	B-JV	249
+Forster, Dane           	Cooper (M)              	M	11	B-JV	250
+Goldman, Kyle           	Cooper (M)              	M	11	B-V	251
+Griffin-Wiesner, Isaac  	Cooper (M)              	M	8	B-JV	252
+Hannaford, Andrew T.    	Cooper (M)              	M	12	B-JV	253
+Johnson, Bailey         	Cooper (M)              	M	9	B-JV	254
+Johnson, Dane           	Cooper (M)              	M	11	B-V	255
+Johnson, Erik           	Cooper (M)              	M	9	B-JV	256
+Johnson, William        	Cooper (M)              	M	8	B-JV	257
+Kessler, Sam            	Cooper (M)              	M	9	B-V	258
+Knudson, Jack           	Cooper (M)              	M	8	B-JV	259
+Kuzmin, Konstantin      	Cooper (M)              	M	11	B-JV	260
+Loken, Corey            	Cooper (M)              	M	9	B-JV	261
+Malone, Carl            	Cooper (M)              	M	12	B-JV	262
+Mathison, Lucas         	Cooper (M)              	M	11	B-JV	263
+Munar, Mitch            	Cooper (M)              	M	10	B-JV	264
+Norton, Noah            	Cooper (M)              	M	10	B-JV	265
+Pierson, Dan            	Cooper (M)              	M	11	B-JV	266
+Pierson, Zachary        	Cooper (M)              	M	12	B-V	267
+Ray, Lucas              	Cooper (M)              	M	11	B-JV	268
+Sallen, Nick            	Cooper (M)              	M	11	B-JV	269
+Sandberg, Brandon       	Cooper (M)              	M	10	B-JV	270
+Specht, Mark            	Cooper (M)              	M	12	B-JV	271
+Stolee, Mirek S.        	Cooper (M)              	M	11	B-JV	272
+Van Abbema, Alex        	Cooper (M)              	M	11	B-JV	273
+Walters, Chris          	Cooper (M)              	M	11	B-JV	274
+Williams, Garrett       	Cooper (M)              	M	8	B-V	275
+Worst, Connor           	Cooper (M)              	M	11	B-V	276
+Anderson, Olivia        	Hutchinson (F)          	F	6	G-JH	277
+Broten, Alexa           	Hutchinson (F)          	F	8	G-JH	278
+Broten, Ava             	Hutchinson (F)          	F	8	G-JH	279
+Broten, Marissa         	Hutchinson (F)          	F	11	G-JV	280
+Dennison, Katie         	Hutchinson (F)          	F	11	G-V	281
+Esser, Abby             	Hutchinson (F)          	F	10	G-JV	282
+Farley, Alyson          	Hutchinson (F)          	F	11	G-V	283
+Grina, Nissa            	Hutchinson (F)          	F	11	G-JV	284
+Harlander, Ally         	Hutchinson (F)          	F	7	G-JH	285
+Hughes, Kylie           	Hutchinson (F)          	F	8	G-JH	286
+Julius, Morgan          	Hutchinson (F)          	F	12	G-V	287
+Ludowese, Dakota        	Hutchinson (F)          	F	7	G-JH	288
+Marcus, Maggie          	Hutchinson (F)          	F	12	G-V	289
+Nunvar, Lily            	Hutchinson (F)          	F	8	G-JH	290
+Renner, Claire          	Hutchinson (F)          	F	8	G-JH	291
+Retterath, Alissa       	Hutchinson (F)          	F	12	G-V	292
+Riewer, Abby            	Hutchinson (F)          	F	6	G-JH	293
+Schierman, Greta        	Hutchinson (F)          	F	8	G-JH	294
+Seifert, Alexa          	Hutchinson (F)          	F	7	G-JH	295
+Seifert, Hanna          	Hutchinson (F)          	F	6	G-JH	296
+Stassen, Lindsay        	Hutchinson (F)          	F	12	G-V	297
+Warzecha, Lizzy         	Hutchinson (F)          	F	6	G-JH	298
+Weber, Paige            	Hutchinson (F)          	F	12	G-JV	299
+Zackrison, Cora         	Hutchinson (F)          	F	9	G-JV	300
+Anderson, Alec          	Hutchinson (M)          	M	9	B-V	301
+Anderson, Austin        	Hutchinson (M)          	M	11	B-JV	302
+Barlow, Isaiah          	Hutchinson (M)          	M	10	B-V	303
+Collins, Carter         	Hutchinson (M)          	M	10	B-JV	304
+Esser, Tyler            	Hutchinson (M)          	M	12	B-JV	305
+Getzke, Joel            	Hutchinson (M)          	M	11	B-JV	306
+Girard, Mitchell        	Hutchinson (M)          	M	6	B-JH	307
+Graf, Kyle              	Hutchinson (M)          	M	8	B-JH	308
+Grand, Corey            	Hutchinson (M)          	M	11	B-V	309
+Hantge, Jay             	Hutchinson (M)          	M	6	B-JH	310
+Harris, Caleb           	Hutchinson (M)          	M	10	B-JV	311
+Hoffman, Eric           	Hutchinson (M)          	M	10	B-JV	312
+Houseman, Ryan          	Hutchinson (M)          	M	7	B-JH	313
+Huttenlocker, Glen      	Hutchinson (M)          	M	9	B-JV	314
+Karl, Tyler             	Hutchinson (M)          	M	10	B-V	315
+Klawitter, Chandler     	Hutchinson (M)          	M	9	B-V	316
+Lenz, Jake              	Hutchinson (M)          	M	8	B-JH	317
+Marcotte, Brendan       	Hutchinson (M)          	M	6	B-JH	318
+Mohr, Andrew            	Hutchinson (M)          	M	10	B-JV	319
+Myers, Cole             	Hutchinson (M)          	M	11	B-V	320
+Peterson, Tyson         	Hutchinson (M)          	M	7	B-JH	321
+Saunders, Jared         	Hutchinson (M)          	M	11	B-JV	322
+Schmidt, Gavin          	Hutchinson (M)          	M	8	B-JH	323
+Schommer, Eric          	Hutchinson (M)          	M	12	B-JV	324
+Stenzel, Riley          	Hutchinson (M)          	M	10	B-V	325
+Stephenson, Blaine.     	Hutchinson (M)          	M	10	B-JV	326
+Wersal, Ryan            	Hutchinson (M)          	M	11	B-JV	327
+Westlund, Alec          	Hutchinson (M)          	M	11	B-JV	328
+Babb, Michelle          	Irondale (F)            	F	12	G-JV	329
+Bates, Emily            	Irondale (F)            	F	11	G-JV	330
+Clarine, Emma           	Irondale (F)            	F	9	G-JV	331
+Doherty, Megan          	Irondale (F)            	F	11	G-JV	332
+Douvier, Katlyn         	Irondale (F)            	F	12	G-JV	333
+Eichens, Hannah         	Irondale (F)            	F	9	G-JV	334
+Gunderman, Allicia      	Irondale (F)            	F	11	G-V	335
+Guse, Lauren            	Irondale (F)            	F	10	G-JV	336
+Heinks, Mary            	Irondale (F)            	F	9	G-V	337
+Johnson, Elizabeth      	Irondale (F)            	F	12	G-JV	338
+Peterson, Katie         	Irondale (F)            	F	11	G-V	339
+Picotta, Tessa          	Irondale (F)            	F	8	G-V	340
+Sweeney, Maria          	Irondale (F)            	F	12	G-JV	341
+Thomas, Beau            	Irondale (F)            	F	12	G-JV	342
+Toupal, Alysse          	Irondale (F)            	F	9	G-V	343
+Zink, Kristin           	Irondale (F)            	F	12	G-V	344
+Adelsman, Bjorn         	Irondale (M)            	M	11	B-V	345
+Aderman, Chris          	Irondale (M)            	M	10	B-V	346
+Bisbee, Andrew          	Irondale (M)            	M	10	B-JV	347
+Borchert, Evan   -      	Irondale (M)            	M	12	B-JV	348
+Cich, Adam              	Irondale (M)            	M	12	B-V	349
+Doku, Jorg              	Irondale (M)            	M	11	B-JV	350
+Ellingboe, Ryan         	Irondale (M)            	M	12	B-JV	351
+Gilbert, Jonah          	Irondale (M)            	M	12	B-V	352
+Gilbert, Tyler          	Irondale (M)            	M	11	B-V	353
+Goodell, Caleb          	Irondale (M)            	M	12	B-JV	354
+Hennessey, Patrick      	Irondale (M)            	M	11	B-V	355
+Jacob, Nick             	Irondale (M)            	M	8	B-JH	356
+Jankowski, Joey         	Irondale (M)            	M	8	B-JH	357
+Kokkila, Ben            	Irondale (M)            	M	11	B-JV	358
+Pate, Michael           	Irondale (M)            	M	11	B-JV	359
+Rhode, Nathan           	Irondale (M)            	M	11	B-JV	360
+Ridge, Isaak            	Irondale (M)            	M	12	B-JV	361
+Robinson, Adam          	Irondale (M)            	M	11	B-V	362
+Rodefeld, McEwan        	Irondale (M)            	M	7	B-JH	363
+Schultz, Marcus         	Irondale (M)            	M	8	B-JH	364
+Thor, Peter             	Irondale (M)            	M	12	B-JV	365
+Wallerstein, Alex       	Irondale (M)            	M	10	B-JV	366
+Andersen, Rose          	Marshall (F)            	F	8	G-V	367
+Andersen, Sarah         	Marshall (F)            	F	11	G-V	368
+Boersma, Claire         	Marshall (F)            	F	7	G-V	369
+Bossuyt, Rachel         	Marshall (F)            	F	9	G-JV	370
+Caron, Andrea           	Marshall (F)            	F	8	G-JV	371
+Fedde, Becca            	Marshall (F)            	F	12	G-V	372
+Kotara, Mina            	Marshall (F)            	F	11	G-JV	373
+Kurth, Jenna            	Marshall (F)            	F	8	G-JH	374
+Nelson, Rachel          	Marshall (F)            	F	9	G-JV	375
+Prorok, Sydney          	Marshall (F)            	F	11	G-V	376
+VanKeulen, Haley        	Marshall (F)            	F	12	G-V	377
+Beens, Taylor           	Marshall (M)            	M	10	B-JV	378
+Bell, Andrew            	Marshall (M)            	M	10	B-V	379
+Bell, Jonathan          	Marshall (M)            	M	7	B-JH	380
+Bernardy, Cody          	Marshall (M)            	M	10	B-V	381
+Blanchard, Joseph       	Marshall (M)            	M	7	B-JH	382
+Bukowski, Tanner        	Marshall (M)            	M	11	B-V	383
+Buysse, Jacob           	Marshall (M)            	M	8	B-JH	384
+Christianson, Matt      	Marshall (M)            	M	10	B-JV	385
+Clemmer, Lestat         	Marshall (M)            	M	9	B-JV	386
+Coleman, Samuel         	Marshall (M)            	M	7	B-JH	387
+DeAustin, Chad          	Marshall (M)            	M	12	B-V	388
+DeAustin, Wade          	Marshall (M)            	M	10	B-V	389
+DeAustin, Walker        	Marshall (M)            	M	9	B-JH	390
+Dieken, Sam             	Marshall (M)            	M	7	B-JH	391
+Drum, Zach              	Marshall (M)            	M	10	B-JV	392
+Evans, Nick             	Marshall (M)            	M	11	B-JV	393
+Gross, Josh             	Marshall (M)            	M	7	B-JH	394
+Jaster, Levi            	Marshall (M)            	M	9	B-JV	395
+Johnson, Bryce          	Marshall (M)            	M	10	B-JV	396
+Moran, Blaine           	Marshall (M)            	M	9	B-V	397
+Nkwocha, Promise        	Marshall (M)            	M	10	B-JV	398
+Reese, Mason            	Marshall (M)            	M	7	B-JH	399
+Sanders, Luke           	Marshall (M)            	M	12	B-JV	400
+Shaffer, John           	Marshall (M)            	M	10	B-JV	401
+Thielges, Tyler         	Marshall (M)            	M	12	B-JV	402
+VanKeulen, Grant        	Marshall (M)            	M	12	B-V	403
+Veldhuisen, Chris       	Marshall (M)            	M	12	B-JV	404
+Betzler, Mariah         	Monticello (F)          	F	10	G-V	405
+Brakob, Rose            	Monticello (F)          	F	8	G-JH	406
+Bray, Patty             	Monticello (F)          	F	9	G-JV	407
+Crnokrak, Kate          	Monticello (F)          	F	10	G-JV	408
+Dockendorf, Emily       	Monticello (F)          	F	9	G-JV	409
+Drew, Laura             	Monticello (F)          	F	11	G-JV	410
+Haas, Jada              	Monticello (F)          	F	7	G-JH	411
+Heitz, Haley            	Monticello (F)          	F	11	G-JV	412
+Johnson, Bri            	Monticello (F)          	F	11	G-V	413
+Johnson, Kate           	Monticello (F)          	F	11	G-JV	414
+Knipfer, Jordan         	Monticello (F)          	F	8	G-JH	415
+Knipfer, Sara           	Monticello (F)          	F	8	G-JH	416
+LaBau, Katie            	Monticello (F)          	F	11	G-JV	417
+Lavrenz, Katelyn        	Monticello (F)          	F	9	G-JV	418
+Lewis, Lyric            	Monticello (F)          	F	8	G-JH	419
+McGowan, Kate           	Monticello (F)          	F	7	G-JH	420
+Menshausen, Chelsea     	Monticello (F)          	F	9	G-JV	421
+Miltz, Jaelyn           	Monticello (F)          	F	8	G-JH	422
+Moffitt, Gabby          	Monticello (F)          	F	9	G-JV	423
+Muenchow, Courtney      	Monticello (F)          	F	11	G-JV	424
+Nygaard, Lea            	Monticello (F)          	F	7	G-JH	425
+Nygaard, Lisa           	Monticello (F)          	F	11	G-JV	426
+Olson, McKenzie         	Monticello (F)          	F	8	G-JH	427
+Penn, Samantha          	Monticello (F)          	F	11	G-JV	428
+Rasmuson, Anne          	Monticello (F)          	F	7	G-JH	429
+Rasmussen, Bailey       	Monticello (F)          	F	10	G-JV	430
+Rasmussen, Brooke       	Monticello (F)          	F	10	G-V	431
+Romer, Aysia            	Monticello (F)          	F	8	G-JH	432
+Seidenkranz, Amber      	Monticello (F)          	F	10	G-V	433
+Seidenkranz, Erica      	Monticello (F)          	F	12	G-V	434
+Steele, Corinne         	Monticello (F)          	F	12	G-V	435
+Steele, Kara            	Monticello (F)          	F	11	G-JV	436
+Steele, Krista          	Monticello (F)          	F	9	G-V	437
+Stoick, Amber           	Monticello (F)          	F	12	G-JV	438
+Suelter, Shantel        	Monticello (F)          	F	10	G-JV	439
+Sypnieski, Jenna        	Monticello (F)          	F	10	G-JV	440
+Vagts, Morgan           	Monticello (F)          	F	7	G-JH	441
+VanBeek, Lauren         	Monticello (F)          	F	12	G-JV	442
+VanderHeyden, Cody      	Monticello (F)          	F	10	G-JV	443
+Voigt, Brooke           	Monticello (F)          	F	9	G-JV	444
+Voller, Tess            	Monticello (F)          	F	9	G-JV	445
+Wall, Courtney          	Monticello (F)          	F	11	G-JV	446
+wall, Samantha          	Monticello (F)          	F	11	G-JV	447
+Watson, Esther          	Monticello (F)          	F	10	G-JV	448
+Welle, Kristi           	Monticello (F)          	F	9	G-JV	449
+Witschen, Ayla          	Monticello (F)          	F	9	G-JV	450
+Yeager, Alexa           	Monticello (F)          	F	7	G-JH	451
+Ziebol, Lexi            	Monticello (F)          	F	8	G-JH	452
+Anselment, Ryan         	Monticello (M)          	M	11	B-JV	453
+Bican, Jevi             	Monticello (M)          	M	8	B-JH	454
+Brakob, Ted             	Monticello (M)          	M	12	B-V	455
+Carlson, Tyler          	Monticello (M)          	M	10	B-JV	456
+Gruhlke, Luke           	Monticello (M)          	M	12	B-V	457
+Gruhlke, Noah           	Monticello (M)          	M	10	B-JV	458
+Hamson, Cody            	Monticello (M)          	M	10	B-JV	459
+Hanson, Luke            	Monticello (M)          	M	11	B-JV	460
+Henderson, Ross         	Monticello (M)          	M	12	B-JV	461
+Koeppen, Troy           	Monticello (M)          	M	10	B-JV	462
+Krause, Lawrence        	Monticello (M)          	M	10	B-V	463
+LaVallee, Phillip       	Monticello (M)          	M	12	B-V	464
+Link, Austin            	Monticello (M)          	M	12	B-JV	465
+Lyndorff, Colin         	Monticello (M)          	M	11	B-V	466
+Mason, Ascher           	Monticello (M)          	M	8	B-JH	467
+McConnon, Michael       	Monticello (M)          	M	10	B-JV	468
+McConnon, Ryan          	Monticello (M)          	M	10	B-JV	469
+Mergen, Andrew          	Monticello (M)          	M	8	B-JH	470
+Nelson, Brett           	Monticello (M)          	M	9	B-JV	471
+Olson, Chase            	Monticello (M)          	M	10	B-JV	472
+Pankow, Maxx            	Monticello (M)          	M	10	B-JV	473
+Remsik, Dylan           	Monticello (M)          	M	7	B-JH	474
+Ross, Kyle              	Monticello (M)          	M	11	B-JV	475
+Schyma, Thomas          	Monticello (M)          	M	8	B-JH	476
+Secord, Derek           	Monticello (M)          	M	10	B-V	477
+Sirovy, Tyler           	Monticello (M)          	M	7	B-JH	478
+Sohler, Loren           	Monticello (M)          	M	11	B-JV	479
+Sorenson, Christian     	Monticello (M)          	M	10	B-JV	480
+Steele, Timothy         	Monticello (M)          	M	7	B-JH	481
+Turner, Zachary         	Monticello (M)          	M	7	B-JH	482
+Wall, Jon               	Monticello (M)          	M	10	B-JV	483
+Ward, Dylan             	Monticello (M)          	M	10	B-JV	484
+Wilts, Jacob            	Monticello (M)          	M	8	B-JH	485
+Winsor, Oliver          	Monticello (M)          	M	10	B-V	486
+Zetah, Dylan            	Monticello (M)          	M	7	B-JH	487
+Conrad, Cassie          	Rogers (F)              	F	10	G-JV	488
+Cox, Kelsie             	Rogers (F)              	F	7	G-JH	489
+Fingalsen, Haylee       	Rogers (F)              	F	7	G-JH	490
+Jansen, Emily           	Rogers (F)              	F	10	G-JV	491
+Johnston, Kelsey        	Rogers (F)              	F	12	G-V	492
+Lewis, Hannah           	Rogers (F)              	F	10	G-V	493
+Lindfors, Jackie        	Rogers (F)              	F	10	G-V	494
+Mikolich, Madie         	Rogers (F)              	F	9	G-V	495
+Miller, Abbi            	Rogers (F)              	F	8	G-JH	496
+Shaffer, Bekah          	Rogers (F)              	F	10	G-V	497
+Tandberg, Shea          	Rogers (F)              	F	12	G-V	498
+Teasdale, Allison       	Rogers (F)              	F	8	G-JH	499
+Baker, Chris            	Rogers (M)              	M	10	B-JV	500
+Benz, Andrew            	Rogers (M)              	M	10	B-JV	501
+Booms, Jared            	Rogers (M)              	M	9	B-JV	502
+Broberg, Andrew         	Rogers (M)              	M	10	B-JV	503
+Burt, Evan              	Rogers (M)              	M	8	B-JH	504
+Burt, Justin            	Rogers (M)              	M	11	B-V	505
+Clark, Adam             	Rogers (M)              	M	10	B-JV	506
+Gorecki, Karl           	Rogers (M)              	M	9	B-V	507
+Huber, Evan             	Rogers (M)              	M	8	B-JH	508
+Jansen, Kyle            	Rogers (M)              	M	12	B-JV	509
+LeClaire, Caleb         	Rogers (M)              	M	12	B-V	510
+LeClaire, Jared         	Rogers (M)              	M	9	B-JV	511
+Light, Daniel           	Rogers (M)              	M	8	B-JH	512
+Meier, Brickey          	Rogers (M)              	M	8	B-JH	513
+Nardini, Jake           	Rogers (M)              	M	10	B-JV	514
+Narragon, Kyle          	Rogers (M)              	M	11	B-JV	515
+Narragon, Trace         	Rogers (M)              	M	8	B-JH	516
+Ndege, Alex             	Rogers (M)              	M	9	B-JV	517
+Nelson, Aaron           	Rogers (M)              	M	12	B-V	518
+Parent, Reed            	Rogers (M)              	M	10	B-V	519
+Scott, TJ               	Rogers (M)              	M	12	B-V	520
+Sylvester, Ben          	Rogers (M)              	M	9	B-JV	521
+Teasdale, Josh          	Rogers (M)              	M	10	B-V	522
+Voorhees, Michael       	Rogers (M)              	M	12	B-JV	523
+Vranicar, J.            	Rogers (M)              	M	10	B-JV	524
+Wald, Jake              	Rogers (M)              	M	10	B-JV	525
+York, Ethan             	Rogers (M)              	M	9	B-JV	526
+Young, Collin           	Rogers (M)              	M	9	B-JV	527
+Autio, Erin             	STMA (F)                	F	10	G-JV	528
+Berning, Paige          	STMA (F)                	F	8	G-JH	529
+Blais, Katelyn          	STMA (F)                	F	12	G-JV	530
+Daly, Erin              	STMA (F)                	F	9	G-JV	531
+Estep, Abby             	STMA (F)                	F	7	G-JH	532
+Hamre, Tori             	STMA (F)                	F	11	G-V	533
+Hanson, Rylee           	STMA (F)                	F	11	G-V	534
+Hinkemeyer, Beth        	STMA (F)                	F	11	G-V	535
+Hofmeister, Elli        	STMA (F)                	F	8	G-JH	536
+Horn, Kayla             	STMA (F)                	F	8	G-JH	537
+Jesser, Maddie          	STMA (F)                	F	9	G-JV	538
+Johnson, Taylor         	STMA (F)                	F	11	G-JV	539
+Kottke, Cassidy         	STMA (F)                	F	11	G-JV	540
+Malley, Kalley          	STMA (F)                	F	8	G-JH	541
+Malone, Madaline        	STMA (F)                	F	11	G-JV	542
+Miller, Christine       	STMA (F)                	F	9	G-JV	543
+Norby, Presley          	STMA (F)                	F	8	G-V	544
+Nyhus, Belle            	STMA (F)                	F	7	G-JH	545
+Rambo, Krista           	STMA (F)                	F	9	G-JV	546
+Rogers, McKenna         	STMA (F)                	F	8	G-JH	547
+Ruhland, Emily          	STMA (F)                	F	8	G-JH	548
+Salonek, Olivia         	STMA (F)                	F	7	G-JH	549
+Sjelin, Maddi           	STMA (F)                	F	11	G-V	550
+Vavrina, Cheyenne       	STMA (F)                	F	9	G-JV	551
+Westrum, Nicole         	STMA (F)                	F	11	G-V	552
+Woodis, Courtney        	STMA (F)                	F	11	G-V	553
+Albrecht, Ryan          	STMA (M)                	M	8	B-JH	554
+Allen, Gavin            	STMA (M)                	M	9	B-JV	555
+Aman, Alex              	STMA (M)                	M	12	B-V	556
+backman, jeremy         	STMA (M)                	M	7	B-JH	557
+Batchelor, Nick         	STMA (M)                	M	9	B-JV	558
+Bernstein, Matt         	STMA (M)                	M	11	B-JV	559
+Bertsch, Vinnie         	STMA (M)                	M	11	B-JV	560
+Bezanson, James         	STMA (M)                	M	11	B-JV	561
+Birk, Alex              	STMA (M)                	M	9	B-JV	562
+Brown, Alex             	STMA (M)                	M	12	B-JV	563
+Brown, Dylan            	STMA (M)                	M	7	B-JH	564
+Brown, Seth             	STMA (M)                	M	12	B-JV	565
+Bruner, Michael         	STMA (M)                	M	12	B-JV	566
+Cayo, Chase             	STMA (M)                	M	9	B-V	567
+Clayton, Joe            	STMA (M)                	M	11	B-JV	568
+Colgrove, Brian         	STMA (M)                	M	8	B-JH	569
+Colgrove, Jason         	STMA (M)                	M	10	B-JV	570
+Connelly, Jackson       	STMA (M)                	M	8	B-JH	571
+Coulson, Mitch          	STMA (M)                	M	11	B-JV	572
+Derberger, Will         	STMA (M)                	M	8	B-JH	573
+Dickey, James           	STMA (M)                	M	12	B-JV	574
+Eiynck, Matt            	STMA (M)                	M	12	B-V	575
+Fischbach, Nate         	STMA (M)                	M	11	B-JV	576
+Franzen, Logan          	STMA (M)                	M	11	B-JV	577
+Gallagher, Jake         	STMA (M)                	M	8	B-JH	578
+Gillach, Tanner         	STMA (M)                	M	12	B-JV	579
+Gjesvold, Evan          	STMA (M)                	M	9	B-JV	580
+Goude, Jeremy           	STMA (M)                	M	10	B-JV	581
+Greseth, Connor         	STMA (M)                	M	8	B-JH	582
+Gullickson, Nick        	STMA (M)                	M	11	B-JV	583
+Hackenmueller, Kevin    	STMA (M)                	M	12	B-JV	584
+Harald, Thomas          	STMA (M)                	M	8	B-JH	585
+Hesser, Josh            	STMA (M)                	M	10	B-JV	586
+Highberg, Kyle          	STMA (M)                	M	11	B-JV	587
+Jocelyn, Gavin          	STMA (M)                	M	8	B-JH	588
+Johanson, Derek         	STMA (M)                	M	11	B-JV	589
+Johnson, Alex           	STMA (M)                	M	12	B-V	590
+Kolstad, Luke           	STMA (M)                	M	8	B-JH	591
+Kottke, Truman          	STMA (M)                	M	10	B-JV	592
+Larson, Jackson         	STMA (M)                	M	8	B-JH	593
+Layton, Lucas           	STMA (M)                	M	8	B-JH	594
+Lehman, Cameron         	STMA (M)                	M	8	B-JH	595
+Li, Jimmy               	STMA (M)                	M	7	B-JH	596
+Libby, James            	STMA (M)                	M	8	B-JH	597
+McGowan, Jack           	STMA (M)                	M	8	B-JH	598
+Miller, Tad             	STMA (M)                	M	11	B-JV	599
+Monseth, Jake           	STMA (M)                	M	9	B-JV	600
+Nelson, Ryan            	STMA (M)                	M	8	B-JH	707
+Newman, Caleb           	STMA (M)                	M	7	B-JH	708
+Nygaard, Zach           	STMA (M)                	M	8	B-JH	709
+Pelant, Thomas          	STMA (M)                	M	7	B-JH	710
+Purohit, Nikhil         	STMA (M)                	M	7	B-JH	711
+Ruberto, Dane           	STMA (M)                	M	7	B-JH	712
+Salonek, Joseph         	STMA (M)                	M	8	B-JH	713
+Schmidt, Josh           	STMA (M)                	M	8	B-JH	714
+Tanchin, Ron            	STMA (M)                	M	8	B-JH	715
+Thompson, Jacob         	STMA (M)                	M	7	B-JH	716
+Pelant, Luke            	STMA (M)                	M	10	B-JV	717
+Rauenhorst, Alex        	STMA (M)                	M	11	B-JV	718
+Rysdahl, Luke           	STMA (M)                	M	10	B-JV	719
+Salonek, Josh           	STMA (M)                	M	12	B-JV	720
+Shaw, Charlie           	STMA (M)                	M	11	B-JV	721
+Smith, Josh             	STMA (M)                	M	11	B-JV	722
+Washatka, Nick          	STMA (M)                	M	11	B-JV	723
+Wold, Ben               	STMA (M)                	M	10	B-JV	724
+Zastrow, Jacb           	STMA (M)                	M	9	B-JV	725
+Sage, Brendan           	STMA (M)                	M	11	B-V	726
+Shovelain, Dominic      	STMA (M)                	M	10	B-V	727
+Stepp, Austin           	STMA (M)                	M	12	B-V	728

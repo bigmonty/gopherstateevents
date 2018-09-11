@@ -1,0 +1,1016 @@
+Lake Conf Classic 2 2014
+1/16/2014
+
+Running Order
+
+
+Overall Running Order
+
+B-V
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+--------------------------------------------------------------------------------------------
+1)    14986-Christensen, Will  	Eden Prairie        	101	1:00.00		B-V	1
+2)    14993-Derks, Nathan      	Eden Prairie        	107	1:00.00		B-V	1
+3)    13378-Fisher, Andrew     	Eden Prairie        	102	1:00.00		B-V	1
+4)    16800-Keenan, Ryan       	Eden Prairie        	106	1:00.00		B-V	1
+5)    14985-Korus, Daniel      	Eden Prairie        	103	1:00.00		B-V	1
+6)    16808-Pahl, Sam          	Eden Prairie        	105	1:00.00		B-V	1
+7)    14984-Russell, Marcus    	Eden Prairie        	104	1:00.00		B-V	1
+8)    11199-Cleary, Dylan      	Hopkins             	504	1:00.00		B-V	1
+9)    8733-Lavanger, Matthew   	Hopkins             	501	1:00.00		B-V	1
+10)   16909-Nash, Austin       	Hopkins             	507	1:00.00		B-V	1
+11)   11325-Nelson, Brett      	Hopkins             	505	1:00.00		B-V	1
+12)   16912-Parker, Benjamin   	Hopkins             	508	1:00.00		B-V	1
+13)   11211-Taylor, Trey       	Hopkins             	503	1:00.00		B-V	1
+14)   13509-Vander Velden, Nick	Hopkins             	506	1:00.00		B-V	1
+15)   11134-Blankenship, Carter	Wayzata             	904	1:00.00		B-V	1
+16)   11129-Cameron, Andrew    	Wayzata             	906	1:00.00		B-V	1
+17)   13262-Grossen, Jack      	Wayzata             	907	1:00.00		B-V	1
+18)   13274-Johnson, Kristian J	Wayzata             	902	1:00.00		B-V	1
+19)   13267-Millan, Andrew     	Wayzata             	905	1:00.00		B-V	1
+20)   11136-Quirk, Andrew      	Wayzata             	901	1:00.00		B-V	1
+21)   16750-Sonnesyn, Anders   	Wayzata             	903	1:00.00		B-V	1
+22)   17034-Ahrenholtz, Chip   	Minnetonka          	706	1:00.00		B-V	1
+23)   17035-Atwood, Chris      	Minnetonka          	705	1:00.00		B-V	1
+24)   17038-Croskey, Jonathon  	Minnetonka          	703	1:00.00		B-V	1
+25)   13602-Lindberg, Cal      	Minnetonka          	704	1:00.00		B-V	1
+26)   17052-Nelson, Riley      	Minnetonka          	707	1:00.00		B-V	1
+27)   13468-Sebold, James      	Minnetonka          	702	1:00.00		B-V	1
+28)   13472-Touhey, Colin      	Minnetonka          	701	1:00.00		B-V	1
+29)   16934-Dulas, Matthew     	Edina               	305	1:00.00		B-V	1
+30)   15219-Hussey, Conor      	Edina               	303	1:00.00		B-V	1
+31)   13445-Illig, Peter       	Edina               	304	1:00.00		B-V	1
+32)   15121-Jarvinen, George   	Edina               	306	1:00.00		B-V	1
+33)   11246-Jarvinen, Henry    	Edina               	301	1:00.00		B-V	1
+34)   16935-Johansen, Syver    	Edina               	302	1:00.00		B-V	1
+35)   8807-Parady, Jonah       	Edina               	307	1:00.00		B-V	1
+36)   17315-Rundquist, William 	Edina               	314	2:00.00		B-V	1
+37)   11243-Sullivan, Daniel   	Edina               	312	2:00.00		B-V	1
+38)   15246-Kuhs, Max          	Edina               	311	2:00.00		B-V	1
+39)   13539-Ogren, Alexander   	Edina               	310	2:00.00		B-V	1
+40)   8804-Ellenberger, David  	Edina               	308	2:00.00		B-V	1
+41)   16974-Gage, Owen         	Edina               	309	2:00.00		B-V	1
+42)   16975-Gage, William      	Edina               	313	2:00.00		B-V	1
+43)   17059-Ryan, Grant        	Minnetonka          	710	2:00.00		B-V	1
+44)   17063-Wallace, Zac       	Minnetonka          	709	2:00.00		B-V	1
+45)   15032-Sibley, Andrew     	Minnetonka          	712	2:00.00		B-V	1
+46)   17054-Ott, Josh          	Minnetonka          	711	2:00.00		B-V	1
+47)   15031-Rajala, Noah       	Minnetonka          	714	2:00.00		B-V	1
+48)   17049-Maples, Gunnar     	Minnetonka          	708	2:00.00		B-V	1
+49)   17037-Chidambaram, Nagu  	Minnetonka          	713	2:00.00		B-V	1
+50)   11135-Bremseth, Issac    	Wayzata             	909	2:00.00		B-V	1
+51)   14859-Smith, Jacob       	Wayzata             	908	2:00.00		B-V	1
+52)   11137-Smith, Clayton     	Wayzata             	911	2:00.00		B-V	1
+53)   8672-Meyer, Joe          	Wayzata             	914	2:00.00		B-V	1
+54)   16762-Heal, Wes          	Wayzata             	910	2:00.00		B-V	1
+55)   14857-Deakins, Grant     	Wayzata             	912	2:00.00		B-V	1
+56)   16754-Golin, Luc         	Wayzata             	913	2:00.00		B-V	1
+57)   13505-Parker, Jacob      	Hopkins             	509	2:00.00		B-V	1
+58)   15109-Hoffman, Alexander 	Hopkins             	514	2:00.00		B-V	1
+59)   13497-Hunwardsen, Ryan   	Hopkins             	512	2:00.00		B-V	1
+60)   16885-Eliason, Seth      	Hopkins             	513	2:00.00		B-V	1
+61)   16880-Avenson, Perry     	Hopkins             	511	2:00.00		B-V	1
+62)   11322-Ahlquist, Hunter   	Hopkins             	510	2:00.00		B-V	1
+63)   13381-McDowall, Miles    	Eden Prairie        	111	2:00.00		B-V	1
+64)   14988-Krause, Tim        	Eden Prairie        	112	2:00.00		B-V	1
+65)   14989-Gardner, Mitch     	Eden Prairie        	110	2:00.00		B-V	1
+66)   16794-De Jong, Matt      	Eden Prairie        	114	2:00.00		B-V	1
+67)   16799-Jeter, Kevin       	Eden Prairie        	109	2:00.00		B-V	1
+68)   16812-Tauer, Alec        	Eden Prairie        	108	2:00.00		B-V	1
+69)   16813-Thies, John        	Eden Prairie        	113	2:00.00		B-V	1
+
+G-V
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+70)   15012-Batchlor, Micayla  	Eden Prairie        	202	7:00.00		G-V	1
+71)   15005-Birkle, Elise      	Eden Prairie        	206	7:00.00		G-V	1
+72)   15013-Miller, Ellie      	Eden Prairie        	203	7:00.00		G-V	1
+73)   13334-Rouse, Grace       	Eden Prairie        	205	7:00.00		G-V	1
+74)   15011-Schnirring, Sam    	Eden Prairie        	207	7:00.00		G-V	1
+75)   13336-Stewart, Eryn      	Eden Prairie        	201	7:00.00		G-V	1
+76)   16832-Tauer, Riley       	Eden Prairie        	204	7:00.00		G-V	1
+77)   13511-Burnett, Emma      	Hopkins             	606	7:00.00		G-V	1
+78)   11214-Craemer, Katherine 	Hopkins             	605	7:00.00		G-V	1
+79)   15090-Dirnberger, Sophie 	Hopkins             	607	7:00.00		G-V	1
+80)   11222-Hall, Anna         	Hopkins             	603	7:00.00		G-V	1
+81)   8745-Heiberg, Kaelynn    	Hopkins             	604	7:00.00		G-V	1
+82)   16865-Krietzman, Roxanne 	Hopkins             	602	7:00.00		G-V	1
+83)   11232-Olson, Jennifer    	Hopkins             	601	7:00.00		G-V	1
+84)   11179-French, Anna       	Wayzata             	1004	7:00.00		G-V	1
+85)   13284-Frenz, Evelyn      	Wayzata             	1001	7:00.00		G-V	1
+86)   13291-Keller-Miller, Kris	Wayzata             	1003	7:00.00		G-V	1
+87)   13292-Keller-Miller, Mich	Wayzata             	1005	7:00.00		G-V	1
+88)   11169-Keller-Miller, Mack	Wayzata             	1002	7:00.00		G-V	1
+89)   11183-Schneider, Nicole  	Wayzata             	1006	7:00.00		G-V	1
+90)   8699-Sonnesyn, Alayna    	Wayzata             	1007	7:00.00		G-V	1
+91)   11286-McKlveen, Charlotte	Edina               	406	7:00.00		G-V	1
+92)   8824-Peterson, Samantha  	Edina               	403	7:00.00		G-V	1
+93)   11285-Lindberg, Ella     	Edina               	407	7:00.00		G-V	1
+94)   11277-Kemp, Lindsey      	Edina               	401	7:00.00		G-V	1
+95)   17026-Kompelien, Emily   	Edina               	405	7:00.00		G-V	1
+96)   17031-Willmert, Triana   	Edina               	404	7:00.00		G-V	1
+97)   17020-Willmert, Talia    	Edina               	402	7:00.00		G-V	1
+98)   15047-Hanzlik, Deneen    	Minnetonka          	807	7:00.00		G-V	1
+99)   17087-Hofmeister, Elisa  	Minnetonka          	806	7:00.00		G-V	1
+100)  13519-Janssen, Meghan    	Minnetonka          	801	7:00.00		G-V	1
+101)  15049-Klaysmat, Madeline 	Minnetonka          	805	7:00.00		G-V	1
+102)  13485-Martin, Kaylee     	Minnetonka          	802	7:00.00		G-V	1
+103)  17074-Melmer, Mara       	Minnetonka          	804	7:00.00		G-V	1
+104)  15053-Nesbitt, Meredith  	Minnetonka          	803	7:00.00		G-V	1
+105)  15041-Dahle-Koch, Alissa 	Minnetonka          	808	8:00.00		G-V	1
+106)  11283-Klos, Sara         	Edina               	410	8:00.00		G-V	1
+107)  19058-Bentley, Jessica A 	Edina               	408	8:00.00		G-V	1
+108)  13575-Bowlin, Alayna     	Edina               	414	8:00.00		G-V	1
+109)  15238-Crosby, Sophia     	Edina               	412	8:00.00		G-V	1
+110)  17015-Hinrichs, Raegan   	Edina               	409	8:00.00		G-V	1
+111)  15235-Oconnell, Kitty    	Edina               	411	8:00.00		G-V	1
+112)  17028-Mendel, Katherine  	Edina               	413	8:00.00		G-V	1
+113)  14891-Thomsen, Jaycie    	Wayzata             	1008	8:00.00		G-V	1
+114)  14890-Williams, Madeline 	Wayzata             	1009	8:00.00		G-V	1
+115)  11184-Silbaugh, Abby     	Wayzata             	1010	8:00.00		G-V	1
+116)  11177-Farquhar, Katie    	Wayzata             	1013	8:00.00		G-V	1
+117)  14874-Lerdau, Annika     	Wayzata             	1011	8:00.00		G-V	1
+118)  11180-Griwac, Madeline   	Wayzata             	1012	8:00.00		G-V	1
+119)  13289-Jette, Megan       	Wayzata             	1014	8:00.00		G-V	1
+120)  16867-Miller, Lucianna   	Hopkins             	611	8:00.00		G-V	1
+121)  16876-Versen, Theresa    	Hopkins             	608	8:00.00		G-V	1
+122)  15091-Giesting, Anna     	Hopkins             	609	8:00.00		G-V	1
+123)  16862-Hadley, Dominica   	Hopkins             	614	8:00.00		G-V	1
+124)  15074-Douglass, Chance   	Hopkins             	612	8:00.00		G-V	1
+125)  15070-Anderson, Renae    	Hopkins             	610	8:00.00		G-V	1
+126)  13434-Benton, Claire     	Hopkins             	613	8:00.00		G-V	1
+127)  13338-Vergeront, Katie   	Eden Prairie        	211	8:00.00		G-V	1
+128)  16835-Ziegler, Mikaela   	Eden Prairie        	213	8:00.00		G-V	1
+129)  16831-Stenoien, Hannah   	Eden Prairie        	214	8:00.00		G-V	1
+130)  13320-Colford, Greta     	Eden Prairie        	209	8:00.00		G-V	1
+131)  15006-Drach, Abigail     	Eden Prairie        	208	8:00.00		G-V	1
+132)  16823-Frischmon, Caroline	Eden Prairie        	210	8:00.00		G-V	1
+133)  13324-Hanson, Madison    	Eden Prairie        	212	8:00.00		G-V	1
+
+B-JV1
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+134)  13380-Jenderko, Nicholas 	Eden Prairie        	118	13:00.0		B-JV1	1
+135)  14991-Fritz, Derek       	Eden Prairie        	116	13:00.0		B-JV1	1
+136)  18879-Claridge, Will     	Eden Prairie        	119	13:00.0		B-JV1	1
+137)  18885-Madison, Jack      	Eden Prairie        	120	13:00.0		B-JV1	1
+138)  13386-Savereide, Erik    	Eden Prairie        	115	13:00.0		B-JV1	1
+139)  16810-Schacht, Nathan    	Eden Prairie        	121	13:00.0		B-JV1	1
+140)  14990-Simons, Grant      	Eden Prairie        	117	13:00.0		B-JV1	1
+141)  16886-Eng, Carter        	Hopkins             	515	13:00.0		B-JV1	1
+142)  16890-Hedberg, John      	Hopkins             	518	13:00.0		B-JV1	1
+143)  16893-Hoffman, Logan     	Hopkins             	519	13:00.0		B-JV1	1
+144)  15111-Katona, David      	Hopkins             	520	13:00.0		B-JV1	1
+145)  16906-Martin, John       	Hopkins             	516	13:00.0		B-JV1	1
+146)  15113-Mattson, Jason     	Hopkins             	517	13:00.0		B-JV1	1
+147)  8738-Snyder, Mark        	Hopkins             	502	13:00.0		B-JV1	1
+148)  16748-Williams, Erik     	Wayzata             	920	13:00.0		B-JV1	1
+149)  14861-Halverson, Joshua  	Wayzata             	918	13:00.0		B-JV1	1
+150)  18824-Brandt, Kyle       	Wayzata             	915	13:00.0		B-JV1	1
+151)  13259-Canfield, Connor   	Wayzata             	919	13:00.0		B-JV1	1
+152)  18825-Carlstrom, Tyler   	Wayzata             	921	13:00.0		B-JV1	1
+153)  18823-Berardino, Daniel  	Wayzata             	917	13:00.0		B-JV1	1
+154)  13257-Blake, Alex        	Wayzata             	916	13:00.0		B-JV1	1
+155)  17058-Rude, Erik         	Minnetonka          	721	13:00.0		B-JV1	1
+156)  17055-Peters, Sam        	Minnetonka          	722	13:00.0		B-JV1	1
+157)  18974-Czerwinski, William	Minnetonka          	725	13:00.0		B-JV1	1
+158)  18977-Green, Evan        	Minnetonka          	724	13:00.0		B-JV1	1
+159)  18972-Caille, Cedric     	Minnetonka          	726	13:00.0		B-JV1	1
+160)  18980-Heikkila, Carter   	Minnetonka          	723	13:00.0		B-JV1	1
+161)  15023-Bishop, Eric       	Minnetonka          	720	13:00.0		B-JV1	1
+162)  15242-Fulk, Dominic      	Edina               	317	13:00.0		B-JV1	1
+163)  15215-Parmekar, Sam      	Edina               	315	13:00.0		B-JV1	1
+164)  15243-Van Dyke, Jackson  	Edina               	316	13:00.0		B-JV1	1
+165)  16968-Blanchett, August  	Edina               	318	13:00.0		B-JV1	1
+166)  16973-Ellenberger, Mark  	Edina               	319	13:00.0		B-JV1	1
+167)  16959-Kivimaki, Peter    	Edina               	320	13:00.0		B-JV1	1
+168)  19106-Mans, Henry        	Edina               	321	13:00.0		B-JV1	1
+169)  19107-Moore, George      	Edina               	322	14:00.0		B-JV1	1
+170)  19022-Olson, Carter      	Edina               	323	14:00.0		B-JV1	1
+171)  19131-324, JV1           	Edina               	324	14:00.0		B-JV1	1
+172)  19132-325, JV1           	Edina               	325	14:00.0		B-JV1	1
+173)  19133-326, JV1           	Edina               	326	14:00.0		B-JV1	1
+174)  19134-327, JV1           	Edina               	327	14:00.0		B-JV1	1
+175)  19135-328, JV1           	Edina               	328	14:00.0		B-JV1	1
+176)  18981-Johnson, Sether    	Minnetonka          	728	14:00.0		B-JV1	1
+177)  18985-McFarland, Andrew  	Minnetonka          	727	14:00.0		B-JV1	1
+178)  14853-Brick, Charles     	Wayzata             	922	14:00.0		B-JV1	1
+179)  11209-Skoglund-Anderson, 	Hopkins             	523	14:00.0		B-JV1	1
+180)  14862-Jette, Connor      	Wayzata             	925	14:00.0		B-JV1	1
+181)  18840-Quirk, Michael     	Wayzata             	924	14:00.0		B-JV1	1
+182)  16751-Smith, Walter      	Wayzata             	923	14:00.0		B-JV1	1
+183)  16752-Smith, Sam         	Wayzata             	926	14:00.0		B-JV1	1
+184)  16749-Sullivan, Ryan     	Wayzata             	927	14:00.0		B-JV1	1
+185)  11131-Roberts, Riley     	Wayzata             	928	14:00.0		B-JV1	1
+186)  15114-Nelson, Erik       	Hopkins             	522	14:00.0		B-JV1	1
+187)  18862-Lee, Oliver        	Hopkins             	521	14:00.0		B-JV1	1
+188)  16789-Aakhus, Blake      	Eden Prairie        	125	14:00.0		B-JV1	1
+189)  16796-Hammer, Jacob      	Eden Prairie        	124	14:00.0		B-JV1	1
+190)  14983-Huschke, Daniel    	Eden Prairie        	123	14:00.0		B-JV1	1
+191)  14987-Jay, Josh          	Eden Prairie        	122	14:00.0		B-JV1	1
+192)  18884-Lynch, Brian       	Eden Prairie        	127	14:00.0		B-JV1	1
+193)  15000-Olawsky, Alex      	Eden Prairie        	126	14:00.0		B-JV1	1
+194)  18891-Rouw, Jacob        	Eden Prairie        	128	14:00.0		B-JV1	1
+
+G-JV1
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+195)  16816-Andis, Teagan      	Eden Prairie        	221	19:00.0		G-JV1	1
+196)  18897-Bartnik, Clara     	Eden Prairie        	220	19:00.0		G-JV1	1
+197)  16819-Carlsen, Britta    	Eden Prairie        	217	19:00.0		G-JV1	1
+198)  16824-Fusaro, Maxine     	Eden Prairie        	222	19:00.0		G-JV1	1
+199)  15009-Nelson, Rachel     	Eden Prairie        	215	19:00.0		G-JV1	1
+200)  18911-Paulsen, Taylor    	Eden Prairie        	219	19:00.0		G-JV1	1
+201)  18917-Walinske, Lauren   	Eden Prairie        	218	19:00.0		G-JV1	1
+202)  15008-Zurn, Claire       	Eden Prairie        	216	19:00.0		G-JV1	1
+203)  11228-Matson, Eleanor    	Hopkins             	619	19:00.0		G-JV1	1
+204)  13523-Novak, Lynsey      	Hopkins             	616	19:00.0		G-JV1	1
+205)  16846-Cleary, Margaret   	Hopkins             	620	19:00.0		G-JV1	1
+206)  13522-Dunnewind, Jordan  	Hopkins             	621	19:00.0		G-JV1	1
+207)  11224-Hanson, Britta     	Hopkins             	618	19:00.0		G-JV1	1
+208)  13520-Krietzman, Ruby    	Hopkins             	615	19:00.0		G-JV1	1
+209)  18927-Abbott Ladner, Marg	Hopkins             	617	19:00.0		G-JV1	1
+210)  11173-Anderson, Britta   	Wayzata             	1023	19:00.0		G-JV1	1
+211)  18842-Andrews, Maeve     	Wayzata             	1019	19:00.0		G-JV1	1
+212)  11181-Orzeske, Maddie    	Wayzata             	1016	19:00.0		G-JV1	1
+213)  13305-Schindler, Claire  	Wayzata             	1021	19:00.0		G-JV1	1
+214)  14884-Schwarz, Kaitlin   	Wayzata             	1015	19:00.0		G-JV1	1
+215)  15123-Sullivan, Hannah   	Wayzata             	1022	19:00.0		G-JV1	1
+216)  14866-Brew, Anna         	Wayzata             	1017	19:00.0		G-JV1	1
+217)  13280-Dahl, Miranda      	Wayzata             	1020	19:00.0		G-JV1	1
+218)  19048-Mans, Abby         	Edina               	415	19:00.0		G-JV1	1
+219)  19030-Rummel, Anna       	Edina               	417	19:00.0		G-JV1	1
+220)  19034-Kohlmayr, Chiara   	Edina               	421	19:00.0		G-JV1	1
+221)  13577-Gratzek, Chloe     	Edina               	420	19:00.0		G-JV1	1
+222)  17010-Bruns, Rosalie     	Edina               	0	19:00.0		G-JV1	1
+223)  17032-Zdechlik, Grace    	Edina               	416	19:00.0		G-JV1	1
+224)  8821-Savre, Erin         	Edina               	418	19:00.0		G-JV1	1
+225)  18995-Lewis, Katie       	Minnetonka          	822	19:00.0		G-JV1	1
+226)  17082-Ryan, Lauren       	Minnetonka          	820	19:00.0		G-JV1	1
+227)  18999-Schuster, Jordan   	Minnetonka          	823	19:00.0		G-JV1	1
+228)  18991-Dahl, Lauren       	Minnetonka          	821	19:00.0		G-JV1	1
+229)  17078-Stedman, Nicole    	Minnetonka          	824	19:00.0		G-JV1	1
+230)  19138-425, JV1           	Edina               	424	20:00.0		G-JV1	1
+231)  19036-Behling, Emily     	Edina               	423	20:00.0		G-JV1	1
+232)  19035-Mendel, Molly      	Edina               	422	20:00.0		G-JV1	1
+233)  8678-Anderson, Tessa     	Wayzata             	1029	20:00.0		G-JV1	1
+234)  16771-Walker, Caitlyn    	Wayzata             	1028	20:00.0		G-JV1	1
+235)  16781-Arkesteyn, Lillian 	Wayzata             	1027	20:00.0		G-JV1	1
+236)  14864-Bach, Kaylen       	Wayzata             	1025	20:00.0		G-JV1	1
+237)  16779-Beck, Hannah       	Wayzata             	1026	20:00.0		G-JV1	1
+238)  14879-Myers, Katherine   	Wayzata             	1024	20:00.0		G-JV1	1
+239)  16837-Ahlquist, Anne     	Hopkins             	624	20:00.0		G-JV1	1
+240)  13587-Marti, Claire      	Hopkins             	625	20:00.0		G-JV1	1
+241)  16850-Donovan, Katherine 	Hopkins             	623	20:00.0		G-JV1	1
+242)  15104-Torrison, Jessica  	Hopkins             	622	20:00.0		G-JV1	1
+243)  18908-Manning, Megan     	Eden Prairie        	223	20:00.0		G-JV1	1
+244)  13319-Colford, Andrea    	Eden Prairie        	226	20:00.0		G-JV1	1
+245)  13321-Colford, Heidi     	Eden Prairie        	224	20:00.0		G-JV1	1
+246)  18898-Bratrud, Brooke    	Eden Prairie        	225	20:00.0		G-JV1	1
+247)  18896-Arvidson, Kylie    	Eden Prairie        	228	20:00.0		G-JV1	1
+248)  16815-Anderson, Haley    	Eden Prairie        	227	20:00.0		G-JV1	1
+
+BJVCl
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+249)  16807-Ose, John          	Eden Prairie        	130	24:00.0		BJVCl	1
+250)  14999-Heck, Kesh         	Eden Prairie        	131	24:00.0		BJVCl	1
+251)  18880-DeKam, Derek       	Eden Prairie        	133	24:00.0		BJVCl	1
+252)  14998-Fazio, Jake        	Eden Prairie        	129	24:00.0		BJVCl	1
+253)  18886-Mulder, George     	Eden Prairie        	132	24:00.0		BJVCl	1
+254)  18838-Schindler, John    	Wayzata             	934	24:00.0		BJVCl	1
+255)  16753-Myers, Michael     	Wayzata             	933	24:00.0		BJVCl	1
+256)  18833-Knueppel, Alexander	Wayzata             	932	24:00.0		BJVCl	1
+257)  18827-Koltz, James       	Wayzata             	930	24:00.0		BJVCl	1
+258)  18831-Esselman, Ben      	Wayzata             	931	24:00.0		BJVCl	1
+259)  18837-Poellinger, Evan   	Wayzata             	935	24:30.0		BJVCl	1
+260)  18828-Reuss, Eric        	Wayzata             	936	24:30.0		BJVCl	1
+261)  18887-Nambiar, Pranav    	Eden Prairie        	139	24:30.0		BJVCl	1
+262)  18881-Gutierrez, Ricky   	Eden Prairie        	136	24:30.0		BJVCl	1
+263)  16797-Holsten, Lance     	Eden Prairie        	134	24:30.0		BJVCl	1
+264)  15001-Huffman, Billy     	Eden Prairie        	135	24:30.0		BJVCl	1
+265)  18882-Kurisko, Cameron   	Eden Prairie        	137	24:30.0		BJVCl	1
+266)  18883-Larson, Ben        	Eden Prairie        	138	24:30.0		BJVCl	1
+267)  18890-Ritzinger, Henry   	Eden Prairie        	140	24:30.0		BJVCl	1
+268)  18892-Sharockman, Jacob  	Eden Prairie        	141	24:30.0		BJVCl	1
+269)  18893-Sparkman, Austin   	Eden Prairie        	142	25:00.0		BJVCl	1
+270)  18894-Swift, Evan        	Eden Prairie        	143	25:00.0		BJVCl	1
+271)  18895-Wagner, Danny      	Eden Prairie        	144	25:00.0		BJVCl	1
+272)  19094-Ardakani, Nick     	Eden Prairie        	145	25:00.0		BJVCl	1
+
+BJVSk
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+273)  11203-Heimlich, Wyatt    	Hopkins             	530	28:00.0		BJVSk	1
+274)  16882-Brendalen, Raymond 	Hopkins             	529	28:00.0		BJVSk	1
+275)  18826-Feller, Sam        	Wayzata             	939	28:00.0		BJVSk	1
+276)  16757-Emerick, Jacob     	Wayzata             	938	28:00.0		BJVSk	1
+277)  14860-Bremseth, Jotham   	Wayzata             	937	28:00.0		BJVSk	1
+278)  17050-Mayer, Zach        	Minnetonka          	731	28:00.0		BJVSk	1
+279)  18982-Linden, Peter      	Minnetonka          	732	28:00.0		BJVSk	1
+280)  18978-Green, Tres        	Minnetonka          	730	28:00.0		BJVSk	1
+281)  19126-Sannerud, David    	Edina               	330	28:00.0		BJVSk	1
+282)  19024-Stoltz, Ethan      	Edina               	329	28:00.0		BJVSk	1
+283)  15212-Loff, Andrew       	Edina               	331	28:30.0		BJVSk	1
+284)  19019-Pastor, Evan       	Edina               	332	28:30.0		BJVSk	1
+285)  19105-Ramlet, Logan      	Edina               	333	28:30.0		BJVSk	1
+286)  18983-Mackinnon, James   	Minnetonka          	733	28:30.0		BJVSk	1
+287)  18970-Bodkins, Riley     	Minnetonka          	734	28:30.0		BJVSk	1
+288)  18829-Basten, Ben        	Wayzata             	941	28:30.0		BJVSk	1
+289)  18832-Fetrow, Frank      	Wayzata             	940	28:30.0		BJVSk	1
+290)  18866-Eng, Isaac         	Hopkins             	531	28:30.0		BJVSk	1
+291)  16916-Plaunt, Eric       	Hopkins             	532	28:30.0		BJVSk	1
+292)  11208-Mitchell, Robert   	Hopkins             	533	28:30.0		BJVSk	1
+293)  16895-Hunwardsen, Sean   	Hopkins             	534	29:00.0		BJVSk	1
+294)  16879-Avenson, Simon     	Hopkins             	535	29:00.0		BJVSk	1
+295)  18835-Eyer, Blake        	Wayzata             	943	29:00.0		BJVSk	1
+296)  18836-King, Nick         	Wayzata             	944	29:00.0		BJVSk	1
+297)  18830-Dunn, Hugo         	Wayzata             	942	29:00.0		BJVSk	1
+298)  18969-Arnar, Erik        	Minnetonka          	735	29:00.0		BJVSk	1
+299)  18984-Maples, Jacob      	Minnetonka          	737	29:00.0		BJVSk	1
+300)  18989-Thiss, Olivier     	Minnetonka          	736	29:00.0		BJVSk	1
+301)  19103-Thiele, Lee        	Edina               	335	29:00.0		BJVSk	1
+302)  19102-Colestock, Jason   	Edina               	334	29:00.0		BJVSk	1
+303)  16961-Maitland, Caelan   	Edina               	339	29:30.0		BJVSk	1
+304)  16957-Calvo, Noah        	Edina               	337	29:30.0		BJVSk	1
+305)  19149-Brandt, Benjamin   	Edina               	336	29:30.0		BJVSk	1
+306)  19142-LeBarron, Samuel   	Edina               	338	29:30.0		BJVSk	1
+307)  16924-Zeitz, Paul        	Hopkins             	538	29:30.0		BJVSk	1
+308)  18822-Mohamed, Omar      	Wayzata             	945	29:30.0		BJVSk	1
+309)  16758-Thompson, Mike     	Wayzata             	946	29:30.0		BJVSk	1
+310)  18839-Smirnov, Vladimir  	Wayzata             	947	29:30.0		BJVSk	1
+311)  16894-Hoffman, Jesper    	Hopkins             	537	29:30.0		BJVSk	1
+312)  18863-Ludwig, Matthew    	Hopkins             	536	29:30.0		BJVSk	1
+313)  18920-Stochowicz, Cole   	Hopkins             	539	30:00.0		BJVSk	1
+314)  18878-Yourzak, Luke      	Hopkins             	540	30:00.0		BJVSk	1
+315)  18864-Antar, Mohamed     	Hopkins             	543	30:00.0		BJVSk	1
+316)  13490-Cousins, Charles   	Hopkins             	544	30:00.0		BJVSk	1
+317)  18865-Endres, Luke       	Hopkins             	542	30:00.0		BJVSk	1
+318)  19125-Carlson, Anders    	Edina               	343	30:00.0		BJVSk	1
+319)  16970-Bowlin, Noah       	Edina               	340	30:00.0		BJVSk	1
+320)  19020-Brooks, Henry      	Edina               	341	30:00.0		BJVSk	1
+321)  16971-Calvo, Jonah       	Edina               	342	30:00.0		BJVSk	1
+322)  19109-Gholkar, Rohan     	Edina               	344	30:00.0		BJVSk	1
+323)  16978-Larson, Peter      	Edina               	345	30:30.0		BJVSk	1
+324)  19124-Boisvert, Parker   	Edina               	349	30:30.0		BJVSk	1
+325)  16981-Zahn, Peter        	Edina               	347	30:30.0		BJVSk	1
+326)  19111-Zappa, Michael     	Edina               	348	30:30.0		BJVSk	1
+327)  19021-Smeaton, Matthew   	Edina               	346	30:30.0		BJVSk	1
+328)  18867-Erickson, Evan     	Hopkins             	545	30:30.0		BJVSk	1
+329)  16889-Goering, Joshua    	Hopkins             	546	30:30.0		BJVSk	1
+330)  18919-Gunderson, Benjamin	Hopkins             	547	30:30.0		BJVSk	1
+331)  16891-Henderson, Justin  	Hopkins             	548	30:30.0		BJVSk	1
+332)  18868-Holmes, Nicolas    	Hopkins             	549	30:30.0		BJVSk	1
+333)  13499-Johnson, Jasper    	Hopkins             	550	31:00.0		BJVSk	1
+334)  18869-Klemm, Ryan        	Hopkins             	551	31:00.0		BJVSk	1
+335)  13529-Lande, Neil        	Hopkins             	552	31:00.0		BJVSk	1
+336)  16905-Maine, Steven      	Hopkins             	553	31:00.0		BJVSk	1
+337)  18870-Miller, James      	Hopkins             	554	31:00.0		BJVSk	1
+338)  19108-Rock, Peter        	Edina               	352	31:00.0		BJVSk	1
+339)  19023-Wright, Grayson    	Edina               	353	31:00.0		BJVSk	1
+340)  19150-354, JV2S          	Edina               	354	31:00.0		BJVSk	1
+341)  19148-Jessen, Lucas      	Edina               	350	31:00.0		BJVSk	1
+342)  19147-Miller, Ben        	Edina               	351	31:00.0		BJVSk	1
+343)  19151-355, JV2S          	Edina               	355	31:30.0		BJVSk	1
+344)  19152-356, JV2S          	Edina               	356	31:30.0		BJVSk	1
+345)  19153-357, JV2S          	Edina               	357	31:30.0		BJVSk	1
+346)  19154-358, JV2S          	Edina               	358	31:30.0		BJVSk	1
+347)  16908-Mydra, Daniel      	Hopkins             	555	31:30.0		BJVSk	1
+348)  18871-Peng, Maxim        	Hopkins             	556	31:30.0		BJVSk	1
+349)  18872-Rauser, Kelson     	Hopkins             	557	31:30.0		BJVSk	1
+350)  18873-Sagedahl, Penn     	Hopkins             	558	31:30.0		BJVSk	1
+351)  18874-Schricker, Seth    	Hopkins             	559	31:30.0		BJVSk	1
+352)  18875-Skoglund-Anderson, 	Hopkins             	560	31:30.0		BJVSk	1
+353)  16917-Stewart, Storm     	Hopkins             	561	32:00.0		BJVSk	1
+354)  16919-Unruh-Friesen, Evan	Hopkins             	562	32:00.0		BJVSk	1
+355)  18876-Wogstad, Bjorn     	Hopkins             	563	32:00.0		BJVSk	1
+356)  18877-Wormuth, Oscar     	Hopkins             	564	32:00.0		BJVSk	1
+
+GJVCl
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+357)  18860-Bremseth, Ketura   	Wayzata             	1033	35:30.0		GJVCl	1
+358)  16764-Schindler, Emma    	Wayzata             	1031	35:30.0		GJVCl	1
+359)  16768-Speier, Jane       	Wayzata             	1032	35:30.0		GJVCl	1
+360)  8829-Louwigie, Erin      	Wayzata             	1030	35:30.0		GJVCl	1
+361)  18915-Vedeler, Alexandra 	Eden Prairie        	230	35:30.0		GJVCl	1
+362)  15015-Johnson, Colette   	Eden Prairie        	232	35:30.0		GJVCl	1
+363)  15018-Rao, Saahithi      	Eden Prairie        	233	35:30.0		GJVCl	1
+364)  15016-Martens, Abby      	Eden Prairie        	234	35:30.0		GJVCl	1
+365)  15017-Minder, Alyssa     	Eden Prairie        	229	35:30.0		GJVCl	1
+366)  15014-Fischer, Emily     	Eden Prairie        	231	35:30.0		GJVCl	1
+367)  18900-Frieler, Madison   	Eden Prairie        	237	36:00.0		GJVCl	1
+368)  18901-Gross, Cassie      	Eden Prairie        	238	36:00.0		GJVCl	1
+369)  18899-Cottrell, Alli     	Eden Prairie        	236	36:00.0		GJVCl	1
+370)  15021-Emerson, Maria     	Eden Prairie        	242	36:00.0		GJVCl	1
+371)  18909-Moseman, Julia     	Eden Prairie        	244	36:00.0		GJVCl	1
+372)  16836-Olson, Chelsea     	Eden Prairie        	235	36:00.0		GJVCl	1
+373)  18912-Pearson, Sally     	Eden Prairie        	239	36:00.0		GJVCl	1
+374)  18906-Jacobson, Abby     	Eden Prairie        	241	36:00.0		GJVCl	1
+375)  18904-Helgeson, Grace    	Eden Prairie        	240	36:00.0		GJVCl	1
+376)  18907-Lagerquist, Callie 	Eden Prairie        	243	36:00.0		GJVCl	1
+377)  18914-Townsend, Ashley   	Eden Prairie        	248	36:30.0		GJVCl	1
+378)  18916-Wagner, Jenna      	Eden Prairie        	249	36:30.0		GJVCl	1
+379)  18905-Henstein, Olivia   	Eden Prairie        	247	36:30.0		GJVCl	1
+380)  13333-Pollino, Jessica   	Eden Prairie        	250	36:30.0		GJVCl	1
+381)  18903-Harvey, Emily      	Eden Prairie        	246	36:30.0		GJVCl	1
+382)  13322-Furmanski, Kayla   	Eden Prairie        	245	36:30.0		GJVCl	1
+383)  16827-Koehler, Sophie    	Eden Prairie        	253	36:30.0		GJVCl	1
+384)  18918-Weiman, Malynn     	Eden Prairie        	254	36:30.0		GJVCl	1
+
+GJVSk
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+385)  16765-Ingemann, Anna     	Wayzata             	1036	39:30.0		GJVSk	1
+386)  14871-Johnson, Linnae    	Wayzata             	1034	39:30.0		GJVSk	1
+387)  18841-Lybaek, Elisa      	Wayzata             	1035	39:30.0		GJVSk	1
+388)  15348-Charlesworth-Seiler	Hopkins             	630	39:30.0		GJVSk	1
+389)  16877-Wilson, Holly      	Hopkins             	629	39:30.0		GJVSk	1
+390)  17085-Hillis, Emma       	Minnetonka          	831	39:30.0		GJVSk	1
+391)  18996-Maples, Amanda     	Minnetonka          	830	39:30.0		GJVSk	1
+392)  18998-Rieder, Gillian    	Minnetonka          	832	39:30.0		GJVSk	1
+393)  19033-Horns, Martina     	Edina               	429	39:30.0		GJVSk	1
+394)  19100-Bentley, Rachel    	Edina               	430	39:30.0		GJVSk	1
+395)  15230-Dryden, Hanna      	Edina               	431	40:00.0		GJVSk	1
+396)  13567-Houle, Caitlin     	Edina               	432	40:00.0		GJVSk	1
+397)  18992-Gunther, Irena     	Minnetonka          	835	40:00.0		GJVSk	1
+398)  19031-Sweeney, Logan     	Edina               	433	40:00.0		GJVSk	1
+399)  17066-Ahern, Summer      	Minnetonka          	834	40:00.0		GJVSk	1
+400)  16766-Brick, Mara        	Wayzata             	1037	40:00.0		GJVSk	1
+401)  18843-Alexander, Sarah   	Wayzata             	1038	40:00.0		GJVSk	1
+402)  18922-Hinck, Laura       	Hopkins             	631	40:00.0		GJVSk	1
+403)  18930-Dirnberger, Claire 	Hopkins             	633	40:00.0		GJVSk	1
+404)  16849-Donovan, Hillary   	Hopkins             	632	40:00.0		GJVSk	1
+405)  16839-Anderson, Ellen    	Hopkins             	634	40:30.0		GJVSk	1
+406)  16842-Bell, Camryn       	Hopkins             	635	40:30.0		GJVSk	1
+407)  18844-Bernard, Lext      	Wayzata             	1039	40:30.0		GJVSk	1
+408)  18849-Debelak, Kalie     	Wayzata             	1040	40:30.0		GJVSk	1
+409)  18855-Emerick, Ellie     	Wayzata             	1041	40:30.0		GJVSk	1
+410)  19044-Sweeney, Tate      	Edina               	434	40:30.0		GJVSk	1
+411)  18994-Kirk, Arianna      	Minnetonka          	837	40:30.0		GJVSk	1
+412)  19000-Silberschmidt, Simo	Minnetonka          	836	40:30.0		GJVSk	1
+413)  19146-Hussey, Megan      	Edina               	435	40:30.0		GJVSk	1
+414)  15237-Ashbrook, Katherine	Edina               	436	40:30.0		GJVSk	1
+415)  19099-LiaBraaten, Brynn  	Edina               	438	41:00.0		GJVSk	1
+416)  19038-Kemp, Ellen        	Edina               	437	41:00.0		GJVSk	1
+417)  19119-Mitchell, Hannah   	Edina               	439	41:00.0		GJVSk	1
+418)  18850-Herchuk, Allison   	Wayzata             	1042	41:00.0		GJVSk	1
+419)  18847-Orning, Kenzie     	Wayzata             	1043	41:00.0		GJVSk	1
+420)  18853-Bomsta, Madeline   	Wayzata             	1045	41:00.0		GJVSk	1
+421)  18928-Bialick, Addison   	Hopkins             	636	41:00.0		GJVSk	1
+422)  16843-Bissell, Sarina    	Hopkins             	637	41:00.0		GJVSk	1
+423)  18929-Byron, Mariah      	Hopkins             	638	41:00.0		GJVSk	1
+424)  18921-Cortez, Ashley     	Hopkins             	639	41:00.0		GJVSk	1
+425)  16860-Goering, Emily     	Hopkins             	641	41:30.0		GJVSk	1
+426)  18923-Holm, Lucy         	Hopkins             	642	41:30.0		GJVSk	1
+427)  18931-Dupay, Jessie      	Hopkins             	640	41:30.0		GJVSk	1
+428)  18856-Healy, Anna        	Wayzata             	1048	41:30.0		GJVSk	1
+429)  14888-Sushko, Anastasia  	Wayzata             	1046	41:30.0		GJVSk	1
+430)  18859-Walker, Amelia     	Wayzata             	1047	41:30.0		GJVSk	1
+431)  16770-Boche, Madeline    	Wayzata             	1049	41:30.0		GJVSk	1
+432)  19041-Mosborg, Amanda    	Edina               	440	41:30.0		GJVSk	1
+433)  19120-O'Neill, Ellen     	Edina               	441	41:30.0		GJVSk	1
+434)  19098-Boman, Maria       	Edina               	442	41:30.0		GJVSk	1
+435)  17025-Boss, Anika        	Edina               	443	42:00.0		GJVSk	1
+436)  19046-Dzandzara, Abby    	Edina               	444	42:00.0		GJVSk	1
+437)  19143-Fabbro, Julia      	Edina               	445	42:00.0		GJVSk	1
+438)  19144-Fleury, Sarah      	Edina               	446	42:00.0		GJVSk	1
+439)  16772-Woolf, Blake       	Wayzata             	1051	42:00.0		GJVSk	1
+440)  18854-Chen, Carisa       	Wayzata             	1050	42:00.0		GJVSk	1
+441)  16777-Matulis, Nina      	Wayzata             	1052	42:00.0		GJVSk	1
+442)  11225-Holm, Sophia       	Hopkins             	643	42:00.0		GJVSk	1
+443)  16863-Jacobwith, Natalie 	Hopkins             	644	42:00.0		GJVSk	1
+444)  18932-Johnson, Ivy       	Hopkins             	645	42:00.0		GJVSk	1
+445)  18933-Juntilla, Alyssa   	Hopkins             	646	42:30.0		GJVSk	1
+446)  18934-Lee, Anna          	Hopkins             	647	42:30.0		GJVSk	1
+447)  18935-Luther, Emma       	Hopkins             	648	42:30.0		GJVSk	1
+448)  13588-Martodam, Madeline 	Hopkins             	649	42:30.0		GJVSk	1
+449)  18852-McLaughlin, Paige  	Wayzata             	1054	42:30.0		GJVSk	1
+450)  18858-Kaster, Grace      	Wayzata             	1055	42:30.0		GJVSk	1
+451)  19050-Cushman, Lily      	Edina               	450	42:30.0		GJVSk	1
+452)  17030-Ruschy, Emily      	Edina               	449	42:30.0		GJVSk	1
+453)  19145-Mahlum, Ellery     	Edina               	448	42:30.0		GJVSk	1
+454)  19097-Hulbert, Katherine 	Edina               	447	42:30.0		GJVSk	1
+455)  19123-Ebner, Elizabeth   	Edina               	451	43:00.0		GJVSk	1
+456)  19117-Hinrich, Sadie     	Edina               	452	43:00.0		GJVSk	1
+457)  19115-Holm, Francesca    	Edina               	453	43:00.0		GJVSk	1
+458)  19118-Lawler, Maddy      	Edina               	454	43:00.0		GJVSk	1
+459)  19116-Lockhart, Libby    	Edina               	455	43:00.0		GJVSk	1
+460)  18924-McEnnis, Orla      	Hopkins             	650	43:00.0		GJVSk	1
+461)  18936-Miller, Erin       	Hopkins             	651	43:00.0		GJVSk	1
+462)  15096-Minnihan, Serena   	Hopkins             	652	43:00.0		GJVSk	1
+463)  18939-O'Meara, Maeve     	Hopkins             	653	43:00.0		GJVSk	1
+464)  18925-O'Neil, Riley      	Hopkins             	654	43:00.0		GJVSk	1
+465)  16869-Oestreich, Alissa  	Hopkins             	655	43:30.0		GJVSk	1
+466)  18937-Oestreich, Miranda 	Hopkins             	656	43:30.0		GJVSk	1
+467)  18938-Olson, Samantha    	Hopkins             	657	43:30.0		GJVSk	1
+468)  18926-Provenzano, Lily   	Hopkins             	658	43:30.0		GJVSk	1
+469)  11326-Pyzdrowski, Halina 	Hopkins             	659	43:30.0		GJVSk	1
+470)  18940-Richter, Kaytlin   	Hopkins             	660	43:30.0		GJVSk	1
+471)  19096-Peterson, Danielle 	Edina               	456	43:30.0		GJVSk	1
+472)  19136-423, JV1           	Edina               	458	43:30.0		GJVSk	1
+473)  19122-Stone, Lauren      	Edina               	457	43:30.0		GJVSk	1
+474)  19137-424, JV1           	Edina               	459	43:30.0		GJVSk	1
+475)  18941-Roth, Emma         	Hopkins             	661	44:00.0		GJVSk	1
+476)  18942-Saari, Alexis      	Hopkins             	662	44:00.0		GJVSk	1
+477)  18943-Sheely, Margaret   	Hopkins             	663	44:00.0		GJVSk	1
+478)  18947-Shossana, Piefer   	Hopkins             	664	44:00.0		GJVSk	1
+479)  18944-Showers, Callan    	Hopkins             	665	44:00.0		GJVSk	1
+480)  15085-Slattery, Megan    	Hopkins             	667	44:00.0		GJVSk	1
+481)  18945-Steinberg, Anya    	Hopkins             	668	44:00.0		GJVSk	1
+482)  18946-Woodyard, Emma     	Hopkins             	669	44:00.0		GJVSk	1
+483)  13525-Farhat, Bri        	Hopkins             	670	44:00.0		GJVSk	1
+
+
+
+Running Order By Team
+
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+1)    14986-Christensen, Will  	Eden Prairie        	101	1:00.00		B-V	1
+2)    13378-Fisher, Andrew     	Eden Prairie        	102	1:00.00		B-V	1
+3)    14985-Korus, Daniel      	Eden Prairie        	103	1:00.00		B-V	1
+4)    14984-Russell, Marcus    	Eden Prairie        	104	1:00.00		B-V	1
+5)    16808-Pahl, Sam          	Eden Prairie        	105	1:00.00		B-V	1
+6)    16800-Keenan, Ryan       	Eden Prairie        	106	1:00.00		B-V	1
+7)    14993-Derks, Nathan      	Eden Prairie        	107	1:00.00		B-V	1
+8)    16812-Tauer, Alec        	Eden Prairie        	108	2:00.00		B-V	1
+9)    16799-Jeter, Kevin       	Eden Prairie        	109	2:00.00		B-V	1
+10)   14989-Gardner, Mitch     	Eden Prairie        	110	2:00.00		B-V	1
+11)   13381-McDowall, Miles    	Eden Prairie        	111	2:00.00		B-V	1
+12)   14988-Krause, Tim        	Eden Prairie        	112	2:00.00		B-V	1
+13)   16813-Thies, John        	Eden Prairie        	113	2:00.00		B-V	1
+14)   16794-De Jong, Matt      	Eden Prairie        	114	2:00.00		B-V	1
+15)   13386-Savereide, Erik    	Eden Prairie        	115	13:00.0		B-JV1	1
+16)   14991-Fritz, Derek       	Eden Prairie        	116	13:00.0		B-JV1	1
+17)   14990-Simons, Grant      	Eden Prairie        	117	13:00.0		B-JV1	1
+18)   13380-Jenderko, Nicholas 	Eden Prairie        	118	13:00.0		B-JV1	1
+19)   18879-Claridge, Will     	Eden Prairie        	119	13:00.0		B-JV1	1
+20)   18885-Madison, Jack      	Eden Prairie        	120	13:00.0		B-JV1	1
+21)   16810-Schacht, Nathan    	Eden Prairie        	121	13:00.0		B-JV1	1
+22)   14987-Jay, Josh          	Eden Prairie        	122	14:00.0		B-JV1	1
+23)   14983-Huschke, Daniel    	Eden Prairie        	123	14:00.0		B-JV1	1
+24)   16796-Hammer, Jacob      	Eden Prairie        	124	14:00.0		B-JV1	1
+25)   16789-Aakhus, Blake      	Eden Prairie        	125	14:00.0		B-JV1	1
+26)   15000-Olawsky, Alex      	Eden Prairie        	126	14:00.0		B-JV1	1
+27)   18884-Lynch, Brian       	Eden Prairie        	127	14:00.0		B-JV1	1
+28)   18891-Rouw, Jacob        	Eden Prairie        	128	14:00.0		B-JV1	1
+29)   14998-Fazio, Jake        	Eden Prairie        	129	24:00.0		BJVCl	1
+30)   16807-Ose, John          	Eden Prairie        	130	24:00.0		BJVCl	1
+31)   14999-Heck, Kesh         	Eden Prairie        	131	24:00.0		BJVCl	1
+32)   18886-Mulder, George     	Eden Prairie        	132	24:00.0		BJVCl	1
+33)   18880-DeKam, Derek       	Eden Prairie        	133	24:00.0		BJVCl	1
+34)   16797-Holsten, Lance     	Eden Prairie        	134	24:30.0		BJVCl	1
+35)   15001-Huffman, Billy     	Eden Prairie        	135	24:30.0		BJVCl	1
+36)   18881-Gutierrez, Ricky   	Eden Prairie        	136	24:30.0		BJVCl	1
+37)   18882-Kurisko, Cameron   	Eden Prairie        	137	24:30.0		BJVCl	1
+38)   18883-Larson, Ben        	Eden Prairie        	138	24:30.0		BJVCl	1
+39)   18887-Nambiar, Pranav    	Eden Prairie        	139	24:30.0		BJVCl	1
+40)   18890-Ritzinger, Henry   	Eden Prairie        	140	24:30.0		BJVCl	1
+41)   18892-Sharockman, Jacob  	Eden Prairie        	141	24:30.0		BJVCl	1
+42)   18893-Sparkman, Austin   	Eden Prairie        	142	25:00.0		BJVCl	1
+43)   18894-Swift, Evan        	Eden Prairie        	143	25:00.0		BJVCl	1
+44)   18895-Wagner, Danny      	Eden Prairie        	144	25:00.0		BJVCl	1
+45)   19094-Ardakani, Nick     	Eden Prairie        	145	25:00.0		BJVCl	1
+46)   13336-Stewart, Eryn      	Eden Prairie        	201	7:00.00		G-V	1
+47)   15012-Batchlor, Micayla  	Eden Prairie        	202	7:00.00		G-V	1
+48)   15013-Miller, Ellie      	Eden Prairie        	203	7:00.00		G-V	1
+49)   16832-Tauer, Riley       	Eden Prairie        	204	7:00.00		G-V	1
+50)   13334-Rouse, Grace       	Eden Prairie        	205	7:00.00		G-V	1
+51)   15005-Birkle, Elise      	Eden Prairie        	206	7:00.00		G-V	1
+52)   15011-Schnirring, Sam    	Eden Prairie        	207	7:00.00		G-V	1
+53)   15006-Drach, Abigail     	Eden Prairie        	208	8:00.00		G-V	1
+54)   13320-Colford, Greta     	Eden Prairie        	209	8:00.00		G-V	1
+55)   16823-Frischmon, Caroline	Eden Prairie        	210	8:00.00		G-V	1
+56)   13338-Vergeront, Katie   	Eden Prairie        	211	8:00.00		G-V	1
+57)   13324-Hanson, Madison    	Eden Prairie        	212	8:00.00		G-V	1
+58)   16835-Ziegler, Mikaela   	Eden Prairie        	213	8:00.00		G-V	1
+59)   16831-Stenoien, Hannah   	Eden Prairie        	214	8:00.00		G-V	1
+60)   15009-Nelson, Rachel     	Eden Prairie        	215	19:00.0		G-JV1	1
+61)   15008-Zurn, Claire       	Eden Prairie        	216	19:00.0		G-JV1	1
+62)   16819-Carlsen, Britta    	Eden Prairie        	217	19:00.0		G-JV1	1
+63)   18917-Walinske, Lauren   	Eden Prairie        	218	19:00.0		G-JV1	1
+64)   18911-Paulsen, Taylor    	Eden Prairie        	219	19:00.0		G-JV1	1
+65)   18897-Bartnik, Clara     	Eden Prairie        	220	19:00.0		G-JV1	1
+66)   16816-Andis, Teagan      	Eden Prairie        	221	19:00.0		G-JV1	1
+67)   16824-Fusaro, Maxine     	Eden Prairie        	222	19:00.0		G-JV1	1
+68)   18908-Manning, Megan     	Eden Prairie        	223	20:00.0		G-JV1	1
+69)   13321-Colford, Heidi     	Eden Prairie        	224	20:00.0		G-JV1	1
+70)   18898-Bratrud, Brooke    	Eden Prairie        	225	20:00.0		G-JV1	1
+71)   13319-Colford, Andrea    	Eden Prairie        	226	20:00.0		G-JV1	1
+72)   16815-Anderson, Haley    	Eden Prairie        	227	20:00.0		G-JV1	1
+73)   18896-Arvidson, Kylie    	Eden Prairie        	228	20:00.0		G-JV1	1
+74)   15017-Minder, Alyssa     	Eden Prairie        	229	35:30.0		GJVCl	1
+75)   18915-Vedeler, Alexandra 	Eden Prairie        	230	35:30.0		GJVCl	1
+76)   15014-Fischer, Emily     	Eden Prairie        	231	35:30.0		GJVCl	1
+77)   15015-Johnson, Colette   	Eden Prairie        	232	35:30.0		GJVCl	1
+78)   15018-Rao, Saahithi      	Eden Prairie        	233	35:30.0		GJVCl	1
+79)   15016-Martens, Abby      	Eden Prairie        	234	35:30.0		GJVCl	1
+80)   16836-Olson, Chelsea     	Eden Prairie        	235	36:00.0		GJVCl	1
+81)   18899-Cottrell, Alli     	Eden Prairie        	236	36:00.0		GJVCl	1
+82)   18900-Frieler, Madison   	Eden Prairie        	237	36:00.0		GJVCl	1
+83)   18901-Gross, Cassie      	Eden Prairie        	238	36:00.0		GJVCl	1
+84)   18912-Pearson, Sally     	Eden Prairie        	239	36:00.0		GJVCl	1
+85)   18904-Helgeson, Grace    	Eden Prairie        	240	36:00.0		GJVCl	1
+86)   18906-Jacobson, Abby     	Eden Prairie        	241	36:00.0		GJVCl	1
+87)   15021-Emerson, Maria     	Eden Prairie        	242	36:00.0		GJVCl	1
+88)   18907-Lagerquist, Callie 	Eden Prairie        	243	36:00.0		GJVCl	1
+89)   18909-Moseman, Julia     	Eden Prairie        	244	36:00.0		GJVCl	1
+90)   13322-Furmanski, Kayla   	Eden Prairie        	245	36:30.0		GJVCl	1
+91)   18903-Harvey, Emily      	Eden Prairie        	246	36:30.0		GJVCl	1
+92)   18905-Henstein, Olivia   	Eden Prairie        	247	36:30.0		GJVCl	1
+93)   18914-Townsend, Ashley   	Eden Prairie        	248	36:30.0		GJVCl	1
+94)   18916-Wagner, Jenna      	Eden Prairie        	249	36:30.0		GJVCl	1
+95)   13333-Pollino, Jessica   	Eden Prairie        	250	36:30.0		GJVCl	1
+96)   16827-Koehler, Sophie    	Eden Prairie        	253	36:30.0		GJVCl	1
+97)   18918-Weiman, Malynn     	Eden Prairie        	254	36:30.0		GJVCl	1
+
+98)   17010-Bruns, Rosalie     	Edina               	0	19:00.0		G-JV1	1
+99)   11246-Jarvinen, Henry    	Edina               	301	1:00.00		B-V	1
+100)  16935-Johansen, Syver    	Edina               	302	1:00.00		B-V	1
+101)  15219-Hussey, Conor      	Edina               	303	1:00.00		B-V	1
+102)  13445-Illig, Peter       	Edina               	304	1:00.00		B-V	1
+103)  16934-Dulas, Matthew     	Edina               	305	1:00.00		B-V	1
+104)  15121-Jarvinen, George   	Edina               	306	1:00.00		B-V	1
+105)  8807-Parady, Jonah       	Edina               	307	1:00.00		B-V	1
+106)  8804-Ellenberger, David  	Edina               	308	2:00.00		B-V	1
+107)  16974-Gage, Owen         	Edina               	309	2:00.00		B-V	1
+108)  13539-Ogren, Alexander   	Edina               	310	2:00.00		B-V	1
+109)  15246-Kuhs, Max          	Edina               	311	2:00.00		B-V	1
+110)  11243-Sullivan, Daniel   	Edina               	312	2:00.00		B-V	1
+111)  16975-Gage, William      	Edina               	313	2:00.00		B-V	1
+112)  17315-Rundquist, William 	Edina               	314	2:00.00		B-V	1
+113)  15215-Parmekar, Sam      	Edina               	315	13:00.0		B-JV1	1
+114)  15243-Van Dyke, Jackson  	Edina               	316	13:00.0		B-JV1	1
+115)  15242-Fulk, Dominic      	Edina               	317	13:00.0		B-JV1	1
+116)  16968-Blanchett, August  	Edina               	318	13:00.0		B-JV1	1
+117)  16973-Ellenberger, Mark  	Edina               	319	13:00.0		B-JV1	1
+118)  16959-Kivimaki, Peter    	Edina               	320	13:00.0		B-JV1	1
+119)  19106-Mans, Henry        	Edina               	321	13:00.0		B-JV1	1
+120)  19107-Moore, George      	Edina               	322	14:00.0		B-JV1	1
+121)  19022-Olson, Carter      	Edina               	323	14:00.0		B-JV1	1
+122)  19131-324, JV1           	Edina               	324	14:00.0		B-JV1	1
+123)  19132-325, JV1           	Edina               	325	14:00.0		B-JV1	1
+124)  19133-326, JV1           	Edina               	326	14:00.0		B-JV1	1
+125)  19134-327, JV1           	Edina               	327	14:00.0		B-JV1	1
+126)  19135-328, JV1           	Edina               	328	14:00.0		B-JV1	1
+127)  19024-Stoltz, Ethan      	Edina               	329	28:00.0		BJVSk	1
+128)  19126-Sannerud, David    	Edina               	330	28:00.0		BJVSk	1
+129)  15212-Loff, Andrew       	Edina               	331	28:30.0		BJVSk	1
+130)  19019-Pastor, Evan       	Edina               	332	28:30.0		BJVSk	1
+131)  19105-Ramlet, Logan      	Edina               	333	28:30.0		BJVSk	1
+132)  19102-Colestock, Jason   	Edina               	334	29:00.0		BJVSk	1
+133)  19103-Thiele, Lee        	Edina               	335	29:00.0		BJVSk	1
+134)  19149-Brandt, Benjamin   	Edina               	336	29:30.0		BJVSk	1
+135)  16957-Calvo, Noah        	Edina               	337	29:30.0		BJVSk	1
+136)  19142-LeBarron, Samuel   	Edina               	338	29:30.0		BJVSk	1
+137)  16961-Maitland, Caelan   	Edina               	339	29:30.0		BJVSk	1
+138)  16970-Bowlin, Noah       	Edina               	340	30:00.0		BJVSk	1
+139)  19020-Brooks, Henry      	Edina               	341	30:00.0		BJVSk	1
+140)  16971-Calvo, Jonah       	Edina               	342	30:00.0		BJVSk	1
+141)  19125-Carlson, Anders    	Edina               	343	30:00.0		BJVSk	1
+142)  19109-Gholkar, Rohan     	Edina               	344	30:00.0		BJVSk	1
+143)  16978-Larson, Peter      	Edina               	345	30:30.0		BJVSk	1
+144)  19021-Smeaton, Matthew   	Edina               	346	30:30.0		BJVSk	1
+145)  16981-Zahn, Peter        	Edina               	347	30:30.0		BJVSk	1
+146)  19111-Zappa, Michael     	Edina               	348	30:30.0		BJVSk	1
+147)  19124-Boisvert, Parker   	Edina               	349	30:30.0		BJVSk	1
+148)  19148-Jessen, Lucas      	Edina               	350	31:00.0		BJVSk	1
+149)  19147-Miller, Ben        	Edina               	351	31:00.0		BJVSk	1
+150)  19108-Rock, Peter        	Edina               	352	31:00.0		BJVSk	1
+151)  19023-Wright, Grayson    	Edina               	353	31:00.0		BJVSk	1
+152)  19150-354, JV2S          	Edina               	354	31:00.0		BJVSk	1
+153)  19151-355, JV2S          	Edina               	355	31:30.0		BJVSk	1
+154)  19152-356, JV2S          	Edina               	356	31:30.0		BJVSk	1
+155)  19153-357, JV2S          	Edina               	357	31:30.0		BJVSk	1
+156)  19154-358, JV2S          	Edina               	358	31:30.0		BJVSk	1
+157)  11277-Kemp, Lindsey      	Edina               	401	7:00.00		G-V	1
+158)  17020-Willmert, Talia    	Edina               	402	7:00.00		G-V	1
+159)  8824-Peterson, Samantha  	Edina               	403	7:00.00		G-V	1
+160)  17031-Willmert, Triana   	Edina               	404	7:00.00		G-V	1
+161)  17026-Kompelien, Emily   	Edina               	405	7:00.00		G-V	1
+162)  11286-McKlveen, Charlotte	Edina               	406	7:00.00		G-V	1
+163)  11285-Lindberg, Ella     	Edina               	407	7:00.00		G-V	1
+164)  19058-Bentley, Jessica A 	Edina               	408	8:00.00		G-V	1
+165)  17015-Hinrichs, Raegan   	Edina               	409	8:00.00		G-V	1
+166)  11283-Klos, Sara         	Edina               	410	8:00.00		G-V	1
+167)  15235-Oconnell, Kitty    	Edina               	411	8:00.00		G-V	1
+168)  15238-Crosby, Sophia     	Edina               	412	8:00.00		G-V	1
+169)  17028-Mendel, Katherine  	Edina               	413	8:00.00		G-V	1
+170)  13575-Bowlin, Alayna     	Edina               	414	8:00.00		G-V	1
+171)  19048-Mans, Abby         	Edina               	415	19:00.0		G-JV1	1
+172)  17032-Zdechlik, Grace    	Edina               	416	19:00.0		G-JV1	1
+173)  19030-Rummel, Anna       	Edina               	417	19:00.0		G-JV1	1
+174)  8821-Savre, Erin         	Edina               	418	19:00.0		G-JV1	1
+175)  13577-Gratzek, Chloe     	Edina               	420	19:00.0		G-JV1	1
+176)  19034-Kohlmayr, Chiara   	Edina               	421	19:00.0		G-JV1	1
+177)  19035-Mendel, Molly      	Edina               	422	20:00.0		G-JV1	1
+178)  19036-Behling, Emily     	Edina               	423	20:00.0		G-JV1	1
+179)  19138-425, JV1           	Edina               	424	20:00.0		G-JV1	1
+180)  19033-Horns, Martina     	Edina               	429	39:30.0		GJVSk	1
+181)  19100-Bentley, Rachel    	Edina               	430	39:30.0		GJVSk	1
+182)  15230-Dryden, Hanna      	Edina               	431	40:00.0		GJVSk	1
+183)  13567-Houle, Caitlin     	Edina               	432	40:00.0		GJVSk	1
+184)  19031-Sweeney, Logan     	Edina               	433	40:00.0		GJVSk	1
+185)  19044-Sweeney, Tate      	Edina               	434	40:30.0		GJVSk	1
+186)  19146-Hussey, Megan      	Edina               	435	40:30.0		GJVSk	1
+187)  15237-Ashbrook, Katherine	Edina               	436	40:30.0		GJVSk	1
+188)  19038-Kemp, Ellen        	Edina               	437	41:00.0		GJVSk	1
+189)  19099-LiaBraaten, Brynn  	Edina               	438	41:00.0		GJVSk	1
+190)  19119-Mitchell, Hannah   	Edina               	439	41:00.0		GJVSk	1
+191)  19041-Mosborg, Amanda    	Edina               	440	41:30.0		GJVSk	1
+192)  19120-O'Neill, Ellen     	Edina               	441	41:30.0		GJVSk	1
+193)  19098-Boman, Maria       	Edina               	442	41:30.0		GJVSk	1
+194)  17025-Boss, Anika        	Edina               	443	42:00.0		GJVSk	1
+195)  19046-Dzandzara, Abby    	Edina               	444	42:00.0		GJVSk	1
+196)  19143-Fabbro, Julia      	Edina               	445	42:00.0		GJVSk	1
+197)  19144-Fleury, Sarah      	Edina               	446	42:00.0		GJVSk	1
+198)  19097-Hulbert, Katherine 	Edina               	447	42:30.0		GJVSk	1
+199)  19145-Mahlum, Ellery     	Edina               	448	42:30.0		GJVSk	1
+200)  17030-Ruschy, Emily      	Edina               	449	42:30.0		GJVSk	1
+201)  19050-Cushman, Lily      	Edina               	450	42:30.0		GJVSk	1
+202)  19123-Ebner, Elizabeth   	Edina               	451	43:00.0		GJVSk	1
+203)  19117-Hinrich, Sadie     	Edina               	452	43:00.0		GJVSk	1
+204)  19115-Holm, Francesca    	Edina               	453	43:00.0		GJVSk	1
+205)  19118-Lawler, Maddy      	Edina               	454	43:00.0		GJVSk	1
+206)  19116-Lockhart, Libby    	Edina               	455	43:00.0		GJVSk	1
+207)  19096-Peterson, Danielle 	Edina               	456	43:30.0		GJVSk	1
+208)  19122-Stone, Lauren      	Edina               	457	43:30.0		GJVSk	1
+209)  19136-423, JV1           	Edina               	458	43:30.0		GJVSk	1
+210)  19137-424, JV1           	Edina               	459	43:30.0		GJVSk	1
+
+211)  8733-Lavanger, Matthew   	Hopkins             	501	1:00.00		B-V	1
+212)  8738-Snyder, Mark        	Hopkins             	502	13:00.0		B-JV1	1
+213)  11211-Taylor, Trey       	Hopkins             	503	1:00.00		B-V	1
+214)  11199-Cleary, Dylan      	Hopkins             	504	1:00.00		B-V	1
+215)  11325-Nelson, Brett      	Hopkins             	505	1:00.00		B-V	1
+216)  13509-Vander Velden, Nick	Hopkins             	506	1:00.00		B-V	1
+217)  16909-Nash, Austin       	Hopkins             	507	1:00.00		B-V	1
+218)  16912-Parker, Benjamin   	Hopkins             	508	1:00.00		B-V	1
+219)  13505-Parker, Jacob      	Hopkins             	509	2:00.00		B-V	1
+220)  11322-Ahlquist, Hunter   	Hopkins             	510	2:00.00		B-V	1
+221)  16880-Avenson, Perry     	Hopkins             	511	2:00.00		B-V	1
+222)  13497-Hunwardsen, Ryan   	Hopkins             	512	2:00.00		B-V	1
+223)  16885-Eliason, Seth      	Hopkins             	513	2:00.00		B-V	1
+224)  15109-Hoffman, Alexander 	Hopkins             	514	2:00.00		B-V	1
+225)  16886-Eng, Carter        	Hopkins             	515	13:00.0		B-JV1	1
+226)  16906-Martin, John       	Hopkins             	516	13:00.0		B-JV1	1
+227)  15113-Mattson, Jason     	Hopkins             	517	13:00.0		B-JV1	1
+228)  16890-Hedberg, John      	Hopkins             	518	13:00.0		B-JV1	1
+229)  16893-Hoffman, Logan     	Hopkins             	519	13:00.0		B-JV1	1
+230)  15111-Katona, David      	Hopkins             	520	13:00.0		B-JV1	1
+231)  18862-Lee, Oliver        	Hopkins             	521	14:00.0		B-JV1	1
+232)  15114-Nelson, Erik       	Hopkins             	522	14:00.0		B-JV1	1
+233)  11209-Skoglund-Anderson, 	Hopkins             	523	14:00.0		B-JV1	1
+234)  16882-Brendalen, Raymond 	Hopkins             	529	28:00.0		BJVSk	1
+235)  11203-Heimlich, Wyatt    	Hopkins             	530	28:00.0		BJVSk	1
+236)  18866-Eng, Isaac         	Hopkins             	531	28:30.0		BJVSk	1
+237)  16916-Plaunt, Eric       	Hopkins             	532	28:30.0		BJVSk	1
+238)  11208-Mitchell, Robert   	Hopkins             	533	28:30.0		BJVSk	1
+239)  16895-Hunwardsen, Sean   	Hopkins             	534	29:00.0		BJVSk	1
+240)  16879-Avenson, Simon     	Hopkins             	535	29:00.0		BJVSk	1
+241)  18863-Ludwig, Matthew    	Hopkins             	536	29:30.0		BJVSk	1
+242)  16894-Hoffman, Jesper    	Hopkins             	537	29:30.0		BJVSk	1
+243)  16924-Zeitz, Paul        	Hopkins             	538	29:30.0		BJVSk	1
+244)  18920-Stochowicz, Cole   	Hopkins             	539	30:00.0		BJVSk	1
+245)  18878-Yourzak, Luke      	Hopkins             	540	30:00.0		BJVSk	1
+246)  18865-Endres, Luke       	Hopkins             	542	30:00.0		BJVSk	1
+247)  18864-Antar, Mohamed     	Hopkins             	543	30:00.0		BJVSk	1
+248)  13490-Cousins, Charles   	Hopkins             	544	30:00.0		BJVSk	1
+249)  18867-Erickson, Evan     	Hopkins             	545	30:30.0		BJVSk	1
+250)  16889-Goering, Joshua    	Hopkins             	546	30:30.0		BJVSk	1
+251)  18919-Gunderson, Benjamin	Hopkins             	547	30:30.0		BJVSk	1
+252)  16891-Henderson, Justin  	Hopkins             	548	30:30.0		BJVSk	1
+253)  18868-Holmes, Nicolas    	Hopkins             	549	30:30.0		BJVSk	1
+254)  13499-Johnson, Jasper    	Hopkins             	550	31:00.0		BJVSk	1
+255)  18869-Klemm, Ryan        	Hopkins             	551	31:00.0		BJVSk	1
+256)  13529-Lande, Neil        	Hopkins             	552	31:00.0		BJVSk	1
+257)  16905-Maine, Steven      	Hopkins             	553	31:00.0		BJVSk	1
+258)  18870-Miller, James      	Hopkins             	554	31:00.0		BJVSk	1
+259)  16908-Mydra, Daniel      	Hopkins             	555	31:30.0		BJVSk	1
+260)  18871-Peng, Maxim        	Hopkins             	556	31:30.0		BJVSk	1
+261)  18872-Rauser, Kelson     	Hopkins             	557	31:30.0		BJVSk	1
+262)  18873-Sagedahl, Penn     	Hopkins             	558	31:30.0		BJVSk	1
+263)  18874-Schricker, Seth    	Hopkins             	559	31:30.0		BJVSk	1
+264)  18875-Skoglund-Anderson, 	Hopkins             	560	31:30.0		BJVSk	1
+265)  16917-Stewart, Storm     	Hopkins             	561	32:00.0		BJVSk	1
+266)  16919-Unruh-Friesen, Evan	Hopkins             	562	32:00.0		BJVSk	1
+267)  18876-Wogstad, Bjorn     	Hopkins             	563	32:00.0		BJVSk	1
+268)  18877-Wormuth, Oscar     	Hopkins             	564	32:00.0		BJVSk	1
+269)  11232-Olson, Jennifer    	Hopkins             	601	7:00.00		G-V	1
+270)  16865-Krietzman, Roxanne 	Hopkins             	602	7:00.00		G-V	1
+271)  11222-Hall, Anna         	Hopkins             	603	7:00.00		G-V	1
+272)  8745-Heiberg, Kaelynn    	Hopkins             	604	7:00.00		G-V	1
+273)  11214-Craemer, Katherine 	Hopkins             	605	7:00.00		G-V	1
+274)  13511-Burnett, Emma      	Hopkins             	606	7:00.00		G-V	1
+275)  15090-Dirnberger, Sophie 	Hopkins             	607	7:00.00		G-V	1
+276)  16876-Versen, Theresa    	Hopkins             	608	8:00.00		G-V	1
+277)  15091-Giesting, Anna     	Hopkins             	609	8:00.00		G-V	1
+278)  15070-Anderson, Renae    	Hopkins             	610	8:00.00		G-V	1
+279)  16867-Miller, Lucianna   	Hopkins             	611	8:00.00		G-V	1
+280)  15074-Douglass, Chance   	Hopkins             	612	8:00.00		G-V	1
+281)  13434-Benton, Claire     	Hopkins             	613	8:00.00		G-V	1
+282)  16862-Hadley, Dominica   	Hopkins             	614	8:00.00		G-V	1
+283)  13520-Krietzman, Ruby    	Hopkins             	615	19:00.0		G-JV1	1
+284)  13523-Novak, Lynsey      	Hopkins             	616	19:00.0		G-JV1	1
+285)  18927-Abbott Ladner, Marg	Hopkins             	617	19:00.0		G-JV1	1
+286)  11224-Hanson, Britta     	Hopkins             	618	19:00.0		G-JV1	1
+287)  11228-Matson, Eleanor    	Hopkins             	619	19:00.0		G-JV1	1
+288)  16846-Cleary, Margaret   	Hopkins             	620	19:00.0		G-JV1	1
+289)  13522-Dunnewind, Jordan  	Hopkins             	621	19:00.0		G-JV1	1
+290)  15104-Torrison, Jessica  	Hopkins             	622	20:00.0		G-JV1	1
+291)  16850-Donovan, Katherine 	Hopkins             	623	20:00.0		G-JV1	1
+292)  16837-Ahlquist, Anne     	Hopkins             	624	20:00.0		G-JV1	1
+293)  13587-Marti, Claire      	Hopkins             	625	20:00.0		G-JV1	1
+294)  16877-Wilson, Holly      	Hopkins             	629	39:30.0		GJVSk	1
+295)  15348-Charlesworth-Seiler	Hopkins             	630	39:30.0		GJVSk	1
+296)  18922-Hinck, Laura       	Hopkins             	631	40:00.0		GJVSk	1
+297)  16849-Donovan, Hillary   	Hopkins             	632	40:00.0		GJVSk	1
+298)  18930-Dirnberger, Claire 	Hopkins             	633	40:00.0		GJVSk	1
+299)  16839-Anderson, Ellen    	Hopkins             	634	40:30.0		GJVSk	1
+300)  16842-Bell, Camryn       	Hopkins             	635	40:30.0		GJVSk	1
+301)  18928-Bialick, Addison   	Hopkins             	636	41:00.0		GJVSk	1
+302)  16843-Bissell, Sarina    	Hopkins             	637	41:00.0		GJVSk	1
+303)  18929-Byron, Mariah      	Hopkins             	638	41:00.0		GJVSk	1
+304)  18921-Cortez, Ashley     	Hopkins             	639	41:00.0		GJVSk	1
+305)  18931-Dupay, Jessie      	Hopkins             	640	41:30.0		GJVSk	1
+306)  16860-Goering, Emily     	Hopkins             	641	41:30.0		GJVSk	1
+307)  18923-Holm, Lucy         	Hopkins             	642	41:30.0		GJVSk	1
+308)  11225-Holm, Sophia       	Hopkins             	643	42:00.0		GJVSk	1
+309)  16863-Jacobwith, Natalie 	Hopkins             	644	42:00.0		GJVSk	1
+310)  18932-Johnson, Ivy       	Hopkins             	645	42:00.0		GJVSk	1
+311)  18933-Juntilla, Alyssa   	Hopkins             	646	42:30.0		GJVSk	1
+312)  18934-Lee, Anna          	Hopkins             	647	42:30.0		GJVSk	1
+313)  18935-Luther, Emma       	Hopkins             	648	42:30.0		GJVSk	1
+314)  13588-Martodam, Madeline 	Hopkins             	649	42:30.0		GJVSk	1
+315)  18924-McEnnis, Orla      	Hopkins             	650	43:00.0		GJVSk	1
+316)  18936-Miller, Erin       	Hopkins             	651	43:00.0		GJVSk	1
+317)  15096-Minnihan, Serena   	Hopkins             	652	43:00.0		GJVSk	1
+318)  18939-O'Meara, Maeve     	Hopkins             	653	43:00.0		GJVSk	1
+319)  18925-O'Neil, Riley      	Hopkins             	654	43:00.0		GJVSk	1
+320)  16869-Oestreich, Alissa  	Hopkins             	655	43:30.0		GJVSk	1
+321)  18937-Oestreich, Miranda 	Hopkins             	656	43:30.0		GJVSk	1
+322)  18938-Olson, Samantha    	Hopkins             	657	43:30.0		GJVSk	1
+323)  18926-Provenzano, Lily   	Hopkins             	658	43:30.0		GJVSk	1
+324)  11326-Pyzdrowski, Halina 	Hopkins             	659	43:30.0		GJVSk	1
+325)  18940-Richter, Kaytlin   	Hopkins             	660	43:30.0		GJVSk	1
+326)  18941-Roth, Emma         	Hopkins             	661	44:00.0		GJVSk	1
+327)  18942-Saari, Alexis      	Hopkins             	662	44:00.0		GJVSk	1
+328)  18943-Sheely, Margaret   	Hopkins             	663	44:00.0		GJVSk	1
+329)  18947-Shossana, Piefer   	Hopkins             	664	44:00.0		GJVSk	1
+330)  18944-Showers, Callan    	Hopkins             	665	44:00.0		GJVSk	1
+331)  15085-Slattery, Megan    	Hopkins             	667	44:00.0		GJVSk	1
+332)  18945-Steinberg, Anya    	Hopkins             	668	44:00.0		GJVSk	1
+333)  18946-Woodyard, Emma     	Hopkins             	669	44:00.0		GJVSk	1
+334)  13525-Farhat, Bri        	Hopkins             	670	44:00.0		GJVSk	1
+
+335)  13472-Touhey, Colin      	Minnetonka          	701	1:00.00		B-V	1
+336)  13468-Sebold, James      	Minnetonka          	702	1:00.00		B-V	1
+337)  17038-Croskey, Jonathon  	Minnetonka          	703	1:00.00		B-V	1
+338)  13602-Lindberg, Cal      	Minnetonka          	704	1:00.00		B-V	1
+339)  17035-Atwood, Chris      	Minnetonka          	705	1:00.00		B-V	1
+340)  17034-Ahrenholtz, Chip   	Minnetonka          	706	1:00.00		B-V	1
+341)  17052-Nelson, Riley      	Minnetonka          	707	1:00.00		B-V	1
+342)  17049-Maples, Gunnar     	Minnetonka          	708	2:00.00		B-V	1
+343)  17063-Wallace, Zac       	Minnetonka          	709	2:00.00		B-V	1
+344)  17059-Ryan, Grant        	Minnetonka          	710	2:00.00		B-V	1
+345)  17054-Ott, Josh          	Minnetonka          	711	2:00.00		B-V	1
+346)  15032-Sibley, Andrew     	Minnetonka          	712	2:00.00		B-V	1
+347)  17037-Chidambaram, Nagu  	Minnetonka          	713	2:00.00		B-V	1
+348)  15031-Rajala, Noah       	Minnetonka          	714	2:00.00		B-V	1
+349)  15023-Bishop, Eric       	Minnetonka          	720	13:00.0		B-JV1	1
+350)  17058-Rude, Erik         	Minnetonka          	721	13:00.0		B-JV1	1
+351)  17055-Peters, Sam        	Minnetonka          	722	13:00.0		B-JV1	1
+352)  18980-Heikkila, Carter   	Minnetonka          	723	13:00.0		B-JV1	1
+353)  18977-Green, Evan        	Minnetonka          	724	13:00.0		B-JV1	1
+354)  18974-Czerwinski, William	Minnetonka          	725	13:00.0		B-JV1	1
+355)  18972-Caille, Cedric     	Minnetonka          	726	13:00.0		B-JV1	1
+356)  18985-McFarland, Andrew  	Minnetonka          	727	14:00.0		B-JV1	1
+357)  18981-Johnson, Sether    	Minnetonka          	728	14:00.0		B-JV1	1
+358)  18978-Green, Tres        	Minnetonka          	730	28:00.0		BJVSk	1
+359)  17050-Mayer, Zach        	Minnetonka          	731	28:00.0		BJVSk	1
+360)  18982-Linden, Peter      	Minnetonka          	732	28:00.0		BJVSk	1
+361)  18983-Mackinnon, James   	Minnetonka          	733	28:30.0		BJVSk	1
+362)  18970-Bodkins, Riley     	Minnetonka          	734	28:30.0		BJVSk	1
+363)  18969-Arnar, Erik        	Minnetonka          	735	29:00.0		BJVSk	1
+364)  18989-Thiss, Olivier     	Minnetonka          	736	29:00.0		BJVSk	1
+365)  18984-Maples, Jacob      	Minnetonka          	737	29:00.0		BJVSk	1
+366)  13519-Janssen, Meghan    	Minnetonka          	801	7:00.00		G-V	1
+367)  13485-Martin, Kaylee     	Minnetonka          	802	7:00.00		G-V	1
+368)  15053-Nesbitt, Meredith  	Minnetonka          	803	7:00.00		G-V	1
+369)  17074-Melmer, Mara       	Minnetonka          	804	7:00.00		G-V	1
+370)  15049-Klaysmat, Madeline 	Minnetonka          	805	7:00.00		G-V	1
+371)  17087-Hofmeister, Elisa  	Minnetonka          	806	7:00.00		G-V	1
+372)  15047-Hanzlik, Deneen    	Minnetonka          	807	7:00.00		G-V	1
+373)  15041-Dahle-Koch, Alissa 	Minnetonka          	808	8:00.00		G-V	1
+374)  17082-Ryan, Lauren       	Minnetonka          	820	19:00.0		G-JV1	1
+375)  18991-Dahl, Lauren       	Minnetonka          	821	19:00.0		G-JV1	1
+376)  18995-Lewis, Katie       	Minnetonka          	822	19:00.0		G-JV1	1
+377)  18999-Schuster, Jordan   	Minnetonka          	823	19:00.0		G-JV1	1
+378)  17078-Stedman, Nicole    	Minnetonka          	824	19:00.0		G-JV1	1
+379)  18996-Maples, Amanda     	Minnetonka          	830	39:30.0		GJVSk	1
+380)  17085-Hillis, Emma       	Minnetonka          	831	39:30.0		GJVSk	1
+381)  18998-Rieder, Gillian    	Minnetonka          	832	39:30.0		GJVSk	1
+382)  17066-Ahern, Summer      	Minnetonka          	834	40:00.0		GJVSk	1
+383)  18992-Gunther, Irena     	Minnetonka          	835	40:00.0		GJVSk	1
+384)  19000-Silberschmidt, Simo	Minnetonka          	836	40:30.0		GJVSk	1
+385)  18994-Kirk, Arianna      	Minnetonka          	837	40:30.0		GJVSk	1
+
+386)  11136-Quirk, Andrew      	Wayzata             	901	1:00.00		B-V	1
+387)  13274-Johnson, Kristian J	Wayzata             	902	1:00.00		B-V	1
+388)  16750-Sonnesyn, Anders   	Wayzata             	903	1:00.00		B-V	1
+389)  11134-Blankenship, Carter	Wayzata             	904	1:00.00		B-V	1
+390)  13267-Millan, Andrew     	Wayzata             	905	1:00.00		B-V	1
+391)  11129-Cameron, Andrew    	Wayzata             	906	1:00.00		B-V	1
+392)  13262-Grossen, Jack      	Wayzata             	907	1:00.00		B-V	1
+393)  14859-Smith, Jacob       	Wayzata             	908	2:00.00		B-V	1
+394)  11135-Bremseth, Issac    	Wayzata             	909	2:00.00		B-V	1
+395)  16762-Heal, Wes          	Wayzata             	910	2:00.00		B-V	1
+396)  11137-Smith, Clayton     	Wayzata             	911	2:00.00		B-V	1
+397)  14857-Deakins, Grant     	Wayzata             	912	2:00.00		B-V	1
+398)  16754-Golin, Luc         	Wayzata             	913	2:00.00		B-V	1
+399)  8672-Meyer, Joe          	Wayzata             	914	2:00.00		B-V	1
+400)  18824-Brandt, Kyle       	Wayzata             	915	13:00.0		B-JV1	1
+401)  13257-Blake, Alex        	Wayzata             	916	13:00.0		B-JV1	1
+402)  18823-Berardino, Daniel  	Wayzata             	917	13:00.0		B-JV1	1
+403)  14861-Halverson, Joshua  	Wayzata             	918	13:00.0		B-JV1	1
+404)  13259-Canfield, Connor   	Wayzata             	919	13:00.0		B-JV1	1
+405)  16748-Williams, Erik     	Wayzata             	920	13:00.0		B-JV1	1
+406)  18825-Carlstrom, Tyler   	Wayzata             	921	13:00.0		B-JV1	1
+407)  14853-Brick, Charles     	Wayzata             	922	14:00.0		B-JV1	1
+408)  16751-Smith, Walter      	Wayzata             	923	14:00.0		B-JV1	1
+409)  18840-Quirk, Michael     	Wayzata             	924	14:00.0		B-JV1	1
+410)  14862-Jette, Connor      	Wayzata             	925	14:00.0		B-JV1	1
+411)  16752-Smith, Sam         	Wayzata             	926	14:00.0		B-JV1	1
+412)  16749-Sullivan, Ryan     	Wayzata             	927	14:00.0		B-JV1	1
+413)  11131-Roberts, Riley     	Wayzata             	928	14:00.0		B-JV1	1
+414)  18827-Koltz, James       	Wayzata             	930	24:00.0		BJVCl	1
+415)  18831-Esselman, Ben      	Wayzata             	931	24:00.0		BJVCl	1
+416)  18833-Knueppel, Alexander	Wayzata             	932	24:00.0		BJVCl	1
+417)  16753-Myers, Michael     	Wayzata             	933	24:00.0		BJVCl	1
+418)  18838-Schindler, John    	Wayzata             	934	24:00.0		BJVCl	1
+419)  18837-Poellinger, Evan   	Wayzata             	935	24:30.0		BJVCl	1
+420)  18828-Reuss, Eric        	Wayzata             	936	24:30.0		BJVCl	1
+421)  14860-Bremseth, Jotham   	Wayzata             	937	28:00.0		BJVSk	1
+422)  16757-Emerick, Jacob     	Wayzata             	938	28:00.0		BJVSk	1
+423)  18826-Feller, Sam        	Wayzata             	939	28:00.0		BJVSk	1
+424)  18832-Fetrow, Frank      	Wayzata             	940	28:30.0		BJVSk	1
+425)  18829-Basten, Ben        	Wayzata             	941	28:30.0		BJVSk	1
+426)  18830-Dunn, Hugo         	Wayzata             	942	29:00.0		BJVSk	1
+427)  18835-Eyer, Blake        	Wayzata             	943	29:00.0		BJVSk	1
+428)  18836-King, Nick         	Wayzata             	944	29:00.0		BJVSk	1
+429)  18822-Mohamed, Omar      	Wayzata             	945	29:30.0		BJVSk	1
+430)  16758-Thompson, Mike     	Wayzata             	946	29:30.0		BJVSk	1
+431)  18839-Smirnov, Vladimir  	Wayzata             	947	29:30.0		BJVSk	1
+432)  13284-Frenz, Evelyn      	Wayzata             	1001	7:00.00		G-V	1
+433)  11169-Keller-Miller, Mack	Wayzata             	1002	7:00.00		G-V	1
+434)  13291-Keller-Miller, Kris	Wayzata             	1003	7:00.00		G-V	1
+435)  11179-French, Anna       	Wayzata             	1004	7:00.00		G-V	1
+436)  13292-Keller-Miller, Mich	Wayzata             	1005	7:00.00		G-V	1
+437)  11183-Schneider, Nicole  	Wayzata             	1006	7:00.00		G-V	1
+438)  8699-Sonnesyn, Alayna    	Wayzata             	1007	7:00.00		G-V	1
+439)  14891-Thomsen, Jaycie    	Wayzata             	1008	8:00.00		G-V	1
+440)  14890-Williams, Madeline 	Wayzata             	1009	8:00.00		G-V	1
+441)  11184-Silbaugh, Abby     	Wayzata             	1010	8:00.00		G-V	1
+442)  14874-Lerdau, Annika     	Wayzata             	1011	8:00.00		G-V	1
+443)  11180-Griwac, Madeline   	Wayzata             	1012	8:00.00		G-V	1
+444)  11177-Farquhar, Katie    	Wayzata             	1013	8:00.00		G-V	1
+445)  13289-Jette, Megan       	Wayzata             	1014	8:00.00		G-V	1
+446)  14884-Schwarz, Kaitlin   	Wayzata             	1015	19:00.0		G-JV1	1
+447)  11181-Orzeske, Maddie    	Wayzata             	1016	19:00.0		G-JV1	1
+448)  14866-Brew, Anna         	Wayzata             	1017	19:00.0		G-JV1	1
+449)  18842-Andrews, Maeve     	Wayzata             	1019	19:00.0		G-JV1	1
+450)  13280-Dahl, Miranda      	Wayzata             	1020	19:00.0		G-JV1	1
+451)  13305-Schindler, Claire  	Wayzata             	1021	19:00.0		G-JV1	1
+452)  15123-Sullivan, Hannah   	Wayzata             	1022	19:00.0		G-JV1	1
+453)  11173-Anderson, Britta   	Wayzata             	1023	19:00.0		G-JV1	1
+454)  14879-Myers, Katherine   	Wayzata             	1024	20:00.0		G-JV1	1
+455)  14864-Bach, Kaylen       	Wayzata             	1025	20:00.0		G-JV1	1
+456)  16779-Beck, Hannah       	Wayzata             	1026	20:00.0		G-JV1	1
+457)  16781-Arkesteyn, Lillian 	Wayzata             	1027	20:00.0		G-JV1	1
+458)  16771-Walker, Caitlyn    	Wayzata             	1028	20:00.0		G-JV1	1
+459)  8678-Anderson, Tessa     	Wayzata             	1029	20:00.0		G-JV1	1
+460)  8829-Louwigie, Erin      	Wayzata             	1030	35:30.0		GJVCl	1
+461)  16764-Schindler, Emma    	Wayzata             	1031	35:30.0		GJVCl	1
+462)  16768-Speier, Jane       	Wayzata             	1032	35:30.0		GJVCl	1
+463)  18860-Bremseth, Ketura   	Wayzata             	1033	35:30.0		GJVCl	1
+464)  14871-Johnson, Linnae    	Wayzata             	1034	39:30.0		GJVSk	1
+465)  18841-Lybaek, Elisa      	Wayzata             	1035	39:30.0		GJVSk	1
+466)  16765-Ingemann, Anna     	Wayzata             	1036	39:30.0		GJVSk	1
+467)  16766-Brick, Mara        	Wayzata             	1037	40:00.0		GJVSk	1
+468)  18843-Alexander, Sarah   	Wayzata             	1038	40:00.0		GJVSk	1
+469)  18844-Bernard, Lext      	Wayzata             	1039	40:30.0		GJVSk	1
+470)  18849-Debelak, Kalie     	Wayzata             	1040	40:30.0		GJVSk	1
+471)  18855-Emerick, Ellie     	Wayzata             	1041	40:30.0		GJVSk	1
+472)  18850-Herchuk, Allison   	Wayzata             	1042	41:00.0		GJVSk	1
+473)  18847-Orning, Kenzie     	Wayzata             	1043	41:00.0		GJVSk	1
+474)  18853-Bomsta, Madeline   	Wayzata             	1045	41:00.0		GJVSk	1
+475)  14888-Sushko, Anastasia  	Wayzata             	1046	41:30.0		GJVSk	1
+476)  18859-Walker, Amelia     	Wayzata             	1047	41:30.0		GJVSk	1
+477)  18856-Healy, Anna        	Wayzata             	1048	41:30.0		GJVSk	1
+478)  16770-Boche, Madeline    	Wayzata             	1049	41:30.0		GJVSk	1
+479)  18854-Chen, Carisa       	Wayzata             	1050	42:00.0		GJVSk	1
+480)  16772-Woolf, Blake       	Wayzata             	1051	42:00.0		GJVSk	1
+481)  16777-Matulis, Nina      	Wayzata             	1052	42:00.0		GJVSk	1
+482)  18852-McLaughlin, Paige  	Wayzata             	1054	42:30.0		GJVSk	1
+483)  18858-Kaster, Grace      	Wayzata             	1055	42:30.0		GJVSk	1

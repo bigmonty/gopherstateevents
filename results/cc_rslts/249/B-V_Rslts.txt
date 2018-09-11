@@ -1,0 +1,25 @@
+Lake Conf Relays 2014
+12/4/2014
+
+B-V Results
+
+
+
+
+Individual Results
+
+PL	TM	BIB-NAME            	TEAM                	GR	M/F	TIME       	PER MI   	PER KM
+1	--  	904-Wayzata Varsity 	Wayzata             	12	M	27:33.76   	4:26.18 	2:45.39 
+2	--  	501-Hopkins Boys Tea	Hopkins             	12	M	28:51.39   	4:38.57 	2:53.10 
+3	--  	108-Boys  Relay B   	Eden Prairie        	12	M	29:43.87   	4:47.10 	2:58.39 
+4	--  	709-Mtka Varsity B  	Minnetonka          	12	M	29:50.35   	4:48.07 	2:59.00 
+5	--  	112-Boys  Relay C   	Eden Prairie        	12	M	30:01.54   	4:50.00 	3:00.19 
+6	--  	908-Wayzata Varsity 	Wayzata             	12	M	30:05.21   	4:50.48 	3:00.50 
+7	--  	912-Wayzata  Varsity	Wayzata             	12	M	30:07.91   	4:50.96 	3:00.80 
+8	--  	104-Boys  Relay A   	Eden Prairie        	12	M	30:09.64   	4:51.29 	3:01.00 
+9	--  	304-Team A Boys Rela	Edina               	4	M	30:21.41   	4:53.06 	3:02.10 
+10	--  	701-Mtka Varsity A  	Minnetonka          	12	M	30:23.35   	4:53.38 	3:02.30 
+11	--  	502-Hopkins Boys Tea	Hopkins             	12	M	30:46.64   	4:57.24 	3:04.69 
+12	--  	503-Hopkins Boys Tea	Hopkins             	12	M	33:00.21   	5:18.65 	3:18.00 
+13	--  	308-Team B Boys Rela	Edina               	4	M	33:18.41   	5:21.54 	3:19.80 
+14	--  	703-Mtka Varsity C  	Minnetonka          	12	M	34:16.89   	5:31.04 	3:25.69 

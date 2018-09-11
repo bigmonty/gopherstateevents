@@ -1,0 +1,152 @@
+GSE Race Results for Monticello Riverfest 5_km-Male  on 7/13/2013
+Generated: 8/1/2013 6:02:31 PM
+
+PL	 BIB	NAME              	AGE	FINAL TIME	PER MI   	PER KM   	CITY              	ST
+---	----	------------------	---	----------	---------	---------	------------------	--
+1	177	Phillip LaVallee  	19	15:58.22	5:08.35 	3:11.60 	Monticello        	MN
+2	92	Joseph Mahoney    	40	16:45.47	5:23.47 	3:20.99 	Monticello        	MN
+3	346	Hunter Kopff      	20	17:00.47	5:28.30 	3:24.00 	Monticello        	MN
+4	173	Neil Albares      	24	17:12.97	5:32.49 	3:26.60 	Hastings          	MN
+5	359	Derek Secord      	18	17:14.72	5:33.13 	3:27.00 	Big Lake          	MN
+6	130	Luke Lahr         	16	17:29.32	5:37.64 	3:29.80 	Clear Lake        	MN
+7	51	Dominic Shovelain 	17	17:39.47	5:40.85 	3:31.79 	St. Michael       	MN
+8	39	Hunter Elgren     	17	17:55.11	5:46.00 	3:34.99 	Chanhassen        	MN
+9	287	Kirt Goetzke      	52	18:05.69	5:49.54 	3:37.19 	Plymouth          	MN
+10	349	Colin Lyndorff    	18	18:17.69	5:53.41 	3:39.60 	Monticello        	MN
+11	352	Jonathan Eastlund 	15	18:21.47	5:54.37 	3:40.19 	Buffalo           	MN
+12	267	Joseph Perrault   	23	18:25.85	5:55.98 	3:41.20 	Becker            	MN
+13	324	Jesse Babler      	33	18:26.22	5:55.98 	3:41.20 	Becker            	MN
+14	9	Luke Ewald        	24	18:31.72	5:57.91 	3:42.39 	Monticello        	MN
+15	186	luke Albares      	23	18:37.81	6:0-0.1 	3:43.60 	Monticello        	MN
+16	114	Jason Loeffler    	26	18:41.88	6:01.13 	3:44.40 	Hastings          	MN
+17	116	Derek Johanson    	18	19:11.97	6:10.79 	3:50.39 	St. Michael       	MN
+18	11	Alex Hoglund      	16	19:43.72	6:21.09 	3:56.80 	Clearwater        	MN
+19	224	Jeff  Leuwerke    	32	20:06.67	6:28.49 	4:01.39 	Elk River         	MN
+20	297	Bryan Swenson     	59	20:21.37	6:33.00 	4:04.20 	Big Lake          	MN
+21	164	Nick Gullickson   	18	20:34.75	6:37.50 	4:07.00 	Albertville       	MN
+22	358	Jacob Peterson    	19	20:38.22	6:38.47 	4:07.59 	Monticello        	MN
+23	8	Levi Bican        	15	20:44.95	6:40.72 	4:09.00 	Monticello        	MN
+24	202	Brian Kibler      	27	20:47.59	6:41.69 	4:09.60 	Big Lake          	MN
+25	70	Brendan Antony    	42	20:55.93	6:44.26 	4:11.19 	Shakopee          	MN
+26	185	Scott Albares     	20	20:57.47	6:44.58 	4:11.40 	Monticello        	MN
+27	269	Grant Brakob      	21	20:58.15	6:44.91 	4:11.60 	Monticello        	MN
+28	4	Tyler  Jensen     	18	20:59.15	6:45.23 	4:11.80 	Big Lake          	MN
+29	261	Noah Gruhlke      	17	21:06.92	6:47.80 	4:13.40 	Monticello        	MN
+30	335	Tyler Sirovy      	14	21:17.70	6:51.34 	4:15.60 	Monticello        	MN
+31	86	Shane Keating     	31	21:18.92	6:51.67 	4:15.79 	Foley             	MN
+32	256	Joe Tieszen       	42	21:21.15	6:52.31 	4:16.19 	Monticello        	MN
+33	176	Andrew LaVallee   	17	21:22.39	6:52.63 	4:16.39 	Monticello        	MN
+34	336	Luke Merickel     	22	21:41.72	6:59.07 	4:20.39 	Eden Prairie      	MN
+35	229	Roger McGowan     	47	21:49.20	7:01.32 	4:21.79 	Otsego            	MN
+36	45	Cody Hamson       	18	21:49.61	7:01.64 	4:22.00 	Monticello        	MN
+37	280	Ken Voller        	43	22:00.20	7:04.86 	4:24.00 	Monticello        	MN
+38	235	Paul Albares      	50	22:00.20	7:04.86 	4:24.00 	Monticello        	MN
+39	26	Ryan Antony       	29	22:00.61	7:05.18 	4:24.20 	Rogers            	MN
+40	5	Rod  Dragsten     	60	22:01.83	7:05.51 	4:24.40 	Monticello        	MN
+41	77	Chris Kibler      	25	22:16.22	7:10.01 	4:27.20 	monticello        	MN
+42	226	Jeffrey Henrikson 	11	22:17.22	7:10.33 	4:27.39 	Buffalo           	MN
+43	24	Mike Peterka      	44	22:23.21	7:12.26 	4:28.60 	Cold Spring       	MN
+44	100	Ross Loeffler     	22	22:26.98	7:13.55 	4:29.39 	Big Lake          	MN
+45	125	Robert Curry      	56	22:27.87	7:13.87 	4:29.60 	Monticello        	MN
+46	128	Kevin Lyrenmann   	99	22:32.95	7:15.48 	4:30.60 	Foley             	MN
+47	255	Mike Garland      	55	22:34.49	7:15.81 	4:30.79 	Clear Lake        	MN
+48	88	Michael Smith     	27	22:39.24	7:17.41 	4:31.79 	Big Lake          	MN
+49	148	Riley Derby       	10	22:41.90	7:18.38 	4:32.39 	Otsego            	MN
+50	149	Corey Derby       	38	22:42.11	7:18.38 	4:32.39 	Otsego            	MN
+51	295	Michael T. Witsche	18	22:46.18	7:19.67 	4:33.20 	Monticello        	MN
+52	268	Jim Heard         	44	22:48.99	7:20.63 	4:33.79 	Maple Grove       	MN
+53	285	Gagn Maas         	16	22:54.91	7:22.56 	4:35.00 	Cambridge         	MN
+54	94	Jeffery Braun     	15	23:02.82	7:25.14 	4:36.60 	Annandale         	MN
+55	175	Marcus  LaVallee  	14	23:03.24	7:25.14 	4:36.60 	Monticello        	MN
+56	250	William Theyson   	15	23:08.97	7:27.07 	4:37.79 	Maple Lake        	MN
+57	239	Jeremie Vanek     	26	23:11.22	7:27.71 	4:38.20 	Clearwater        	MN
+58	221	Mitch Coulson     	18	23:11.64	7:28.04 	4:38.39 	St. Michael       	MN
+59	35	Jason McCarty     	43	23:18.23	7:29.97 	4:39.60 	Monticello        	MN
+60	123	John Lindstrom    	51	23:23.43	7:31.58 	4:40.60 	Saint Michael     	MN
+61	340	Joel Anderson     	20	23:28.29	7:33.19 	4:41.60 	Monticello        	MN
+62	311	Brady Wern        	20	23:33.97	7:35.12 	4:42.79 	Monticello        	MN
+63	236	Aaron Boros       	19	23:56.49	7:42.20 	4:47.20 	Maple Lake        	MN
+64	199	Jaime Kinney      	30	24:00.00	7:43.49 	4:48.00 	Clearwater        	MN
+65	44	Dylan Mayasich    	26	24:00.23	7:43.49 	4:48.00 	Bloomington       	MN
+66	240	Maxx Pankow       	17	24:05.38	7:45.10 	4:48.99 	Monticello        	MN
+67	283	Carson Giddings   	4	24:06.98	7:45.74 	4:49.39 	Buffalo           	MN
+68	230	Tim Volkenant     	39	24:08.64	7:46.38 	4:49.79 	HANOVER           	MN
+69	54	Dave Trefethen    	65	24:10.67	7:47.03 	4:50.20 	Monticello        	MN
+70	354	Clint Forseth     	39	24:10.68	7:47.03 	4:50.20 	Monticello        	MN
+71	121	Todd Antony       	45	24:18.40	7:49.28 	4:51.60 	Onalaska          	WI
+72	355	Alan Arlt         	42	24:21.68	7:50.57 	4:52.40 	Monticello        	MN
+73	278	Tim Kibler        	21	24:22.23	7:50.57 	4:52.40 	Monticello        	MN
+74	348	Josh Larsen       	34	24:22.90	7:50.89 	4:52.59 	Albertville       	MN
+75	20	Jeffrey  Johnson  	30	24:22.98	7:50.89 	4:52.59 	Big Lake          	MN
+76	119	Steven Kibler     	56	24:27.14	7:52.18 	4:53.39 	Monticello        	MN
+77	301	Nick Zwack        	14	24:27.96	7:52.50 	4:53.60 	Monticello        	MN
+78	153	john yanish       	17	24:30.81	7:53.46 	4:54.20 	delano            	MN
+79	304	Zack Revenig      	13	24:37.24	7:55.40 	4:55.39 	Monticello        	MN
+80	133	David Honer       	42	24:46.90	7:58.61 	4:57.39 	Monticello        	MN
+81	131	Al Lahr           	47	24:52.18	8:00.22 	4:58.40 	Clear Lake        	MN
+82	291	Collin Scherber   	18	24:52.49	8:00.22 	4:58.40 	Monticello        	MN
+83	275	Austin Link       	19	24:53.40	8:00.55 	4:58.60 	Monticello        	MN
+84	103	Dominic Miller    	36	25:01.49	8:03.12 	5:00.20 	Monticello        	MN
+85	109	David Gleason     	41	25:04.36	8:04.09 	5:00.79 	Monticello        	MN
+86	6	Logan  Bican      	15	25:06.40	8:04.73 	5:01.19 	Monticello        	MN
+87	93	Nicholas Braun    	14	25:09.85	8:06.02 	5:01.99 	Annandale         	MN
+88	53	Rick Adamski      	52	25:11.98	8:06.66 	5:02.39 	Monticello        	MN
+89	258	Wilson Dahlheimer 	10	25:14.73	8:07.63 	5:03.00 	Big Lake          	MN
+90	220	will grassel      	57	25:15.98	8:07.95 	5:03.20 	saint michael     	MN
+91	183	Charlie Phillips  	16	25:18.44	8:08.59 	5:03.59 	Monticello        	MN
+92	73	Tom Lundeen       	56	25:27.37	8:11.49 	5:05.39 	Becker            	MN
+93	166	Bill Longley      	46	25:28.73	8:12.13 	5:05.79 	Monticello        	MN
+94	330	Ben Clapp         	11	25:40.84	8:15.99 	5:08.20 	Buffalo           	MN
+95	66	DOUGLAS ANTONY    	70	25:42.84	8:16.64 	5:08.60 	MONTICELLO        	MN
+96	152	Hunter Hary       	28	25:45.24	8:17.28 	5:09.00 	Monticello        	MN
+97	41	Aric Chaney       	37	25:58.50	8:21.79 	5:11.79 	South Haven       	MN
+98	306	Grahamm Haas      	36	25:59.09	8:21.79 	5:11.79 	Monticello        	MN
+99	364	Adam Marshall     	17	26:00.00	8:22.11 	5:11.99 	Belfast           	IR
+100	296	Charles Kuttey    	48	26:17.62	8:27.90 	5:15.60 	Becker            	MN
+101	22	Braden Benson     	13	26:24.72	8:30.16 	5:16.99 	Rogers            	MN
+102	46	Harlan Hamson     	54	26:26.96	8:30.80 	5:17.39 	Monticello        	MN
+103	353	Jason Ramert      	37	26:46.11	8:36.92 	5:21.20 	Elk River         	MN
+104	271	Zac Jesser        	21	26:47.49	8:37.24 	5:21.39 	St Michael        	MN
+105	266	Sam Hellman       	15	26:49.16	8:37.88 	5:21.79 	Monticello        	MN
+106	260	Ken Done          	63	26:53.99	8:39.49 	5:22.79 	Lincoln           	NE
+107	242	Jack Smith        	12	27:00.34	8:41.42 	5:24.00 	Monticello        	MN
+108	56	Brandon Christians	31	27:03.19	8:42.39 	5:24.60 	Big Lake          	MN
+109	337	Josh Merickel     	19	27:06.48	8:43.35 	5:25.20 	Eden Prairie      	MN
+110	312	Riley Wern        	18	27:26.20	8:49.79 	5:29.20 	Monticello        	MN
+111	334	Dan Watros        	44	27:26.20	8:49.79 	5:29.20 	Monticello        	MN
+112	329	Anthony Staryszak 	9	27:34.95	8:52.69 	5:31.00 	Monticello        	MN
+113	16	Alex Forsman      	17	28:08.27	9:03.31 	5:37.59 	Monticello        	MN
+114	160	Vern Rose         	64	28:34.25	9:11.68 	5:42.79 	Monticello        	MN
+115	237	Matt AbuAyed      	32	28:42.24	9:14.25 	5:44.39 	Normal            	IL
+116	79	JONAS JOHNSON     	33	29:01.39	9:20.37 	5:48.20 	MONTICELLO        	MN
+117	303	Brian Holte       	45	29:09.93	9:23.27 	5:50.00 	Monticello        	MN
+118	231	Scott Schaefer    	32	29:15.81	9:25.20 	5:51.20 	Monticello        	MN
+119	28	Tim Sixta         	35	29:31.74	9:30.35 	5:54.40 	Otsego            	MN
+120	99	Andy Voge         	24	29:52.40	9:36.78 	5:58.40 	Monticello        	MN
+121	241	Conner Smith      	10	30:14.97	9:44.19 	6:03.00 	Monticello        	MN
+122	243	Scott Smith       	45	30:15.75	9:44.51 	6:03.20 	Monticello        	MN
+123	363	Arnie Ergen       	63	30:52.38	9:56.10 	6:10.39 	Clearwater        	MN
+124	52	Logan Weninger    	11	30:55.84	9:57.38 	6:11.20 	Buffalo           	MN
+125	273	Bob Menshausen    	47	31:10.11	10:01.89	6:13.99 	Monticello        	MN
+126	141	Justin Morris     	33	31:12.14	10:02.53	6:14.39 	Big Lake          	MN
+127	138	Bob Pitts         	49	31:21.75	10:05.75	6:16.39 	Big Lake          	MN
+128	13	Tom Moores        	61	31:34.15	10:09.61	6:18.79 	Monticello        	MN
+129	293	Tom Sipe          	60	31:34.34	10:09.61	6:18.79 	Monticello        	MN
+130	218	Kamren Anderson   	6	33:55.25	10:55.00	6:46.99 	Monticello        	MN
+131	262	Tyler Miller      	8	34:05.26	10:58.22	6:48.99 	Monticello        	MN
+132	50	Quintin Brooks    	8	34:05.26	10:58.22	6:48.99 	Monticello        	MN
+133	49	Rob Brooks        	44	34:06.71	10:58.86	6:49.39 	Monticello        	MN
+134	360	Joe Wardarsksi    	42	34:23.10	11:04.01	6:52.59 	Big Lake          	MN
+135	333	Mike Oliverius    	57	35:58.75	11:34.91	7:11.79 	Monticello        	MN
+136	328	Michael Staryszak 	37	36:30.50	11:44.89	7:18.00 	Monticello        	MN
+137	126	Geoff Johnson     	28	37:26.81	12:03.23	7:29.39 	Big Lake          	MN
+138	117	Jeff Banyai       	54	37:33.50	12:05.49	7:30.79 	o                 	MN
+139	142	Jerry Parten      	53	38:21.51	12:20.94	7:40.39 	Chanhassen        	MN
+140	136	Rajesh Kumawat    	38	38:21.94	12:20.94	7:40.39 	eden prairie      	MN
+141	217	Ryder Anderson    	9	39:00.00	12:33.17	7:48.00 	Monticello        	MN
+142	113	Brent Gonyer      	31	39:18.18	12:38.96	7:51.60 	Crystal           	MN
+143	32	Troy Bishop       	39	41:36.54	13:23.70	8:19.39 	Becker            	MN
+144	68	Chris Alberg      	34	45:03.77	14:30.33	9:00.79 	Monticello        	MN
+145	61	Walt Carrol       	51	47:38.95	15:20.22	9:31.79 	Robinsville       	NJ
+146	216	Ty Anderson       	9	48:40.31	15:39.85	9:44.00 	Monticello        	MN
+147	62	Hugo Sonbuchner   	76	52:14.97	16:49.05	10:26.99	Monticello        	MN

@@ -1,0 +1,120 @@
+Lake Conf Relays 2014
+12/4/2014
+
+B-JV Results-Relay
+
+
+1	Wayzata JV Relay	Wayzata     	928	33:28.25    
+	Basten, Ben             	925	16:12:27.00	16:20:37.70	8:10.70
+	Gilbertson, Jeremy      	926	16:20:37.70	16:28:57.23	8:19.52
+	White, Alex             	927	16:28:57.23	16:37:12.72	8:15.49
+	Sullivan, Ryan          	928	16:37:12.72	16:45:55.26	8:42.54
+
+2	Mtka JV2,E      	Minnetonka  	723	34:11.89    
+	Undetermined            	720	16:12:27.00	16:20:49.20	8:22.20
+	Undetermined            	721	16:20:49.20	16:29:19.48	8:30.28
+	Undetermined            	722	16:29:19.48	16:39:13.87	9:54.38
+	Undetermined            	723	16:39:13.87	16:46:38.89	7:25.01
+
+3	Wayzata  JV Rela	Wayzata     	936	37:47.31    
+	Stanek, Andrew          	933	16:12:27.00	16:21:43.71	9:16.71
+	Underdal, Robby         	934	16:21:43.71	16:30:10.81	8:27.09
+	Urke, Dan               	935	16:30:10.81	16:40:16.10	10:05.29
+	Polum, Issac            	936	16:40:16.10	16:50:14.320	9:58.21
+
+4	Mtka JV2,F      	Minnetonka  	727	38:16.77    
+	Undetermined            	724	16:12:27.00	16:21:18.93	8:51.93
+	Undetermined            	725	16:21:18.93	16:32:26.23	11:07.30
+	Undetermined            	726	16:32:26.23	16:41:33.16	9:06.93
+	Undetermined            	727	16:41:33.16	16:50:43.78	9:10.61
+
+5	Boys  Relay G   	Eden Prairie	130	38:30.77    
+	Huffman, Billy          	127	16:12:27.00	16:23:42.22	11:15.22
+	Jay, Josh               	128	16:23:42.22	16:32:56.23	9:14.01
+	Huschke, Daniel         	129	16:32:56.23	16:42:37.73	9:41.50
+	Sharockman, Jacob       	130	16:42:37.73	16:50:57.78	8:20.04
+
+6	Boys Relay H    	Eden Prairie	134	39:53.18    
+	Wurst, Eric             	131	16:12:27.00	16:23:14.71	10:47.71
+	Morrow, Austin          	132	16:23:14.71	16:33:00.39	9:45.67
+	Welder, Seth            	133	16:33:00.39	16:42:57.24	9:56.85
+	Schnirring, Lucas       	134	16:42:57.24	16:52:20.18	9:22.94
+
+7	Mtka JV2,G      	Minnetonka  	731	41:09.89    
+	Undetermined            	728	16:12:27.00	16:24:28.42	12:01.42
+	Undetermined            	729	16:24:28.42	16:36:28.22	12:00.00
+	Undetermined            	730	16:36:28.22	16:45:37.76	9:09.54
+	Undetermined            	731	16:45:37.76	16:53:36.90	7:59.13
+
+8	Wayzata  JV Rela	Wayzata     	932	42:17.27    
+	Mechelke, Chris         	929	16:12:27.00	16:23:00.00	10:33.00
+	Atkinson, Bailey        	930	16:23:00.00	16:34:42.48	11:42.48
+	Carlson, Tim            	931	16:34:42.48	16:47:20.49	12:38.00
+	Feller, Sam             	932	16:47:20.49	16:55:35.25	8:14.76
+
+9	Boys  Relay J   	Eden Prairie	142	43:49.68    
+	Lasley, Logan           	139	16:12:27.00	16:23:30.94	11:03.94
+	Ritzinger, Henry        	140	16:23:30.94	16:34:14.88	10:43.93
+	McIntosh, Vincent       	141	16:34:14.88	16:49:29.52	15:14.64
+	Swift, Evan             	142	16:49:29.52	16:56:16.69	6:47.17
+
+10	Wayzata  JV Rela	Wayzata     	948	45:06.79    
+	Schindler, John         	945	16:12:27.00	16:21:41.89	9:14.89
+	Jette, Ryan             	946	16:21:41.89	16:31:55.73	10:13.84
+	Thomsen, Zach           	947	16:31:55.73	16:42:40.39	10:44.66
+	Andeson, Samuel         	948	16:42:40.39	16:57:33.80	14:53.40
+
+11	Mtka JV2,H      	Minnetonka  	735	45:16.45    
+	Undetermined            	732	16:12:27.00	16:36:14.61	23:47.61
+	Undetermined            	733	16:36:14.60	16:34:56.48	00:00
+	Undetermined            	734	16:34:56.48	16:47:06.23	12:09.75
+	Undetermined            	735	16:47:06.23	16:57:43.46	10:37.22
+
+12	Wayzata  JV Rela	Wayzata     	944	47:16.52    
+	Brandt, Andrew          	941	16:12:27.00	16:23:00.66	10:33.66
+	Eyer, Blake             	942	16:23:00.66	16:32:29.10	9:28.43
+	Poellinger, Evan        	943	16:32:29.10	16:44:59.21	12:30.11
+	Fahnlander, Michael     	944	16:44:59.21	16:59:43.53	14:44.31
+
+13	Hop. Boys JV Tea	Hopkins     	525	48:00.29    
+	Gunderson, Benjamin     	526	16:12:27.00	16:30:15.73	17:48.73
+	Mydra, Daniel           	527	16:30:15.73	16:39:18.97	9:03.23
+	Mydra, Daniel           	528	16:39:18.97	16:51:07.330	11:48.35
+	Mydra, Daniel           	525	16:51:07.330	17:00:27.305	9:19.97
+
+14	Boys  Relay I   	Eden Prairie	138	48:33.79    
+	Risken, Zach            	135	16:12:27.00	16:23:05.71	10:38.71
+	Martin, Caleb           	136	16:23:05.71	16:35:57.74	12:52.03
+	Martin, Christian       	137	16:35:57.74	16:51:25.53	15:27.78
+	Fier, Mathew            	138	16:51:25.53	17:01:00.80	9:35.27
+
+15	Wayzata  JV Rela	Wayzata     	940	49:12.25    
+	Dunn, Hugo              	937	16:12:27.00	16:22:43.39	10:16.39
+	Floss, Andrew           	938	16:22:43.39	16:36:32.24	13:48.85
+	Holmquest, Jared        	939	16:36:32.24	16:52:40.25	16:08.00
+	Pierce, Alexander       	940	16:52:40.25	17:01:39.26	8:59.01
+
+16	Mtka JV2,I      	Minnetonka  	739	54:47.56    
+	Undetermined            	736	16:12:27.00	16:30:45.92	18:18.92
+	Undetermined            	737	16:30:45.92	16:40:18.75	9:32.82
+	Undetermined            	738	16:40:18.75	16:50:00.28	9:41.53
+	Undetermined            	739	16:50:00.28	17:07:14.57	17:14.28
+
+17	Hop. Boys JV Tea	Hopkins     	539	54:58.77    
+	Schricker, Seth         	533	16:12:27.00	16:31:18.21	18:51.21
+	Wormuth, Alek           	534	16:31:18.21	16:45:02.463	13:44.25
+	Sagadal, Penn           	535	16:45:02.463	16:55:00.00	9:57.53
+	Gitler, Will            	539	16:55:00.00	17:07:25.781	12:25.78
+
+18	Boys  Relay K   	Eden Prairie	146	56:14.72    
+	Singaram, Ashwin        	143	16:12:27.00	16:31:37.48	19:10.48
+	Krueger, Ben            	144	16:31:37.48	16:46:28.95	14:51.47
+	Brown, Dylan            	145	16:46:28.95	16:58:37.10	12:08.14
+	Claver, Nathan          	146	16:58:37.10	17:08:41.73	10:04.63
+
+19	Hop. Boys JV Tea	Hopkins     	541	1:04:18.58  
+	Antar, Mohamed          	530	16:12:27.00	16:38:13.201	25:46.19
+	Endres, Luke            	531	16:38:13.201	16:49:29.320	11:16.12
+	Erickson, Evan          	532	16:49:29.320	17:02:06.590	12:37.26
+	Struyk, Simon           	541	17:02:06.590	17:16:45.597	14:39.00
+

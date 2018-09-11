@@ -1,0 +1,104 @@
+BIB LIST FOR MPLSJV CHAMP-2015
+Generated: 2/10/2015 7:22:21 AM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Rochelle-Share, Elan    	Mpls Southwest (M)      	M	9	B-Cl	1
+Anders-Macleod, Kaj     	Mpls Southwest (M)      	M	12	B-Cl	2
+Damm, Teddy             	Mpls Southwest (M)      	M	10	B-Cl	3
+Anders-Macleod, Lachlan 	Mpls Southwest (M)      	M	9	B-SK	4
+Sommerness, Jonathon    	Mpls Southwest (M)      	M	9	B-SK	5
+Gilbertson, Ryan        	Mpls Southwest (M)      	M	11	B-SK	6
+Deeken, Klara           	Mpls Southwest (F)      	F	9	G-Sk	11
+Romano, Claire          	Mpls Southwest (F)      	F	9	G-Sk	12
+Rosengren, Alison       	Mpls Southwest (F)      	F	9	G-Sk	13
+Bartholomay, Willa      	Mpls Southwest (F)      	F	9	G-Sk	14
+Kloehn, Andrea          	Mpls Southwest (F)      	F	9	G-Cl	15
+Thompson, Arianna       	Mpls Southwest (F)      	F	10	G-Cl	16
+Crider, Andrew          	Mpls Washburn (M)       	M	10	B-SK	91
+Denuit, Bastien         	Mpls Washburn (M)       	M	11	B-SK	92
+Fugelstad, Isaac        	Mpls Washburn (M)       	M	11	B-SK	93
+Hoeiby, Martin          	Mpls Washburn (M)       	M	11	B-SK	94
+Hossick-Schott, Gabe    	Mpls Washburn (M)       	M	10	B-SK	95
+Kaelin, Connor          	Mpls Washburn (M)       	M	10	B-SK	96
+Katzman, Ben            	Mpls Washburn (M)       	M	10	B-SK	97
+Lange, Elijah           	Mpls Washburn (M)       	M	9	B-SK	98
+Langendorf, Josh        	Mpls Washburn (M)       	M	11	B-SK	99
+Markworth, Elijah       	Mpls Washburn (M)       	M	10	B-SK	100
+Marschall, Oscar        	Mpls Washburn (M)       	M	11	B-SK	101
+Nelson, Tommy           	Mpls Washburn (M)       	M	11	B-SK	102
+Peterson, Donovan       	Mpls Washburn (M)       	M	10	B-SK	103
+Peterson, Luke          	Mpls Washburn (M)       	M	10	B-SK	104
+Reisch, Sam             	Mpls Washburn (M)       	M	10	B-SK	105
+Saarinen, Henry         	Mpls Washburn (M)       	M	10	B-SK	106
+Sklaney, Ben            	Mpls Washburn (M)       	M	11	B-SK	107
+Steiner, William        	Mpls Washburn (M)       	M	8	B-SK	108
+Strabola, Roberto       	Mpls Washburn (M)       	M	10	B-SK	109
+White, Connor           	Mpls Washburn (M)       	M	12	B-SK	110
+Byers Olson, Emily      	Mpls Washburn (F)       	F	11	G-Sk	111
+Colbert, Ellie          	Mpls Washburn (F)       	F	12	G-Sk	112
+Cuppersmith, Megan      	Mpls Washburn (F)       	F	10	G-Sk	113
+Duda, Glory             	Mpls Washburn (F)       	F	11	G-Sk	114
+Gordon, Hannah          	Mpls Washburn (F)       	F	12	G-Sk	115
+Hepenstal, Paige        	Mpls Washburn (F)       	F	11	G-Sk	116
+Lee, Ilsa               	Mpls Washburn (F)       	F	10	G-Sk	117
+Meyerhoff, Yardena      	Mpls Washburn (F)       	F	9	G-Sk	118
+Peterson, Ella          	Mpls Washburn (F)       	F	10	G-Sk	119
+Strom, Helen            	Mpls Washburn (F)       	F	9	G-Sk	120
+Tufvesson, Natalie      	Mpls Washburn (F)       	F	11	G-Sk	121
+Bias, Samantha          	Mpls Washburn (F)       	F	10	G-Nov	122
+Meurisse, Ines          	Mpls Washburn (F)       	F	11	G-Nov	123
+Morse, Julia            	Mpls Washburn (F)       	F	9	G-Nov	124
+Hurbanis, John          	Mpls Washburn (M)       	M	10	B-Nov	140
+Beech, Jaques           	Henry (M)               	M	9	B-Nov	150
+Brogdon, Quinlan        	Henry (M)               	M	8	B-SK	151
+Brogdon, Teagan         	Henry (M)               	M	11	B-SK	152
+Clifton, Andrew         	Henry (M)               	M	11	B-Cl	153
+Coulliard, Lief         	Henry (M)               	M	9	B-SK	154
+Hooper, Lucas           	Henry (M)               	M	12	B-SK	155
+Sonquist, Issac         	Henry (M)               	M	10	B-SK	156
+Tchida, Tony            	Henry (M)               	M	9	B-SK	157
+Xiong, Mike             	Henry (M)               	M	12	B-SK	158
+Brogdon, Hannah         	Henry (F)               	F	10	G-Sk	164
+Moua, Madona            	Henry (F)               	F	11	G-Sk	165
+Eisenbeis, Phoebe       	Mpls South (F)          	F	11	G-Cl	171
+Anderson, Holly         	Mpls South (F)          	F	10	G-Cl	172
+ARAGONESE, LUDOVICA     	Mpls South (F)          	F	12	G-Nov	174
+BIEGER, KATHLEEN        	Mpls South (F)          	F	11	G-Nov	176
+DENNIS, DARLA           	Mpls South (F)          	F	9	G-Nov	177
+Cagemoe, Ciara          	Mpls South (F)          	F	11	G-Nov	178
+Breen, tova             	Mpls South (F)          	F	10	G-Sk	179
+EDWARDS, ADELINE        	Mpls South (F)          	F	10	G-Nov	180
+DEVORE, MOLLY           	Mpls South (F)          	F	10	G-Nov	182
+Donovan, Brigie         	Mpls South (F)          	F	11	G-Cl	183
+Earthman, Bronwyn       	Mpls South (F)          	F	10	G-Sk	184
+JENSEN, LILI            	Mpls South (F)          	F	9	G-Nov	190
+KANTHARAK, BELLA        	Mpls South (F)          	F	9	G-Nov	191
+MULHERN, ANNA           	Mpls South (F)          	F	9	G-Cl	195
+SAHAYDAK, JUSTICE       	Mpls South (F)          	F	10	G-Sk	201
+Strebe, Isabel          	Mpls South (F)          	F	10	G-Sk	203
+WILLETTE, IZZY          	Mpls South (F)          	F	9	G-Nov	205
+ADRIANY, NOAH           	Mpls South (M)          	M	9	B-SK	206
+AZZAZI, RAMI            	Mpls South (M)          	M	10	B-Nov	208
+Froehle-Baker, Adia     	Mpls South (F)          	F	10	G-Sk	209
+DelCarmen, Emilio       	Mpls South (M)          	M	11	B-Cl	210
+Carlsen, Patrick        	Mpls South (M)          	M	10	B-Cl	213
+WILSON, RAEQUAN         	Mpls South (M)          	M	11	B-SK	214
+Dabala, Seefan          	Mpls South (M)          	M	10	B-Cl	215
+Craves, Avery           	Mpls South (M)          	M	12	B-Cl	217
+Cross, Duncan           	Mpls South (M)          	M	11	B-SK	218
+DAVENPORT, ETHAN        	Mpls South (M)          	M	10	B-SK	220
+DESCAMPS, ELOI          	Mpls South (M)          	M	12	B-Nov	222
+McManus, Max            	Mpls South (M)          	M	10	B-SK	223
+Dregni, Marco           	Mpls South (M)          	M	10	B-SK	224
+Frauenheim Danke, Sam   	Mpls South (M)          	M	10	B-SK	231
+GALLE, JOHN             	Mpls South (M)          	M	9	B-Nov	232
+KLEVEN, SAM             	Mpls South (M)          	M	9	B-SK	234
+Makila, Finn            	Mpls South (M)          	M	10	B-SK	236
+MULLER, GEORGE          	Mpls South (M)          	M	9	B-Nov	241
+NELSON, ETHAN           	Mpls South (M)          	M	10	B-Cl	242
+Oxford, George          	Mpls South (M)          	M	12	B-Nov	243
+PIGNATELLO, MATEO       	Mpls South (M)          	M	9	B-Nov	245
+Riggins, Jack           	Mpls South (M)          	M	12	B-Nov	246
+RUDOLPH, CAMILO         	Mpls South (M)          	M	9	B-SK	247
+Scofield, Will          	Mpls South (M)          	M	10	B-SK	249
+WEIMER, LEON            	Mpls South (M)          	M	10	B-SK	252

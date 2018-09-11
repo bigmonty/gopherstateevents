@@ -1,0 +1,814 @@
+
+Firecracker 5k-10k 2014
+7/4/2014
+
+
+5K RUN  COMBINED RESULTS-CHIP
+
+
+PL	BIB-NAME            	M/F	AGE	CHIP TIME  	GUN TIME   	START TIME 	CITY, ST
+1	687-Gregg, Brian    	M	30	15:45.98   	15:46.16   	0:00.17 	Minneapolis, MN
+2	721-Liebish, Matt   	M	31	15:58.35   	15:58.46   	0:00.11 	Orono, MN
+3	738-Gorman, Aaron   	M	25	16:57.21   	16:57.71   	0:00.50 	Minneapolis, MN
+4	676-Magnuson, Grant 	M	17	17:08.28   	17:10.42   	0:02.14 	Chanhassen, MN
+5	466-Smith, Grant    	M	17	17:13.53   	17:16.20   	0:02.66 	Chanahssen, MN
+6	198-Ford, Ryan      	M	16	17:14.16   	17:14.27   	0:00.11 	Huntsville, AL
+7	720-DeBold, Doug    	M	24	17:17.48   	17:17.92   	0:00.43 	Wayzata, MN
+8	707-Quinn, Andrew   	M	25	17:20.26   	17:20.56   	0:00.30 	Golden Valley, MN
+9	766-McGill, Zach    	M	25	17:36.13   	17:37.59   	0:01.46 	Minneapolis, MN
+10	760-Blatti, Todd    	M	51	17:49.02   	17:49.81   	0:00.79 	Eden Prairie, MN
+11	443-Kessler, Peter  	M	52	17:56.86   	17:58.30   	0:01.43 	Minneapolis, MN
+12	444-Allen, Owen     	M	13	18:04.35   	18:04.36   	00:00.0 	Key West, FL
+13	688-Gregg, Caitlin  	F	33	18:51.19   	18:53.45   	0:02.25 	Minneapolis, MN
+14	625-Weiner, Adam    	M	15	18:52.02   	18:52.45   	0:00.42 	Minnetonka, MN
+15	369-Goeman, Kayla   	F	21	18:55.95   	19:01.43   	0:05.48 	Minnetonka, MN
+16	711-Blackey, Adam   	M	23	19:08.54   	19:13.21   	0:04.66 	Excelsior, MN
+17	728-Humbert, Matthew	M	14	19:10.82   	19:12.56   	0:01.74 	Mound, MN
+18	68-Mischke, Malekai 	F	18	19:16.29   	19:48.18   	0:31.89 	Plymouth, MN
+19	271-st.geme, payton 	M	13	19:35.30   	19:44.13   	0:08.83 	Wayzata, MN
+20	463-Meath, Bart     	M	42	19:35.98   	19:36.39   	0:00.40 	Waconia, MN
+21	222-Butz, Daniel    	M	18	19:53.91   	19:59.40   	0:05.49 	Waconia, MN
+22	580-Cullinane, John 	M	33	20:01.89   	20:04.27   	0:02.38 	Chanhassen, MN
+23	221-Halbmaier, Eliza	F	14	20:02.21   	20:03.86   	0:01.64 	Shorewood, MN
+24	89-Trettel, Brian   	M	25	20:14.58   	20:19.96   	0:05.37 	Minnetonka, MN
+25	696-Hanson, Greta   	F	22	20:16.47   	20:21.76   	0:05.28 	Bloomington, MN
+26	402-Gullickson, Kyle	M	19	20:16.73   	20:18.46   	0:01.72 	Chanhassen, MN
+27	787-Leslie, Grace   	F	15	20:20.46   	20:22.32   	0:01.85 	Orono, MN
+28	668-Degler, Todd    	M	30	20:22.33   	20:48.13   	0:25.79 	Chaska, MN
+29	818-Histon, Cole    	M	99	20:29.89   	20:37.18   	0:07.29 	Shorewood, MN
+30	743-Johnson, Matthew	M	32	20:38.54   	20:45.68   	0:07.14 	Raleigh, NC
+31	75-Sellman, Luke    	M	14	20:40.57   	20:41.21   	0:00.63 	Chanhassen, MN
+32	840-Baker, Mitch    	M	32	20:46.18   	20:56.86   	0:10.67 	Williamstown, MA
+33	834-White, Lannie   	M	32	20:46.58   	20:56.86   	0:10.27 	Williamstown, MA
+34	234-Brown, David    	M	42	20:58.43   	20:58.92   	0:00.49 	Eden Prairie, MN
+35	520-Wagner, Parks   	M	20	20:59.30   	21:00.00   	0:00.70 	Chanhassen, MN
+36	697-Marino, Maddie  	F	13	21:08.96   	21:09.46   	0:00.49 	Maple Grove, MN
+37	368-Goeman, Terry   	M	53	21:10.67   	21:16.17   	0:05.50 	Minnetonka, MN
+38	202-Hoffman, Hugh   	M	47	21:24.45   	21:31.19   	0:06.73 	Long Lake, MN
+39	752-Nevills, Tracy  	M	47	21:24.54   	21:28.46   	0:03.91 	St. Louis Park, MN
+40	340-Tollefson, Luke 	M	12	21:25.54   	21:37.69   	0:12.14 	Shorewood, MN
+41	757-Haugen, Thomas  	M	10	21:28.91   	21:32.72   	0:03.80 	Deephaven, MN
+42	758-Haugen, John    	M	50	21:32.40   	21:37.22   	0:04.81 	Deephaven, MN
+43	501-Schroeder, Adam 	M	21	21:33.30   	21:38.46   	0:05.15 	Eden Prairie, MN
+44	525-Schutt, Thomas  	M	21	21:34.95   	21:38.47   	0:03.51 	Chanhassen, MN
+45	702-Scouler, Keegan 	M	16	21:41.53   	22:04.51   	0:22.98 	Excelsior, MN
+46	656-Tennysan, Ryley 	M	25	21:57.38   	23:42.21   	1:44.83 	Minneapolis, MN
+47	273-Bowe, justine   	F	16	21:58.46   	22:05.72   	0:07.25 	Wayzata, MN
+48	64-Megna, Erin      	F	21	21:58.79   	22:03.46   	0:04.66 	Sugar Land, TX
+49	734-Kallberg, Daniel	M	48	22:00.00   	22:07.36   	0:07.79 	Savage, MN
+50	236-Koeppen, Harry  	M	12	22:03.44   	22:09.61   	0:06.16 	Chanhassen, MN
+51	373-Matchan, Izabel 	F	15	22:08.80   	23:18.44   	1:09.63 	Excelsior, MN
+52	765-Haakenstad, Anne	F	19	22:15.04   	23:48.56   	1:33.52 	Minnetonka, MN
+53	332-Schmelzle, Cecel	F	13	22:17.39   	22:18.71   	0:01.31 	St Louis Pk, MN
+54	10-Wagner, Todd     	M	47	22:19.60   	22:43.46   	0:23.85 	Tonka Bay, MN
+55	605-Melz, Kylie     	F	12	22:22.75   	23:23.14   	1:00.39 	Excelsior, MN
+56	739-Carlson, Boe    	M	41	22:28.02   	23:04.64   	0:36.62 	Minnetonka, MN
+57	756-Haugen, Lukas   	M	13	22:30.40   	22:33.97   	0:03.56 	Deephaven, MN
+58	662-Harris, Peter   	M	24	22:34.18   	22:38.52   	0:04.34 	LaCrosse, WI
+59	669-Utecht, Aaron   	M	32	22:34.72   	23:00.21   	0:25.48 	Manitowoc, WI
+60	100-Allen, John     	M	35	22:39.40   	22:47.18   	0:07.78 	Brooklyn park, MN
+61	810-Newhouse, Eric  	M	43	22:43.17   	22:50.85   	0:07.67 	Shorewood, MN
+62	809-Newhouse, Hunter	M	11	22:44.06   	22:51.21   	0:07.14 	Shorewood, MN
+63	285-thiss, olivier  	M	15	22:46.45   	23:02.41   	0:15.96 	Excelsior, MN
+64	165-Jones, Alexandra	F	26	22:48.31   	23:09.21   	0:20.89 	St. Louis Park, MN
+65	543-Green, Tres'    	M	15	22:59.03   	23:15.41   	0:16.38 	Excelsior, MN
+66	567-Anderson, David 	M	44	22:59.04   	23:38.61   	0:39.57 	Victoria, MN
+67	826-Gross, Ethan    	M	9	23:05.14   	24:35.72   	1:30.58 	Excelsior, MN
+68	197-Heard, Jim      	M	45	23:07.22   	23:13.97   	0:06.74 	Maple Grove, MN
+69	532-Gross, Cassie   	F	15	23:09.01   	23:19.67   	0:10.66 	Eden Prairie, MN
+70	533-Gross, Michael  	M	9	23:12.39   	23:24.71   	0:12.31 	Eden Prairie, MN
+71	408-Labadie, Jennife	F	43	23:12.45   	23:17.33   	0:04.87 	Excelsior, MN
+72	772-Cox, Cassandra  	F	30	23:27.92   	24:06.47   	0:38.54 	Victoria, MN
+73	704-Larus, Chris    	M	47	23:32.68   	23:37.59   	0:04.90 	Chanhassen, MN
+74	378-Thomasson, Olive	M	14	23:40.70   	23:40.71   	00:00.0 	Excelsior, MN
+75	429-Keithly, Matthew	M	45	23:41.78   	23:45.69   	0:03.90 	Excelsior, MN
+76	171-Smith, Katie    	F	15	23:42.97   	23:44.22   	0:01.24 	--
+77	291-Sciacca, Tracy  	F	34	23:44.10   	23:49.71   	0:05.60 	St. Paul, MN
+78	798-Duffy, Michael  	M	62	23:48.92   	23:55.48   	0:06.55 	Eden  Prairie, MN
+79	128-McClure, Josh   	M	33	23:50.11   	24:54.84   	1:04.72 	Minnetrista, MN
+80	194-Schaefer, Brooks	M	14	23:51.00   	25:15.77   	1:24.77 	Excelsior, MN
+81	328-Herbert, Casey  	F	38	23:54.82   	24:46.69   	0:51.86 	Excelsior, MN
+82	47-Holmberg, Andrew 	M	25	24:00.18   	25:44.50   	1:44.31 	Chicago, IL
+83	242-Nelson, Laura   	F	30	24:00.93   	24:46.22   	0:45.28 	Brooklyn Park, MN
+84	449-Guenther, Kaitly	F	17	24:01.32   	24:18.22   	0:16.89 	carver, MN
+85	127-McClure, Mandi  	F	33	24:07.02   	25:10.68   	1:03.66 	Minnetrista, MN
+86	13-Jones, Jamal     	M	28	24:11.76   	25:13.33   	1:01.56 	Denver, CO
+87	280-Roesler, Madelin	F	17	24:11.86   	24:36.53   	0:24.66 	Deephaven, MN
+88	39-Eisfelder, Kristi	F	45	24:12.50   	25:31.72   	1:19.22 	Peoria, IL
+89	223-Butz, David     	M	22	24:14.25   	24:19.97   	0:05.72 	Waconia, MN
+90	422-Henninger, Nick 	M	19	24:14.56   	24:56.47   	0:41.90 	Waconia, MN
+91	92-Franet, Ted      	M	57	24:16.59   	24:16.60   	00:00.0 	Brooklyn Center, MN
+92	420-Lutz, Steve     	M	44	24:37.68   	24:45.89   	0:08.21 	Shorewood, MN
+93	282-Hexum, Evan     	M	15	24:38.09   	24:39.72   	0:01.62 	Excelsior, MN
+94	254-Rickabaugh, Joe 	M	23	24:38.34   	25:36.91   	0:58.56 	Chanhassen, MN
+95	206-O'Reilly, Colin 	M	13	24:38.91   	24:47.47   	0:08.55 	Minnetonka, MN
+96	685-Klecker, John   	M	20	24:40.07   	24:40.97   	0:00.89 	Minnetonka, MN
+97	12-Jones, Erin      	F	27	24:41.89   	25:44.44   	1:02.54 	Denver, CO
+98	352-Reese, Chase    	M	11	24:43.54   	24:45.70   	0:02.15 	Wayzata, MN
+99	839-Brady, Anthea   	F	30	24:44.53   	24:57.09   	0:12.55 	Winchester, MA
+100	272-bowe, carolina  	F	17	24:44.55   	25:14.95   	0:30.39 	Wayzata, MN
+101	347-Schwandt, Kelly 	F	39	24:44.65   	25:39.22   	0:54.56 	Prior Lake, MN
+102	423-plathe, justin  	M	43	24:45.00   	24:54.44   	0:09.43 	St.Paul, MN
+103	762-Bloom, Molly    	F	24	24:45.76   	25:20.58   	0:34.81 	Oakland, MN
+104	209-penner, matilda 	F	16	24:45.76   	25:03.58   	0:17.81 	Chaska, MN
+105	213-Snell, Heidi    	F	17	24:45.96   	25:03.58   	0:17.61 	Chanhassen, MN
+106	480-Chang, Claudia  	F	11	24:47.31   	24:54.84   	0:07.52 	Edina, MN
+107	365-Hestdalen, Brett	M	52	24:51.08   	24:58.93   	0:07.85 	Pierre, SD
+108	207-O'Reilly, Val   	F	45	24:51.32   	25:00.55   	0:09.23 	Minnetonka, MN
+109	569-Markstrom, Jack 	M	8	24:55.11   	24:55.97   	0:00.85 	Mound, MN
+110	706-Marshall, Sandy 	F	42	24:56.57   	24:57.47   	0:00.89 	Wayzata, MN
+111	518-Rausch, Jack    	M	10	25:00.00   	25:00.00   	0:00.25 	Minnetonka, MN
+112	806-Sells, Austin   	M	22	25:01.46   	25:07.45   	0:05.98 	Jacksonville, NC
+113	750-Bradley, Sam    	M	10	25:01.67   	25:03.47   	0:01.79 	Excelsior, MN
+114	681-Anderson, Greg  	M	41	25:01.79   	25:08.22   	0:06.42 	Coppell, TX
+115	184-Barnard, Anna   	F	15	25:03.29   	26:16.58   	1:13.28 	Tonka Bay, MN
+116	653-Gulstrand, Peter	M	26	25:04.31   	26:48.71   	1:44.39 	Minneapolis, MN
+117	640-Terzariol, Luca 	M	11	25:05.67   	26:03.97   	0:58.29 	Excelsior, MN
+118	592-Simon, Bree     	F	39	25:08.65   	25:21.29   	0:12.64 	St. Louis Park, MN
+119	476-Hughes, Anna    	F	14	25:12.33   	26:17.19   	1:04.85 	Long Lake, MN
+120	475-Hughes, John    	M	45	25:12.51   	26:17.40   	1:04.89 	Long Lake, MN
+121	371-Bergeland, India	F	21	25:14.06   	26:32.97   	1:18.90 	Wayzata, MN
+122	394-garin, molly    	F	14	25:14.56   	26:00.47   	0:45.90 	Mound, MN
+123	751-Bradley, Claire 	F	12	25:15.15   	25:16.78   	0:01.63 	Excelsior, MN
+124	611-Crowley, Benjami	M	14	25:15.17   	25:38.47   	0:23.29 	Victoria, MN
+125	187-Babcock, Eleanor	F	18	25:15.27   	25:40.18   	0:24.91 	Tonka Bay, MN
+126	843-Stillman, David 	M	45	25:18.20   	26:39.36   	1:21.15 	Tonka Bay, MN
+127	610-Crowley, Carolin	F	16	25:18.41   	25:41.83   	0:23.41 	Victoria, MN
+128	121-Woodstrom, Jenna	F	27	25:18.92   	26:21.72   	1:02.79 	Bloomington, MN
+129	421-HENNINGER, JEAN 	F	49	25:21.94   	26:03.16   	0:41.22 	Waconia, MN
+130	665-Lang, Kelsey    	F	37	25:25.23   	26:14.38   	0:49.14 	Minnetrista, MN
+131	517-Rausch, Jon     	M	43	25:26.35   	25:26.76   	0:00.40 	Minnetonka, MN
+132	782-Thate, Kelly    	F	41	25:26.46   	25:32.21   	0:05.74 	St. Louis Park, MN
+133	425-Parker, Dan     	M	13	25:26.81   	26:55.61   	1:28.79 	Excelsior, MN
+134	212-Lohse, Emma     	F	17	25:28.85   	25:46.47   	0:17.61 	Chaska, MN
+135	119-Wallace, Kerry  	F	26	25:29.64   	25:52.80   	0:23.16 	Woodbury, MN
+136	93-Viger, Kristin   	F	32	25:30.02   	25:44.84   	0:14.81 	Tonka Bay, MN
+137	239-Jackson, Jennife	F	32	25:32.97   	26:44.45   	1:11.47 	Mayer, MN
+138	649-Hawley, Dylan   	M	12	25:34.17   	25:39.76   	0:05.59 	Excelsior, MN
+139	40-Eisfelder, Nate  	M	39	25:35.43   	26:54.97   	1:19.53 	Peoria, IL
+140	786-Sternberg, Emma 	F	13	25:35.79   	25:37.48   	0:01.69 	Plymouth, MN
+141	157-Bakken, Beau    	M	15	25:35.91   	27:12.50   	1:36.59 	Minnetonka, MN
+142	183-Barnard, Martha 	F	15	25:36.14   	26:49.93   	1:13.79 	Tonka Bay, MN
+143	76-Shiffer, Kevin   	M	47	25:37.30   	26:30.61   	0:53.30 	Victoria, MN
+144	733-VanHorne, Kendal	F	17	25:38.72   	26:12.72   	0:33.99 	Excelsior, MN
+145	516-Hanish, Jodi    	F	35	25:40.52   	26:26.16   	0:45.64 	Victoria, MN
+146	300-Middleton, Kim  	F	54	25:41.26   	26:28.80   	0:47.54 	Deephaven, MN
+147	594-Lendino, Sofia  	F	10	25:44.66   	26:34.89   	0:50.23 	Chaska, MN
+148	200-McKenzie, Megan 	F	24	25:46.28   	25:50.94   	0:04.65 	Excelsior, MN
+149	755-Bosacker, Ethan 	M	13	25:51.90   	25:55.22   	0:03.31 	Deephaven, MN
+150	465-Smith, Kailee   	F	15	25:53.31   	26:11.53   	0:18.22 	Chanahssen, MN
+151	526-Guilmette, Kenan	F	34	25:54.38   	26:58.67   	1:04.29 	Minnetonka, MN
+152	228-Nessa, Spencer  	M	10	25:56.55   	26:01.14   	0:04.59 	Tonka Bay, MN
+153	502-Van Horne, David	M	45	25:57.19   	26:31.63   	0:34.44 	Shorewood, MN
+154	203-Carlin, Joe     	M	55	25:58.52   	26:46.48   	0:47.96 	Excelsior, MN
+155	4-carter, ann       	F	17	26:00.04   	26:12.33   	0:12.28 	Excelsior, MN
+156	5-carter, doug      	M	52	26:01.02   	26:12.55   	0:11.53 	Excelsior, MN
+157	204-Carlin, Judy    	F	54	26:01.11   	26:49.71   	0:48.59 	Excelsior, MN
+158	693-Smith, Justin   	M	28	26:01.65   	26:02.95   	0:01.29 	Plymouth, MN
+159	243-Aller, Kirsten  	F	16	26:02.13   	26:42.63   	0:40.50 	Chanhassen, MN
+160	769-Rottier, Eric   	M	42	26:04.64   	26:31.22   	0:26.58 	Shorewood, MN
+161	597-Braaten, Gena   	F	44	26:10.06   	27:35.47   	1:25.40 	Victoria, MN
+162	397-Pullman, Keith  	M	48	26:11.82   	26:44.73   	0:32.90 	Excelsior, MN
+163	262-Ramsey, Benjamin	M	19	26:13.15   	27:27.47   	1:14.32 	Florence, MA
+164	364-Hestdalen, Krist	F	21	26:13.90   	26:20.43   	0:06.53 	Pierre, SD
+165	77-Stenson, Samuel  	M	19	26:15.20   	27:00.91   	0:45.71 	Minnetrista, MN
+166	459-Klos, Michael   	M	9	26:18.59   	27:48.47   	1:29.87 	Minnetrista, MN
+167	218-Meiusi, Dan     	M	54	26:18.91   	26:36.31   	0:17.40 	Excelsior, MN
+168	545-Peters, Sam     	M	16	26:22.97   	27:03.56   	0:40.59 	Excelsior, MN
+169	244-Aller, Lauren   	F	16	26:23.15   	27:03.72   	0:40.56 	Chanhassen, MN
+170	623-Weiner, Coco    	F	14	26:23.36   	26:23.91   	0:00.54 	Minnetonka, MN
+171	461-Boyle, Ed       	M	52	26:25.17   	27:25.54   	1:00.37 	Minnetonka, MN
+172	136-DuBois, Dennis  	M	52	26:26.30   	26:55.47   	0:29.16 	Chanhassen, MN
+173	137-DuBois, Erin    	F	24	26:27.50   	26:55.61   	0:28.11 	Chanhassen, MN
+174	552-Miller, Pete    	M	44	26:28.29   	26:42.98   	0:14.69 	Shorewood, MN
+175	551-Miller, Luke    	M	9	26:28.53   	26:43.22   	0:14.69 	Shorewood, MN
+176	698-Robben, Patricia	F	11	26:28.89   	26:49.22   	0:20.33 	Minnetonka, MN
+177	341-Tollefson, Sandl	M	12	26:31.92   	26:46.48   	0:14.55 	Shorewood, MN
+178	342-Tollefson, Steph	F	43	26:32.17   	26:46.48   	0:14.30 	Shorewood, MN
+179	94-Viger, Justin    	M	34	26:32.53   	26:45.67   	0:13.14 	Tonka Bay, MN
+180	504-Van Horne, Brook	F	13	26:35.40   	27:09.22   	0:33.82 	Shorewood, MN
+181	161-Miller, Brian   	M	46	26:35.52   	27:25.76   	0:50.24 	Eden Prairie, MN
+182	768-Bosacker, Anna  	F	21	26:37.76   	27:56.65   	1:18.89 	Chanhassen, MN
+183	790-Boyton, Emily   	F	21	26:38.51   	27:57.64   	1:19.13 	Shorewood, MN
+184	315-Kass, Steve     	M	37	26:39.21   	27:05.72   	0:26.50 	Minneapolis, MN
+185	503-Van Horne, Kathe	F	42	26:39.92   	27:15.22   	0:35.29 	Shorewood, MN
+186	329-Schmelzle, Nancy	F	44	26:41.11   	26:44.67   	0:03.55 	St Louis Pk, MN
+187	330-Schmelzle, Victo	F	10	26:41.16   	26:44.97   	0:03.80 	St Louis Pk, MN
+188	156-Bakken, Alli    	F	17	26:44.11   	28:20.71   	1:36.59 	Minnetonka, MN
+189	88-Woodstrom, Allan 	M	31	26:48.02   	27:49.33   	1:01.30 	Richfield, MN
+190	290-Bowe, Patrick   	M	28	26:48.06   	27:24.71   	0:36.64 	Wayzata, MN
+191	469-Dahlen, Derek   	M	30	26:49.63   	28:23.95   	1:34.32 	Excelsior, MN
+192	366-Goeman, Kelsey  	F	23	26:49.65   	26:56.97   	0:07.31 	Minnetonka, MN
+193	286-Johnson, Benjami	M	14	26:50.54   	27:16.18   	0:25.64 	Minnetonka, MN
+194	274-st.geme, pierce 	M	9	26:51.33   	27:24.93   	0:33.60 	Wayzata, MN
+195	174-alexander, sarah	F	20	26:51.46   	27:19.67   	0:28.21 	Excelsior, MN
+196	812-Gibson, John    	M	36	26:52.21   	28:24.73   	1:32.51 	Excelsior, MN
+197	568-Markstrom, Andre	F	45	26:52.77   	26:53.38   	0:00.61 	Mound, MN
+198	515-Hanish, Joel    	M	36	26:53.29   	27:37.93   	0:44.64 	Victoria, MN
+199	270-Schuster, Benjam	M	9	26:53.29   	26:58.88   	0:05.59 	Victoria, MN
+200	172-alexander, colle	F	17	26:54.16   	27:20.89   	0:26.73 	Excelsior, MN
+201	289-Heim, Katherine 	F	27	26:55.57   	27:32.43   	0:36.86 	Wayzata, MN
+202	349-Druce, Madeline 	F	29	26:56.08   	28:31.90   	1:35.82 	Minnetonka, MN
+203	468-Dahlen, Rachel  	F	29	26:59.14   	28:33.52   	1:34.38 	Excelsior, MN
+204	484-Miller, Roger   	M	53	26:59.39   	27:56.85   	0:57.46 	Medina, MN
+205	811-Gibson, Regina  	F	46	27:00.32   	28:28.47   	1:28.14 	Excelsior, MN
+206	781-Williams, Jill  	F	49	27:00.97   	27:06.72   	0:05.74 	Minnetonka, MN
+207	11-Ernst, Kathy     	F	59	27:01.68   	27:20.23   	0:18.54 	Young America, MN
+208	34-Denham, Abbey    	F	20	27:01.98   	27:40.96   	0:38.97 	Deephaven, MN
+209	550-Johnson, Sonja  	F	46	27:03.29   	27:20.68   	0:17.39 	Excelsior, MN
+210	384-Tibbetts, Mike  	M	37	27:03.48   	28:17.64   	1:14.15 	Waconia, MN
+211	692-Smith, David    	M	56	27:03.57   	27:05.19   	0:01.61 	Plymouth, MN
+212	680-Morken, Jeff    	M	44	27:06.31   	27:10.22   	0:03.90 	Chanhassen, MN
+213	683-Crawford, Kayley	F	11	27:06.95   	28:26.38   	1:19.42 	Minnetonka, MN
+214	398-Bonthius, Justin	M	14	27:07.07   	28:34.23   	1:27.15 	Excelsior, MN
+215	367-Goeman, Laurie  	F	53	27:07.52   	27:15.72   	0:08.20 	Minnetonka, MN
+216	521-Wagner, Rodd    	M	53	27:07.92   	27:16.47   	0:08.54 	Chanhassen, MN
+217	546-Madson, Brendan 	M	14	27:08.05   	28:34.47   	1:26.41 	Shorewood, MN
+218	677-Turner, Mia     	F	35	27:08.28   	27:36.47   	0:28.18 	Excelsior, MN
+219	837-Michael, Bill   	M	54	27:08.56   	27:20.88   	0:12.32 	Tonka Bay, MN
+220	836-Michael, Aaron  	M	26	27:09.36   	27:20.68   	0:11.31 	Tonka Bay, MN
+221	577-Schmidt, Kellen 	M	25	27:10.68   	28:18.66   	1:07.98 	Belle Plaine, MN
+222	547-Madson, Blaine  	M	14	27:12.79   	28:40.23   	1:27.43 	Shorewood, MN
+223	820-Swirtz, Kilian  	M	14	27:13.85   	28:40.66   	1:26.80 	Excelsior, MN
+224	763-Fredrickson, Tay	F	19	27:18.16   	28:52.73   	1:34.56 	Orono, MN
+225	524-Malosky, Linda  	F	50	27:19.56   	27:34.68   	0:15.12 	Excelsior, MN
+226	523-Konat, Thomas   	M	50	27:20.54   	27:34.68   	0:14.14 	Excelsior, MN
+227	689-Ginther, Jim    	M	48	27:22.04   	27:38.94   	0:16.89 	Excelsior, MN
+228	690-Caspers, Amanda 	F	38	27:22.38   	27:39.15   	0:16.77 	Eden Prairie, MN
+229	399-Bonthius, Nick  	M	12	27:22.68   	28:50.36   	1:27.67 	Excelsior, MN
+230	42-Foley, Peter     	M	45	27:23.26   	28:17.22   	0:53.96 	Victoria, MN
+231	535-Gondeck, Ava    	F	15	27:24.60   	27:44.45   	0:19.84 	Wayzata, MN
+232	430-Spartz, Allyson 	F	16	27:25.34   	28:26.48   	1:01.13 	New Hope, MN
+233	211-Swenson, Peter  	M	50	27:26.78   	27:46.67   	0:19.89 	Eden Prairie, MN
+234	718-Hauser, Tom     	M	53	27:27.73   	28:57.97   	1:30.23 	Chanhassen, MN
+235	735-Kallberg, Sarah 	F	45	27:27.90   	27:34.22   	0:06.32 	Savage, MN
+236	488-Lesinski, James 	M	46	27:28.10   	27:39.72   	0:11.61 	Excelsior, MN
+237	473-Hoelscher, Ann  	F	46	27:29.38   	28:03.18   	0:33.80 	Excelsior, MN
+238	764-Steingas, Ida   	F	19	27:30.50   	29:04.22   	1:33.72 	Deephaven, MN
+239	188-Quaglia, Vito   	M	49	27:30.56   	27:50.72   	0:20.15 	Chanhassen, MN
+240	565-Emfield, Gregg  	M	50	27:30.80   	27:40.96   	0:10.15 	Excelsior, MN
+241	24-deJong, Jon      	M	34	27:30.84   	28:05.14   	0:34.29 	Minnetonka, MN
+242	255-Rickabaugh, Meag	F	23	27:31.83   	28:29.98   	0:58.14 	Chanhassen, MN
+243	411-Molldrem, Georgi	F	13	27:32.17   	29:08.50   	1:36.33 	Tonka Bay, MN
+244	146-Gartner, Madison	F	19	27:32.31   	27:47.89   	0:15.58 	Deephaven, MN
+245	360-Stang, Andrew   	M	20	27:32.41   	28:00.00   	0:27.59 	Troy, OH
+246	412-Molldrem, Kevin 	M	42	27:32.47   	29:08.71   	1:36.23 	Tonka Bay, MN
+247	419-Bartz, Mike     	M	21	27:32.64   	28:42.88   	1:10.24 	Deephaven, MN
+248	778-Bimberg, Sarah  	F	17	27:33.48   	28:23.72   	0:50.23 	Chanhassen, MN
+249	507-Lowery, Richard 	M	47	27:34.79   	28:08.26   	0:33.47 	Tonka Bay, MN
+250	281-Hexum, Ellie    	F	13	27:36.01   	27:39.15   	0:03.14 	Excelsior, MN
+251	353-Reese, Maggie   	F	14	27:36.20   	27:38.75   	0:02.54 	Wayzata, MN
+252	701-Scouler, David  	M	61	27:36.42   	28:01.22   	0:24.79 	Excelsior, MN
+253	595-Saunders, Matt  	M	20	27:37.48   	28:00.96   	0:23.47 	Minnetonka, MN
+254	801-Woodley, Michael	M	52	27:37.56   	28:42.66   	1:05.10 	Excelsior, MN
+255	596-Saunders, Cindy 	F	47	27:38.15   	28:01.34   	0:23.18 	Minnetonka, MN
+256	265-Rusch, Chuck    	M	52	27:41.34   	27:45.25   	0:03.90 	Minnetonka, MN
+257	324-Gehle, Joelle   	F	25	27:46.92   	28:07.65   	0:20.73 	Richfield, MN
+258	251-Stang, David    	M	50	27:47.00   	28:14.38   	0:27.38 	Hinsdale, IL
+259	327-Riggio, Joseph  	M	55	27:47.25   	27:52.97   	0:05.72 	Corona Del Mar, CA
+260	63-Megna, Emily     	F	24	27:48.90   	28:00.72   	0:11.82 	Sugar Land, TX
+261	231-petrillo, kelsi 	F	14	27:53.08   	29:23.94   	1:30.85 	Mound, MN
+262	805-McHugh, Mitch   	M	11	27:53.36   	28:47.73   	0:54.36 	Lakeville, MN
+263	296-Kant, Brian     	M	28	27:53.54   	29:06.68   	1:13.14 	Austin, TX
+264	321-Grengs, Joseph  	M	33	27:55.97   	28:54.48   	0:58.50 	Bloomington, MN
+265	618-Marceau, Emily  	F	11	27:56.47   	28:03.58   	0:07.10 	Tonka Bay, MN
+266	622-Ahrenholtz, Heid	F	14	27:57.75   	28:05.97   	0:08.22 	Minnetonka, MN
+267	519-Hanson, Bill    	M	54	27:57.79   	28:52.42   	0:54.63 	Wichita, KS
+268	36-Drazan, Mason    	M	10	27:58.06   	28:27.98   	0:29.91 	Victoria, MN
+269	8-Shroyer, Jackie   	F	17	27:58.21   	29:14.73   	1:16.51 	Chaska, MN
+270	617-Marceau, Anthony	M	46	27:58.41   	28:04.97   	0:06.55 	Tonka Bay, MN
+271	536-Gondeck-Becker, 	M	51	27:59.10   	28:20.46   	0:21.35 	Wayzata, MN
+272	759-Bowman, Laura   	F	19	28:01.63   	29:35.15   	1:33.52 	Minnetonka, MN
+273	803-McHugh, Mia     	F	47	28:01.77   	28:56.97   	0:55.20 	Lakeville, MN
+274	263-Grivich, Jamie  	F	50	28:03.52   	28:54.84   	0:51.31 	Chanhassen, MN
+275	215-Igelman, Emily  	F	35	28:05.42   	29:13.73   	1:08.30 	Plymouth, MN
+276	3-Willgress, Benjami	M	36	28:09.07   	28:46.52   	0:37.45 	Saint Michael, MN
+277	410-Haskins, Christa	F	39	28:09.88   	28:09.88   	00:00.0 	Excelsior, MN
+278	445-Pohlad, Anna    	F	20	28:10.07   	29:23.23   	1:13.15 	Shorewood, MN
+279	358-Johnson, Beth   	F	35	28:10.25   	28:43.72   	0:33.47 	Woodbury, MN
+280	727-Tschacher, Kathl	F	44	28:10.85   	29:07.50   	0:56.64 	Minnetrista, MN
+281	37-Drazan, Mike     	M	45	28:11.07   	28:44.48   	0:33.40 	Victoria, MN
+282	511-Barth, Jack     	M	10	28:11.47   	28:12.32   	0:00.84 	Minnetonka, MN
+283	745-Dahl, Monica    	F	48	28:12.75   	29:05.44   	0:52.69 	Minnetonka, MN
+284	512-Barth, Shawn    	M	42	28:13.32   	28:14.72   	0:01.39 	Minnetonka, MN
+285	736-Amorosi, Avery  	F	16	28:17.50   	28:26.73   	0:09.23 	Excelsior, MN
+286	97-Glaccum, Joseph  	M	52	28:17.52   	29:00.33   	0:42.80 	Excelsior, MN
+287	50-Huntington, Miki 	F	45	28:19.13   	29:20.09   	1:00.96 	Excelsior, MN
+288	374-Bothun, Kelly   	F	33	28:23.00   	29:57.31   	1:34.31 	Chaska, MN
+289	219-Meiusi, Rhondi  	F	52	28:23.91   	28:40.23   	0:16.32 	Excelsior, MN
+290	602-Adams, Marcella 	F	20	28:24.85   	29:36.98   	1:12.12 	Shorewood, MN
+291	409-Ewald, David    	M	54	28:25.31   	29:41.66   	1:16.35 	Excelsior, MN
+292	538-Gondeck, Grace  	F	11	28:25.83   	28:46.73   	0:20.89 	Wayzata, MN
+293	537-Gondeck-Becker, 	F	47	28:25.96   	28:46.48   	0:20.51 	Wayzata, MN
+294	83-Schneider, Adrien	F	25	28:26.98   	29:20.48   	0:53.49 	Minneapolis, MN
+295	492-hoag, mike      	M	42	28:32.06   	29:17.23   	0:45.16 	Minnetrista, MN
+296	388-Brands, William 	M	50	28:32.07   	29:22.32   	0:50.24 	Excelsior, MN
+297	823-O'Connor, Maddie	F	18	28:32.16   	28:49.35   	0:17.19 	Shorewood, MN
+298	85-Uelmen, Peyton   	F	10	28:33.28   	29:42.47   	1:09.18 	Mound, MN
+299	84-Uelmen, Emily    	F	34	28:34.29   	29:42.68   	1:08.39 	Mound, MN
+300	86-Weiers, Katelin  	F	23	28:34.40   	28:45.71   	0:11.30 	New Prague, MN
+301	2-Brand, Linda      	F	52	28:35.38   	28:49.35   	0:13.97 	Excelsior, MN
+302	6-Ritchie, Dylan    	M	33	28:35.93   	28:59.48   	0:23.54 	Minneapolis, MN
+303	178-Schall, Donovan 	M	8	28:36.27   	29:56.91   	1:20.64 	Mound, MN
+304	663-Kurtzman, Heathe	F	39	28:36.55   	30:03.21   	1:26.65 	Deephaven, MN
+305	726-Tschacher, Garre	M	15	28:36.90   	29:32.71   	0:55.80 	Minnetrista, MN
+306	730-Nordstrom, Josh 	M	15	28:37.60   	29:32.92   	0:55.32 	Crystal, MN
+307	186-Love, Jason     	M	44	28:43.83   	29:49.97   	1:06.13 	Mound, MN
+308	199-Hilgers, Angela 	F	23	28:43.97   	29:54.57   	1:10.59 	St. Bonifacius, MN
+309	283-Spenler, Ben    	M	11	28:44.03   	29:07.69   	0:23.65 	Chanhassen, MN
+310	829-Quackenbush, Joa	F	48	28:44.37   	28:59.31   	0:14.94 	Chanhassen, MN
+311	225-Nessa, Natalie  	F	12	28:46.81   	28:51.38   	0:04.56 	Tonka Bay, MN
+312	491-mickelson, isado	F	13	28:47.29   	29:31.90   	0:44.61 	Minnetrista, MN
+313	539-Hawks, Xander   	M	11	28:47.60   	29:13.60   	0:25.99 	Excelsior, MN
+314	489-mickelson, juli 	F	45	28:47.78   	29:33.48   	0:45.70 	Minnetrista, MN
+315	686-Mitchell, Andy  	M	62	28:48.08   	30:42.23   	1:54.14 	Minnetonka, MN
+316	140-Luehr, Madeline 	F	16	28:50.14   	29:30.68   	0:40.54 	Chanhassen, MN
+317	16-Lien, Abigail    	F	21	28:50.69   	29:18.48   	0:27.78 	Lincoln, NE
+318	431-Jones, Cristina 	F	15	28:51.66   	29:01.48   	0:09.82 	Shorewood, MN
+319	576-Fox, Catherine  	F	48	28:52.21   	29:16.44   	0:24.22 	Chanhassen, MN
+320	808-Farb, Harry     	M	69	28:52.25   	29:12.98   	0:20.73 	Minnetonka, MN
+321	229-Torgerson, Renae	F	43	28:52.54   	30:12.18   	1:19.64 	Andover, MN
+322	575-Fox, Ryan       	M	10	28:53.23   	29:16.65   	0:23.41 	Chanhassen, MN
+323	87-Weiers, Kelsey   	F	21	28:53.33   	29:04.82   	0:11.48 	New Prague, MN
+324	446-Luke, Gina      	F	23	28:53.60   	30:08.31   	1:14.71 	Portland, OR
+325	440-Franta, Nicola  	F	23	28:53.77   	30:08.48   	1:14.71 	Eagan, MN
+326	216-Meiusi, Elli    	F	22	28:54.39   	30:08.09   	1:13.69 	Excelsior, MN
+327	418-Bartz, Steve    	M	52	28:55.19   	30:04.84   	1:09.64 	Deephaven, MN
+328	619-Kraemer, Michael	M	52	28:56.10   	29:28.23   	0:32.12 	Crystal, MN
+329	134-Shipman, Cole   	M	15	28:56.13   	29:58.54   	1:02.41 	Shorewood, MN
+330	732-Luxton, Vicki   	F	54	28:56.17   	29:18.48   	0:22.30 	Minnetonka, MN
+331	464-McKown, Meredith	F	36	28:57.19   	29:03.81   	0:06.62 	Chanhassen, MN
+332	789-Meath, Natalie  	F	12	28:57.69   	29:11.36   	0:13.66 	Waconia, MN
+333	731-Burnett, Emma   	F	17	28:57.96   	29:18.72   	0:20.75 	Minnetonka, MN
+334	407-Homeister, Ben  	M	14	28:58.59   	30:01.40   	1:02.80 	Shorewood, MN
+335	191-McGerr, Linda   	F	53	28:59.42   	29:44.91   	0:45.49 	Victoria, MN
+336	115-Igoe, Mike      	M	25	29:00.69   	30:16.23   	1:15.53 	Eden Prairie, MN
+337	614-Graupmann, Thoma	M	12	29:00.83   	29:42.98   	0:42.14 	Excelsior, MN
+338	589-Richman, William	M	10	29:00.91   	29:01.48   	0:00.57 	Excelsior, MN
+339	615-Graupmann, Olivi	F	12	29:01.56   	29:42.98   	0:41.41 	Excelsior, MN
+340	201-Nace, Jenny     	F	30	29:04.52   	30:15.43   	1:10.91 	Mayer, MN
+341	390-Schuster, Stepha	F	39	29:09.36   	29:14.73   	0:05.36 	Victoria, MN
+342	632-Flanagan, Bill  	M	49	29:11.41   	30:18.98   	1:07.56 	Chanhassen, MN
+343	804-McHugh, Dan     	M	57	29:11.44   	30:05.85   	0:54.40 	Lakeville, MN
+344	55-Meccia, Pieper   	F	11	29:13.70   	29:42.25   	0:28.54 	Excelsior, MN
+345	54-Meccia, John     	M	50	29:14.45   	29:42.75   	0:28.29 	Excelsior, MN
+346	670-Turnbull, Rachel	F	38	29:15.79   	29:38.20   	0:22.40 	Shorewood, MN
+347	603-Moses, Conner   	M	11	29:15.80   	29:49.18   	0:33.38 	Maple Grove, MN
+348	237-Landmark, Jeff  	M	44	29:15.84   	29:52.64   	0:36.79 	Minnetonka, MN
+349	779-Bimberg, Jamie  	F	10	29:18.39   	30:07.93   	0:49.54 	Chanhassen, MN
+350	780-Bimberg, Karen  	F	47	29:22.33   	30:12.73   	0:50.39 	Chanhassen, MN
+351	105-Plut, Elizabeth 	F	34	29:26.67   	30:46.23   	1:19.55 	Maple Grove, MN
+352	620-Kraemer, Krystal	F	20	29:28.97   	29:28.98   	00:00.0 	Crystal, MN
+353	460-Johnson, Dianna 	F	12	29:34.72   	31:05.00   	1:30.27 	Minnetrista, MN
+354	562-Brunsman, Ella  	F	16	29:37.07   	29:52.64   	0:15.57 	Minnetonka, MN
+355	534-Gross, Alexandra	F	12	29:39.36   	29:50.80   	0:11.43 	Eden Prairie, MN
+356	641-Peyton, Brock   	M	10	29:41.10   	31:08.45   	1:27.34 	Maple Plain, MN
+357	642-Peyton, Tristin 	M	14	29:41.13   	31:08.25   	1:27.12 	Maple Plain, MN
+358	51-Johanson, Gus    	M	11	29:42.75   	30:10.94   	0:28.18 	Chanhassen, MN
+359	494-Burke, Karin    	F	41	29:43.95   	30:30.70   	0:46.74 	Hopkins, MN
+360	155-Bakken, Paula   	F	42	29:44.32   	31:21.47   	1:37.14 	Minnetonka, MN
+361	613-Graupmann, Jeff 	M	48	29:44.47   	30:31.29   	0:46.82 	Excelsior, MN
+362	612-Omlie, Blake    	M	55	29:46.54   	30:31.48   	0:44.93 	Excelsior, MN
+363	616-Graupmann, Anne 	F	48	29:50.07   	30:31.48   	0:41.40 	Excelsior, MN
+364	628-Stevens, Kate   	F	32	29:51.14   	30:53.45   	1:02.30 	Chanhassen, MN
+365	570-Swenson, Molly  	F	45	29:51.55   	30:15.22   	0:23.66 	Chanhassen, MN
+366	713-Elder, Bill     	M	50	29:53.14   	30:45.28   	0:52.14 	Murray, KY
+367	714-Elder, Rose     	F	52	29:54.26   	30:45.81   	0:51.55 	Murray, KY
+368	776-Laurancer, Corin	F	14	29:54.66   	31:08.86   	1:14.19 	Excelsior, MN
+369	842-Simning, Carolin	F	11	29:54.85   	31:08.66   	1:13.80 	Excelsior, MN
+370	579-Ireland, Beth   	F	22	29:57.71   	31:32.48   	1:34.76 	Tonka Bay, MN
+371	817-Histon, Riley   	M	99	29:57.85   	31:11.50   	1:13.64 	Shorewood, MN
+372	841-Simning, Emme   	F	13	29:57.91   	31:11.50   	1:13.59 	Excelsior, MN
+373	578-Lauer, Alex     	M	24	29:57.92   	31:32.23   	1:34.30 	Tonka Bay, MN
+374	424-Peters, Ted     	M	12	29:58.23   	31:27.39   	1:29.15 	Excelsior, MN
+375	413-Hutchson, Michel	F	26	29:58.48   	30:18.88   	0:20.39 	Mound, MN
+376	777-Laurancer, Kendr	F	12	29:58.82   	31:12.23   	1:13.40 	Excelsior, MN
+377	370-Erickson, Phil  	M	73	29:59.11   	31:13.73   	1:14.61 	St. Paul, MN
+378	98-Glaccum, Peggy   	F	58	29:59.41   	30:41.23   	0:41.81 	Excelsior, MN
+379	82-Turner, Jon      	M	53	30:00.34   	30:44.46   	0:44.11 	Excelsior, MN
+380	436-Brekken, Jennife	F	45	30:00.63   	31:06.20   	1:05.56 	Long Lake, MN
+381	563-Brunsman, Barry 	M	48	30:01.32   	30:16.44   	0:15.11 	Minnetonka, MN
+382	437-Brekken, Natalie	F	14	30:01.51   	31:06.20   	1:04.69 	Long Lake, MN
+383	22-Lawrence, Mark   	M	49	30:04.58   	31:10.48   	1:05.89 	Harlan, KY
+384	53-Johanson, Patty  	F	49	30:05.44   	30:35.36   	0:29.91 	Chanhassen, MN
+385	190-Johnson, Tammy  	F	38	30:06.22   	31:35.48   	1:29.25 	Mound, MN
+386	23-Lawrence, Kelly  	F	51	30:06.63   	31:10.89   	1:04.26 	Harlan, KY
+387	639-Terzariol, Isabe	F	9	30:09.10   	31:06.98   	0:57.87 	Shorewood, MN
+388	638-Knispel, Manuela	F	42	30:09.33   	31:06.81   	0:57.48 	Shorewood, MN
+389	122-Swedlund, Matt  	M	35	30:10.08   	31:05.59   	0:55.50 	Chanhassen, MN
+390	123-Swedlund, Sarah 	F	33	30:11.04   	31:05.59   	0:54.54 	Chanhassen, MN
+391	389-Brands, Lauren  	F	17	30:11.32   	31:01.56   	0:50.24 	Excelsior, MN
+392	52-Johanson, James  	M	49	30:14.30   	30:43.45   	0:29.14 	Chanhassen, MN
+393	723-Nachtigal, Ann  	F	52	30:18.82   	31:31.73   	1:12.90 	Sioux Falls, SD
+394	722-Nachtigal, Jerry	M	55	30:19.26   	31:31.65   	1:12.39 	Sioux Falls, SD
+395	498-Griffith, Alex  	M	16	30:20.42   	30:58.15   	0:37.73 	Plymouth, MN
+396	719-Ely, Jarod      	M	30	30:20.53   	30:47.10   	0:26.57 	Tonlon, AL
+397	495-Griffith, Paige 	F	13	30:20.97   	30:57.73   	0:36.75 	Plymouth, MN
+398	287-Johnson, Kevin  	M	56	30:21.00   	30:45.68   	0:24.68 	Minnetonka, MN
+399	717-Nilsson, Michell	F	32	30:22.00   	30:39.20   	0:17.20 	Eden Prairie, MN
+400	433-Fernandez, Beth 	F	46	30:23.61   	30:38.50   	0:14.88 	Eden Prairie, MN
+401	325-McLaughlin, Moll	F	39	30:24.07   	30:37.39   	0:13.31 	Shorewood, MN
+402	2334-Van Eeckhout, K	F	41	30:25.53   	30:37.98   	0:12.45 	Victoria, MN
+403	737-Anderson, Andy  	M	53	30:28.03   	31:09.88   	0:41.85 	Mound, MN
+404	703-Larus, Madie    	F	16	30:30.20   	30:36.18   	0:05.98 	Chanhassen, MN
+405	295-Rosoff, Lindsay 	F	30	30:38.58   	31:51.98   	1:13.39 	Austin, TX
+406	712-Tradewell, Lisa 	F	57	30:38.86   	31:06.41   	0:27.54 	Shorewood, MN
+407	141-Jeter, Mark     	M	57	30:43.83   	30:52.98   	0:09.14 	Excelsior, MN
+408	148-Gartner, Piper  	F	14	30:45.10   	31:02.00   	0:16.89 	Deephaven, MN
+409	301-Chayet, David   	M	48	30:46.46   	31:11.93   	0:25.47 	Excelsior, MN
+410	571-DeLosh, Renee   	F	45	30:46.94   	31:01.76   	0:14.81 	Wayzata, MN
+411	572-DeLosh, Ken     	M	49	30:47.42   	31:01.73   	0:14.30 	Wayzata, MN
+412	248-Johnston, Sherry	F	59	30:47.53   	31:29.73   	0:42.20 	Excelsior, MN
+413	192-Schaefer, Sonnie	F	12	30:47.57   	32:12.72   	1:25.14 	Excelsior, MN
+414	74-Schroeder, Gracia	F	30	30:48.09   	31:04.48   	0:16.38 	Eden Prairie, MN
+415	288-Page, Natalie   	F	16	30:48.69   	31:58.50   	1:09.80 	Edeh Prairie, MN
+416	195-Swedenborg Schae	F	44	30:50.07   	32:15.17   	1:25.10 	Excelsior, MN
+417	600-Carlson, Traci  	F	37	30:51.09   	32:00.33   	1:09.23 	Mound, MN
+418	604-Moses, Andy     	M	44	30:51.26   	31:25.95   	0:34.68 	Maple Grove, MN
+419	742-Johnson, Jennife	F	37	30:52.73   	32:35.73   	1:42.99 	Raleigh, NC
+420	710-Schultz, Thomas 	M	63	30:52.79   	31:46.10   	0:53.30 	Plymouth, MN
+421	609-Crowley, Jim    	M	51	30:58.22   	32:06.42   	1:08.19 	Victoria, MN
+422	633-Weiler, Maia    	F	12	30:58.92   	31:21.70   	0:22.77 	Wayzata, MN
+423	564-Arnar, Michele  	F	47	31:00.00   	32:01.95   	1:01.98 	Minnetrista, MN
+424	583-Taylor, Parker  	F	12	31:00.46   	32:27.79   	1:27.33 	Spring Park, MN
+425	771-Wait, Kelly     	F	31	31:03.09   	31:41.60   	0:38.50 	Victoria, MN
+426	1-Schilke, Gillian  	F	36	31:04.29   	31:47.72   	0:43.42 	Mound, MN
+427	493-Post, Angie     	F	35	31:05.52   	31:46.71   	0:41.18 	Aberdeen, SD
+428	33-Cummings, Eric   	M	42	31:07.00   	31:17.98   	0:10.98 	Chaska, MN
+429	247-Martin, Carolyn 	F	43	31:07.31   	31:30.48   	0:23.16 	Chanhassen, MN
+430	72-Pemberton, Jennif	F	32	31:08.04   	31:18.61   	0:10.57 	Chaska, MN
+431	582-Nelson, Dave    	M	56	31:08.40   	32:35.73   	1:27.33 	Spring Park, MN
+432	629-Weiler, Brenda  	F	53	31:08.90   	31:31.22   	0:22.32 	Wayzata, MN
+433	241-Hawley, Andrea  	F	39	31:10.11   	31:37.72   	0:27.60 	Chanhassen, MN
+434	276-Schulz, Matteo  	M	12	31:11.75   	31:38.73   	0:26.98 	Chanhassen, MN
+435	479-Knopik, Sheryl  	F	45	31:12.00   	31:19.43   	0:07.43 	Edina, MN
+436	637-Dales, Julia    	F	21	31:14.09   	32:33.23   	1:19.13 	Excelsior, MN
+437	814-Vettel, Lauren  	F	15	31:15.26   	31:41.19   	0:25.92 	Chaska, MN
+438	481-Chang, Sophia   	F	11	31:17.30   	31:23.91   	0:06.61 	Edina, MN
+439	813-Riebling, Sophie	F	15	31:17.91   	31:43.84   	0:25.92 	Chanhassen, MN
+440	130-Blue, Jenni     	F	36	31:22.45   	31:27.73   	0:05.27 	Excelsior, MN
+441	179-Schall, Kelly   	F	45	31:22.79   	32:44.68   	1:21.89 	Mound, MN
+442	773-Joyce, Kevin    	M	56	31:23.63   	32:00.73   	0:37.10 	Chanhassen, MN
+443	250-Stang, Kristina 	F	20	31:23.65   	31:48.95   	0:25.29 	Hinsdale, IL
+444	382-Green, Tristan  	M	10	31:26.36   	31:30.63   	0:04.26 	Chanhassen, MN
+445	626-Larranaga, Jenni	F	48	31:27.51   	32:53.44   	1:25.92 	Chanhassen, MN
+446	682-Thompson, Adrien	F	38	31:28.10   	33:16.81   	1:48.71 	Excelsior, MN
+447	175-Skaja, Ashley   	F	25	31:29.66   	32:18.44   	0:48.77 	Victoria, MN
+448	383-Severson, Kristi	F	46	31:31.44   	31:31.45   	00:00.0 	Chanhassen, MN
+449	80-Stowe, Dan       	M	29	31:33.01   	32:11.71   	0:38.70 	Mounds View, MN
+450	490-mickelson, eva  	F	14	31:33.29   	32:18.45   	0:45.15 	Minnetrista, MN
+451	462-Boyle, Dawn     	F	48	31:34.20   	32:34.72   	1:00.51 	Minnetonka, MN
+452	601-Sigel, Michael  	M	99	31:34.56   	32:34.71   	1:00.14 	Minnetonka, MN
+453	471-Grones, Carol   	F	55	31:34.71   	32:34.72   	1:00.00 	St. Louis Park, MN
+454	117-Hennesy, Jessica	F	35	31:35.61   	31:42.98   	0:07.36 	Minnetrista, MN
+455	292-Barnhart, Isabel	F	19	31:37.67   	32:23.98   	0:46.30 	Mound, MN
+456	705-Olson, Ashlee   	F	27	31:41.42   	33:15.98   	1:34.55 	Hopkins, MN
+457	438-Beno, Jacob     	M	16	31:41.44   	31:54.73   	0:13.28 	Chanhassen, MN
+458	2178-Martilla, Denae	F	32	31:42.30   	33:27.98   	1:45.67 	Farmers Branch, TX
+459	2177-Martilla, Cory 	M	36	31:43.39   	33:28.20   	1:44.80 	Farmers Branch, TX
+460	439-Beno, McKenzie  	F	15	31:43.60   	31:56.45   	0:12.84 	Chanhassen, MN
+461	135-Stephan, Pam    	F	50	31:44.19   	32:02.48   	0:18.28 	Waconia, MN
+462	544-Rodriguez, Karla	F	42	31:45.39   	31:52.98   	0:07.59 	Eden Prairie, MN
+463	343-Cilip, Christoph	M	33	31:46.15   	32:47.54   	1:01.39 	Maple Grove, MN
+464	746-Dahl, Mike      	M	46	31:46.60   	32:39.73   	0:53.12 	Minnetonka, MN
+465	426-Peters, Jeff    	M	45	31:47.33   	33:17.98   	1:30.64 	Excelsior, MN
+466	672-Brown, Natalie  	F	27	31:48.00   	32:27.39   	0:39.39 	Folsom, CA
+467	652-Gifford, Cassand	F	24	31:48.05   	32:37.73   	0:49.67 	Plymouth, MN
+468	487-Brown, Leesa    	F	58	31:48.25   	32:27.39   	0:39.14 	Shorewood, MN
+469	344-cilip, claire   	F	30	31:48.35   	32:49.58   	1:01.22 	Maple Grove, MN
+470	671-Campbell, Aaron 	M	32	31:48.54   	32:27.18   	0:38.64 	Folsom, CA
+471	348-Drew, Rebecca   	F	41	31:48.61   	32:17.43   	0:28.81 	Excelsior, MN
+472	400-Bonthius, Ryan  	M	7	31:48.92   	33:16.73   	1:27.80 	Excelsior, MN
+473	2409-O'Brien, Kara  	F	45	31:49.19   	33:17.43   	1:28.24 	Wayzata, MN
+474	821-Drazan, Blake   	M	13	31:49.55   	32:21.90   	0:32.35 	Victoria, MN
+475	256-Haywood, Owen   	M	9	31:49.85   	32:27.18   	0:37.33 	Excelsior, MN
+476	257-Brown, David    	M	60	31:50.69   	32:27.23   	0:36.53 	Excelsior, MN
+477	797-Paster, Ali     	F	43	31:51.86   	33:12.23   	1:20.36 	Glencoe, IL
+478	401-Bonthius, Peggy 	F	43	31:54.43   	33:23.93   	1:29.50 	Excelsior, MN
+479	802-Foster, Beth    	F	33	31:55.52   	32:24.73   	0:29.21 	Minneapolis, MN
+480	699-Robben, Patrick 	M	41	31:56.07   	32:16.19   	0:20.11 	Minnetonka, MN
+481	145-Gartner, Marlee 	F	18	32:00.59   	32:17.75   	0:17.15 	Deephaven, MN
+482	822-Haworth, Allison	F	18	32:00.69   	32:18.30   	0:17.61 	Chanhassen, MN
+483	297-Horscroft, Will 	M	10	32:02.04   	33:03.20   	1:01.15 	Eden Prairie, MN
+484	69-Mischke, Maya    	F	12	32:02.76   	32:35.50   	0:32.74 	Plymouth, MN
+485	35-Drazan, Tricia   	F	43	32:02.94   	32:37.35   	0:34.40 	Victoria, MN
+486	309-Marshman, Nichel	F	37	32:03.47   	32:16.23   	0:12.75 	Deephaven, MN
+487	658-O'Reilly, Meghan	F	10	32:04.42   	32:13.75   	0:09.33 	Minnetonka, MN
+488	659-O'Reilly, Dan   	M	43	32:04.57   	32:14.73   	0:10.15 	Minnetonka, MN
+489	303-Chayet, Benjamin	M	12	32:05.60   	32:31.08   	0:25.47 	Excelsior, MN
+490	70-Mischke, Todd    	M	48	32:05.97   	32:40.41   	0:34.43 	Plymouth, MN
+491	67-Mischke, LuChin  	F	51	32:06.69   	32:40.50   	0:33.80 	Plymouth, MN
+492	339-Post, Heidi     	F	39	32:08.63   	32:49.20   	0:40.57 	Minnetrista, MN
+493	830-Uuodich, Mason  	M	22	32:12.79   	33:00.75   	0:47.96 	Overland Park, KS
+494	217-Meiusi, Caroline	F	13	32:13.66   	33:26.55   	1:12.89 	Excelsior, MN
+495	838-Scott, Sophia   	F	13	32:13.81   	33:26.50   	1:12.68 	Excelsior, MN
+496	253-Starks, Bobbi   	F	32	32:13.85   	33:10.25   	0:56.39 	Mound, MN
+497	220-Wipperling, Kath	F	61	32:14.00   	33:22.30   	1:08.30 	Bloomington, MN
+498	2421-Benkovich, Broo	F	17	32:14.50   	32:40.19   	0:25.68 	Chanhassen, MN
+499	381-Maurer, Eric    	M	26	32:14.59   	33:48.50   	1:33.90 	Chanhassen, MN
+500	46-Hewitt, Julie    	F	33	32:14.60   	33:10.48   	0:55.87 	Prior Lake, MN
+501	2420-Benkovich, Mike	M	47	32:14.91   	32:40.40   	0:25.49 	Chanhassen, MN
+502	7-Busacker, Mallory 	F	27	32:15.02   	32:32.48   	0:17.46 	Minnetonka, MN
+503	405-Gray, Erin      	F	35	32:15.66   	33:32.25   	1:16.59 	New Brighton, MN
+504	133-Shipman, Samuel 	M	12	32:16.66   	33:19.08   	1:02.41 	Shorewood, MN
+505	470-Hogan, Tom      	M	54	32:19.14   	33:19.56   	1:00.42 	Chanhassen, MN
+506	785-Madigan, Elizabe	F	9	32:19.60   	33:08.28   	0:48.67 	San Carlos, MN
+507	827-Ward, Alexandra 	F	32	32:19.77   	33:32.46   	1:12.68 	Golden Valley, MN
+508	784-Sampson, Barbara	F	59	32:22.32   	33:09.47   	0:47.14 	Mound, MN
+509	783-Sampson, Mirkuja	F	41	32:22.63   	33:11.50   	0:48.87 	San Carlos, MN
+510	310-Tichy, Ross     	M	28	32:24.82   	33:44.25   	1:19.42 	Excelsior, MN
+511	311-Tichy, Nancy    	F	61	32:25.53   	33:45.68   	1:20.15 	Excelsior, MN
+512	114-Swanson, Jill   	F	25	32:28.95   	33:44.25   	1:15.29 	Eden Prairie, MN
+513	715-McDaniel, Kendal	F	16	32:29.94   	34:07.75   	1:37.80 	Shorewood, MN
+514	832-Jasper, Robert  	M	52	32:30.34   	33:19.75   	0:49.40 	Tonka Bay, MN
+515	147-Gartner, Sue    	F	49	32:30.77   	33:02.51   	0:31.74 	Deephaven, MN
+516	606-Grayden, Ed     	M	65	32:31.56   	32:47.96   	0:16.39 	Minnetonka, MN
+517	828-Morgan, Megan   	F	29	32:31.61   	33:18.83   	0:47.21 	Excelsior, MN
+518	380-Bruess, Sara    	F	25	32:32.17   	34:06.08   	1:33.90 	Chanhassen, MN
+519	185-Wagner, Cynthia 	F	43	32:33.25   	33:39.19   	1:05.93 	Mound, MN
+520	557-Moses, Katherine	F	36	32:34.19   	34:18.50   	1:44.30 	wayzata, MN
+521	716-McDaniel, John  	M	45	32:41.98   	34:19.25   	1:37.26 	Shorewood, MN
+522	555-moses, joseline 	F	9	32:42.91   	34:27.22   	1:44.30 	Wayzata, MN
+523	104-kruse, robin    	F	55	32:44.64   	32:57.93   	0:13.29 	Ellsworth, WI
+524	308-Abrams, Sheri   	F	62	32:46.50   	33:59.25   	1:12.75 	Key Biscayne, FL
+525	646-Gloude, Karli   	F	16	32:48.98   	34:33.12   	1:44.14 	Excelsior, MN
+526	573-Strait, Julie   	F	23	32:51.66   	34:41.30   	1:49.64 	Minnetonka, MN
+527	159-Winter, Helmut  	M	70	32:52.08   	33:27.17   	0:35.09 	Plymouth, MN
+528	91-WINTER, BETHANY  	F	32	32:52.16   	33:26.97   	0:34.80 	MAPLE GROVE, MN
+529	90-Mosier, Ariana   	F	34	32:53.63   	33:27.17   	0:33.54 	Richfield, MN
+530	664-Morris, Jennifer	F	44	32:56.33   	33:47.25   	0:50.91 	Excelsior, MN
+531	259-Arnold, William 	M	42	32:59.07   	34:17.88   	1:18.80 	Minnetonka, MN
+532	258-Arnold, Lora    	F	41	32:59.27   	34:17.67   	1:18.39 	Minnetonka, MN
+533	111-Trent, Henry    	M	8	33:00.00   	34:11.13   	1:11.50 	Shorewood, MN
+534	306-Hayes, Kristin  	F	52	33:00.32   	34:41.28   	1:40.96 	Shorewood, MN
+535	474-Hayes, Katie    	F	31	33:00.94   	34:40.75   	1:39.80 	Shorewood, MN
+536	513-Maher, Garrett  	M	9	33:04.02   	33:23.93   	0:19.91 	Chanhassen, MN
+537	514-Maher, eric     	M	42	33:04.22   	33:24.14   	0:19.91 	Chanhassen, MN
+538	522-Angela, Hillman 	F	36	33:06.95   	34:35.75   	1:28.79 	Mayer, MN
+539	338-Post, Jeff      	M	44	33:09.17   	33:49.75   	0:40.58 	Minnetrista, MN
+540	527-Michurski, Judy 	F	53	33:11.94   	34:15.41   	1:03.46 	Eden Prairie, MN
+541	112-Trent, Deborah  	F	36	33:12.34   	34:23.61   	1:11.27 	Shorewood, MN
+542	741-Hawley, Brenda  	F	46	33:12.53   	34:15.41   	1:02.87 	Eden  Prairie, MN
+543	124-Timm, Mike      	M	51	33:12.84   	33:16.40   	0:03.55 	Chanhassen, MN
+544	354-Nawrocki, Julie 	F	42	33:12.84   	34:59.12   	1:46.28 	Shakopee, MN
+545	831-Jasper, Sydney  	F	21	33:12.85   	34:00.00   	0:47.14 	Tonka Bay, MN
+546	210-Swenson, Michell	F	42	33:15.59   	33:44.44   	0:28.84 	Eden Prairie, MN
+547	392-Trout, Emma     	F	15	33:15.71   	34:53.85   	1:38.14 	Deephaven, MN
+548	391-Trout, Lee      	F	52	33:15.86   	34:54.26   	1:38.39 	Deephaven, MN
+549	189-Johnson, Chad   	M	40	33:17.62   	34:47.12   	1:29.50 	Mound, MN
+550	246-Martin, William 	M	9	33:18.57   	33:41.19   	0:22.61 	Chanhassen, MN
+551	729-Hummel, Jennifer	F	33	33:19.28   	34:52.83   	1:33.55 	Minnetrista, MN
+552	432-Tanke, Lindsey  	F	34	33:19.28   	34:52.83   	1:33.55 	Minnetrista, MN
+553	196-Schaefer, Lillie	F	9	33:19.58   	34:45.70   	1:26.11 	Excelsior, MN
+554	428-Schurter, Neill 	M	71	33:22.70   	33:58.25   	0:35.54 	Hopkins, MN
+555	393-Kollar, David   	M	61	33:23.15   	35:01.96   	1:38.80 	Deephaven, MN
+556	427-Vargo, Brent    	M	36	33:23.29   	33:58.50   	0:35.21 	Hopkins, MN
+557	152-Rose, Abigail   	F	44	33:25.02   	33:35.93   	0:10.91 	Wayzata, MN
+558	825-Cowling, Adam   	M	29	33:25.31   	34:56.97   	1:31.65 	Minnetonka, MN
+559	26-Len, Shelby      	F	13	33:25.59   	33:40.40   	0:14.80 	Minnetonka, MN
+560	624-Wald, Kayla     	F	13	33:26.81   	33:27.36   	0:00.54 	Victoria, MN
+561	654-Hackley, Holly  	F	43	33:32.52   	34:26.42   	0:53.89 	Plymouth, MN
+562	655-Hackley, Sami   	F	10	33:32.81   	34:26.21   	0:53.39 	Plymouth, MN
+563	193-Schaefer, Dave  	M	44	33:33.01   	34:58.91   	1:25.89 	Excelsior, MN
+564	585-Cook, Meredith  	F	42	33:34.12   	34:07.69   	0:33.56 	Santa Cruz, CA
+565	587-Schaper, Nora   	F	45	33:34.60   	34:07.90   	0:33.29 	Minneapolis, MN
+566	457-Klos, Mark      	M	42	33:35.77   	35:10.55   	1:34.78 	Minnetrista, MN
+567	284-Spenler, Kathryn	F	47	33:36.34   	34:00.00   	0:23.65 	Chanhassen, MN
+568	38-Edwards, Lauren  	F	32	33:38.29   	34:22.14   	0:43.84 	Wayzata, MN
+569	556-moses, chris    	M	38	33:39.54   	35:22.33   	1:42.79 	Wayzata, MN
+570	139-Hovde, Jennifer 	F	33	33:42.09   	34:06.57   	0:24.47 	Otsego, MN
+571	138-Hovde, Karl     	M	32	33:43.27   	34:05.65   	0:22.38 	Otsego, MN
+572	275-Schulz, Don     	M	47	33:43.40   	34:14.50   	0:31.10 	Chanhassen, MN
+573	277-Schulz, Dominick	M	10	33:46.80   	34:14.18   	0:27.37 	Chanhassen, MN
+574	372-Wasz, Laura     	F	25	33:48.30   	33:56.91   	0:08.61 	St. Paul, MN
+575	598-Ahrndt, Jamie   	F	31	33:48.79   	34:08.50   	0:19.71 	Minnetonka, MN
+576	331-Schmelzle, Carte	M	15	33:48.79   	33:51.60   	0:02.80 	St Louis Pk, MN
+577	27-Hewson, Barbara  	F	67	33:49.25   	35:26.75   	1:37.50 	Carbondale, IL
+578	25-McCuistian, Kelly	F	42	33:49.65   	34:04.44   	0:14.78 	Minnetonka, MN
+579	599-Marette, Bella  	F	9	33:49.86   	34:08.51   	0:18.64 	Minnetonka, MN
+580	125-Nowlin, Brice   	M	38	33:49.95   	34:55.46   	1:05.50 	Minnetrista, MN
+581	129-Nowlin, Jessica 	F	37	33:50.77   	34:55.25   	1:04.48 	Minnetrista, MN
+582	126-Nowlin, Logan   	M	7	33:51.11   	34:55.66   	1:04.54 	Minnetrista, MN
+583	116-Loeding, Freda  	F	68	33:52.55   	34:26.75   	0:34.20 	Eden Prairie, MN
+584	700-Sharpe, Jessi   	F	22	34:00.00   	35:34.11   	1:34.58 	Carver, MN
+585	78-Stenson, Cathleen	F	50	34:01.23   	34:45.70   	0:44.46 	Minnetrista, MN
+586	644-Peyton, Eric    	M	47	34:02.13   	35:29.47   	1:27.34 	Maple Plain, MN
+587	586-Schaper, Jay    	M	48	34:03.75   	34:37.16   	0:33.40 	Minneapolis, MN
+588	660-Fitzpatrick, Mad	F	24	34:04.73   	34:25.62   	0:20.89 	LaCrosse, WI
+589	661-Fitzpatrick, Lin	F	55	34:05.07   	34:25.41   	0:20.33 	Excelsior, MN
+590	643-Peyton, Rande   	F	40	34:05.71   	35:26.60   	1:20.89 	Maple Plain, MN
+591	645-Peyton, Zach    	M	12	34:07.60   	35:29.25   	1:21.64 	Maple Plain, MN
+592	307-Bundt, Debra    	F	51	34:07.96   	34:30.85   	0:22.89 	Minnetonka, MN
+593	233-Lecceardone-Brow	F	41	34:10.86   	34:13.16   	0:02.29 	Eden Prairie, MN
+594	158-Lava-Parmele, Su	F	39	34:11.41   	35:33.91   	1:22.49 	Minnetonka, MN
+595	496-Griffith, Kendal	M	45	34:19.13   	34:58.71   	0:39.57 	Plymouth, MN
+596	497-Griffith, Ford  	M	9	34:21.06   	34:56.68   	0:35.61 	Plymouth, MN
+597	636-Bryan, Sara     	F	37	34:24.12   	35:11.76   	0:47.64 	Minnetrista, MN
+598	417-Thomas, Alexandr	F	11	34:24.60   	35:04.50   	0:39.90 	Minnetonka, MN
+599	416-Thomas, Lisa    	F	44	34:24.66   	35:05.17   	0:40.50 	Minnetonka, MN
+600	753-Anderson, Amy   	F	35	34:25.84   	35:06.45   	0:40.60 	New Hope, MN
+601	312-Gloude, Chaley  	F	26	34:28.12   	36:12.93   	1:44.80 	Eden Prairie, MN
+602	313-Gloude, Ian     	M	24	34:28.41   	36:13.25   	1:44.83 	Eden Prairie, MN
+603	132-Shipman, Carroll	M	42	34:33.08   	35:14.30   	0:41.22 	Shorewood, MN
+604	447-Baldwin, Tom    	M	39	34:33.33   	36:01.94   	1:28.60 	Coon Rapids, MN
+605	131-Shippman, Lori  	F	44	34:35.05   	35:13.17   	0:38.11 	Shorewood, MN
+606	631-Hanzlik, Sara   	F	27	34:41.61   	35:19.50   	0:37.89 	Excelsior, MN
+607	386-Hendrickson, Sav	F	10	34:43.87   	36:32.21   	1:48.33 	Minnetonka, MN
+608	691-Hirsch, Dana Mar	F	53	34:49.95   	35:02.75   	0:12.79 	Shorewood, MN
+609	709-Keepman, Marc   	M	58	34:51.98   	35:05.63   	0:13.64 	Deephaven, MN
+610	708-Keepman, Melanie	F	59	34:52.96   	35:05.42   	0:12.45 	Deephaven, MN
+611	335-Hoefer, Mary    	F	58	34:55.95   	36:07.63   	1:11.67 	Iowa City, IA
+612	651-Ekerline, Kelsey	F	23	34:58.88   	35:48.76   	0:49.88 	Plymouth, MN
+613	232-Petrillo, Dale  	M	41	35:00.20   	36:30.59   	1:30.39 	Mound, MN
+614	230-Petrillo, Kennad	F	11	35:00.36   	36:29.75   	1:29.39 	Mound, MN
+615	240-Damberg, Bill   	M	56	35:00.89   	35:32.67   	0:31.77 	Excelsior, MN
+616	528-Becker, Mark    	M	45	35:02.45   	36:44.21   	1:41.75 	Excelsior, MN
+617	531-Becker, Fallon  	F	14	35:02.86   	36:44.62   	1:41.76 	Excelsior, MN
+618	267-Miller, Stacie  	F	39	35:04.33   	36:23.75   	1:19.42 	Savage, MN
+619	266-Miller, Dan     	M	36	35:05.28   	36:24.60   	1:19.32 	Savage, MN
+620	71-Novak-Kerr, Rose-	F	60	35:09.12   	35:56.87   	0:47.75 	Shorewood, MN
+621	675-Mulheran, Thomas	M	10	35:12.48   	35:20.38   	0:07.89 	Excelsior, MN
+622	673-Mulheran, Aidan 	M	7	35:13.29   	35:22.13   	0:08.83 	Excelsior, MN
+623	18-Lindeman, Tim    	M	35	35:17.91   	35:50.80   	0:32.89 	Maple Grove, MN
+624	21-Mason, Marissa   	F	27	35:18.20   	35:34.11   	0:15.91 	Excelsior, MN
+625	800-Woodley, Wendy  	F	52	35:26.08   	36:31.39   	1:05.30 	Excelsior, MN
+626	467-Oppedisano, Mary	F	46	35:26.53   	36:31.20   	1:04.67 	Shorewood, MN
+627	376-Thomasson, Maxwe	M	50	35:28.14   	37:06.95   	1:38.80 	Excelsior, MN
+628	379-Thomasson, Rebek	F	11	35:28.63   	37:06.95   	1:38.31 	Excelsior, MN
+629	162-McNeilly, Nikki 	F	35	35:28.63   	36:40.50   	1:11.86 	Mayer, MN
+630	334-Jakubik, Margare	F	43	35:32.50   	36:02.96   	0:30.46 	Shorewood, MN
+631	679-Morken, Stacey  	F	43	35:33.26   	35:33.26   	00:00.0 	Chanhassen, MN
+632	634-Hamborg, Drew   	M	12	35:33.51   	35:33.51   	00:00.0 	Chanhassen, MN
+633	635-Hamborg, Eric   	M	44	35:33.94   	35:33.95   	00:00.0 	Chanhassen, MN
+634	299-Horscroft, Isla 	F	12	35:34.54   	36:35.50   	1:00.96 	Eden Prairie, MN
+635	724-O'Brien, Lilli  	F	13	35:40.44   	37:01.25   	1:20.80 	Wayzata, MN
+636	298-Horscroft, Eliza	F	44	35:40.83   	36:41.78   	1:00.95 	Eden Prairie, MN
+637	14-Kerr, Katryna    	F	25	35:41.40   	36:29.15   	0:47.74 	Shorewood, MN
+638	482-Rappa, Jack     	M	7	35:41.42   	36:39.25   	0:57.82 	Medina, MN
+639	9-Geise, Richard    	M	68	35:41.56   	36:06.21   	0:24.65 	Plymouth, MN
+640	483-Heller, Jessa   	F	37	35:45.12   	36:42.39   	0:57.26 	Medina, MN
+641	725-O'Brien, Ellie  	F	15	35:45.47   	37:06.35   	1:20.88 	Wayzata, MN
+642	835-Gorham, Carey   	F	45	35:48.09   	36:45.43   	0:57.33 	Excelsior, MN
+643	833-MacDonald, Brend	F	57	35:49.04   	36:45.43   	0:56.39 	Wayzata, MN
+644	314-Wallace, Scott  	M	59	35:51.22   	36:13.36   	0:22.14 	Woodbury, MN
+645	385-Huldeen, Andraya	F	36	35:55.79   	37:10.41   	1:14.61 	Waconia, MN
+646	60-McMullen, Constan	F	47	35:56.06   	37:29.67   	1:33.60 	St Louise Park, MN
+647	180-Smith, Maureen  	F	59	35:57.56   	36:23.69   	0:26.12 	Minnetonka, MN
+648	770-Rottier, Nora   	F	44	35:58.11   	36:26.51   	0:28.40 	Shorewood, MN
+649	177-Schall, Michael 	M	46	35:59.13   	37:21.75   	1:22.61 	Mound, MN
+650	363-Stang, Bethany  	F	23	36:00.00   	36:25.71   	0:26.13 	Troy, OH
+651	17-Lindeman, Susan  	F	33	36:00.00   	36:32.50   	0:32.75 	Maple Grove, MN
+652	542-Stang, Mary     	F	21	36:01.00   	36:25.92   	0:25.91 	Sycamore, IL
+653	235-Lecceardone-Diaz	F	14	36:01.38   	36:04.18   	0:02.79 	Eden Prairie, MN
+654	79-Stenson, Patrick 	M	50	36:02.15   	36:50.72   	0:48.56 	Minnetrista, MN
+655	357-McNutt, Kelly   	M	42	36:06.59   	36:36.89   	0:30.29 	Excelsior, MN
+656	356-McNutt, Alix    	F	10	36:08.00   	36:36.89   	0:28.89 	Excelsior, MN
+657	95-Thiemann, Pam    	F	55	36:11.89   	36:19.45   	0:07.55 	Plymouth, MN
+658	674-Mulheran, Dan   	M	99	36:16.60   	36:25.51   	0:08.91 	Excelsior, MN
+659	591-Olson, Kendra   	F	21	36:18.82   	37:42.47   	1:23.65 	Chanhassen, MN
+660	326-Szalapski, Victo	F	57	36:21.50   	36:41.98   	0:20.48 	Chanhassen, MN
+661	657-Holmberg, Kaatri	F	22	36:22.01   	38:05.42   	1:43.41 	Minnetonka, MN
+662	478-Wadholm, Jeff   	M	33	36:22.48   	37:33.13   	1:10.64 	Castle Rock, CO
+663	103-Van Holland, Viv	F	10	36:22.68   	37:19.95   	0:57.26 	Excelsior, MN
+664	477-Wadholm, Stef   	F	30	36:22.68   	37:33.35   	1:10.67 	Castle Rock, CO
+665	794-Stehlik, Olivia 	F	15	36:27.70   	38:09.26   	1:41.55 	Mound, MN
+666	793-Kubitz, Kyle    	M	50	36:32.38   	38:13.94   	1:41.55 	Mound, MN
+667	500-Marinac, Kim    	F	48	36:34.02   	37:43.25   	1:09.23 	Mound, MN
+668	694-Lano, Mackenzie 	F	22	36:37.04   	38:20.65   	1:43.60 	Minnetonka, MN
+669	499-Griffith, Suzy  	F	46	36:39.58   	37:15.12   	0:35.54 	Plymouth, MN
+670	590-Richman, Barb   	F	45	36:40.66   	36:40.96   	0:00.29 	Excelsior, MN
+671	621-Ahrenholtz, Nanc	F	52	36:41.84   	38:07.43   	1:25.58 	Minnetonka, MN
+672	208-Gibbens, Tracy  	F	30	36:44.30   	37:12.10   	0:27.80 	Mound, MN
+673	181-Schwarzinger, Ri	M	49	36:44.67   	37:11.86   	0:27.19 	Excelsior, MN
+674	182-Schwarzinger, Sh	F	51	36:47.34   	37:13.25   	0:25.91 	Excelsior, MN
+675	456-Teske, Kara     	F	29	36:55.83   	38:19.22   	1:23.39 	Wayzata, MN
+676	455-teske, adam     	M	29	36:56.82   	38:19.22   	1:22.40 	Wayzata, MN
+677	249-Raykovich, Kari 	F	40	36:58.53   	38:16.18   	1:17.65 	Saint Bonifacius, MN
+678	740-Cosslett, Harrie	F	14	37:00.89   	37:02.50   	0:01.60 	Excelsior, MN
+679	747-Thorp, Claire   	F	14	37:01.07   	37:01.78   	0:00.71 	Shorewood, MN
+680	323-Kovala, Jeffrey 	M	43	37:04.23   	38:48.12   	1:43.89 	Minnetonka, MN
+681	650-Kovala, Nancy   	F	50	37:05.19   	38:48.33   	1:43.14 	Minnetonka, MN
+682	302-Chayet, Kimberly	F	46	37:12.18   	37:38.68   	0:26.49 	Excelsior, MN
+683	442-Ewald, Susan    	F	56	37:14.80   	38:34.70   	1:19.90 	Excelsior, MN
+684	166-Rubin, Jill     	F	34	37:18.97   	38:49.33   	1:30.35 	Hastings, MN
+685	448-Baldwin, Angie  	F	36	37:24.80   	38:53.18   	1:28.37 	Coon Rapids, MN
+686	406-Piontek, Donald 	M	69	37:25.53   	38:29.17   	1:03.64 	Eden Prairie, MN
+687	108-Schillo, Kathlee	F	40	37:28.03   	38:51.37   	1:23.34 	Maple Grove, MN
+688	319-Bak, Jaxon      	M	11	37:31.86   	38:55.62   	1:23.76 	Excelsior, MN
+689	403-Buchanan, Tyler 	F	30	37:38.95   	38:56.12   	1:17.17 	Baraboo, WI
+690	404-Buchanan, Jackso	M	6	37:39.08   	38:56.62   	1:17.54 	Baraboo, WI
+691	163-Whitehead, Erin 	F	26	37:40.14   	38:05.42   	0:25.27 	Chanhassen, MN
+692	320-Bak, Dirk       	M	35	37:41.78   	39:05.28   	1:23.50 	Excelsior, MN
+693	458-Johnson, Eliza  	F	9	37:49.96   	39:20.46   	1:30.49 	Minnetrista, MN
+694	318-Bak, Edmund     	M	73	37:52.42   	39:16.18   	1:23.75 	Excelsior, MN
+695	317-Bak, Evonne     	F	36	37:53.31   	39:16.81   	1:23.50 	Excelsior, MN
+696	795-Johnson, LuAnn  	F	55	37:54.83   	39:31.62   	1:36.79 	Minneapolis, MN
+697	774-Roebick, Bill   	M	65	37:55.48   	39:32.28   	1:36.79 	Shorewood, MN
+698	293-Skaja, Delanie  	F	15	37:57.61   	38:45.76   	0:48.15 	Victoria, MN
+699	529-Becker, R Bernad	F	48	38:06.92   	39:54.51   	1:47.58 	Excelsior, MN
+700	322-Bailey, AnnMarie	F	55	38:11.87   	39:51.26   	1:39.39 	Wayzata, MN
+701	816-Riebling, Cynthi	F	53	38:12.56   	38:37.95   	0:25.39 	Chanhassen, MN
+702	505-Backes, Karen   	F	47	38:12.77   	39:03.57   	0:50.80 	Minneapolis, MN
+703	566-Anderson, Nichol	F	42	38:12.96   	38:52.26   	0:39.29 	Victoria, MN
+704	799-Reinke, Terry   	F	49	38:13.46   	39:03.76   	0:50.29 	Longmont, CO
+705	268-Thompson, Gary  	M	60	38:13.82   	39:08.45   	0:54.63 	Excelsior, MN
+706	506-Backes, Amelia  	F	13	38:14.09   	39:03.98   	0:49.89 	Minneapolis, MN
+707	333-Erickson Mayer, 	F	41	38:15.48   	38:45.12   	0:29.64 	Excelsior, MN
+708	608-Hoisington, Anni	M	9	38:18.59   	38:20.26   	0:01.67 	Mound, MN
+709	607-Hoisington, Jeni	F	43	38:19.20   	38:20.45   	0:01.24 	Mound, MN
+710	316-Bowe, Monica    	F	27	38:28.33   	39:05.20   	0:36.86 	Chicago, IL
+711	815-Riebling, Howard	M	59	38:33.36   	38:58.26   	0:24.90 	Chanhassen, MN
+712	41-Everett, Donna   	F	44	38:34.68   	38:45.26   	0:10.57 	Minnetonka, MN
+713	792-Forrester, Kathe	F	41	38:38.61   	39:03.26   	0:24.65 	Excelsior, MN
+714	791-Forrester, Ardi 	F	68	38:38.67   	39:03.57   	0:24.90 	Britton, SD
+715	48-Honzl, Cate      	F	26	38:39.70   	39:19.65   	0:39.94 	Excelsior, MN
+716	264-Severin, Erica  	F	51	39:00.00   	40:48.86   	1:49.35 	Maple Plain, MN
+717	574-Strait, Reiden  	M	53	39:00.32   	40:49.46   	1:49.14 	Minnetonka, MN
+718	73-Peterson, Karyn  	F	42	39:04.47   	39:47.12   	0:42.65 	Excelsior, MN
+719	844-Duddy, Kim      	F	99	39:10.58   	40:03.55   	0:52.97 	Tonka Bay, MN
+720	845-Cooper, Karen   	F	53	39:11.13   	40:03.51   	0:52.37 	Deephaven, MN
+721	648-Dahlen, Curt    	M	31	39:12.95   	40:54.26   	1:41.30 	Waconia, MN
+722	630-Niemeier, Betsy 	F	61	39:13.76   	40:55.26   	1:41.50 	Minnetonka, MN
+723	160-Field, Jane     	F	29	39:14.02   	39:54.18   	0:40.16 	Waconia, MN
+724	744-Hamilton, Freder	M	10	39:19.44   	39:50.75   	0:31.30 	Excelsior, MN
+725	176-Skaja, Carla    	F	46	39:30.39   	40:19.38   	0:48.98 	Victoria, MN
+726	294-Skaja, Harlee   	F	19	39:31.43   	40:19.39   	0:47.95 	Victoria, MN
+727	118-Wallace, Kathy  	F	60	39:35.68   	39:57.27   	0:21.58 	Woodbury, MN
+728	508-Lowery, Elleann 	F	10	39:36.35   	40:07.23   	0:30.87 	Tonka Bay, MN
+729	113-Wallace, Jayna  	F	29	39:36.40   	39:57.76   	0:21.35 	Woodbury, MN
+730	548-Madson, Anne    	F	49	39:47.41   	41:16.88   	1:29.46 	Shorewood, MN
+731	359-Carlson, Jane   	F	45	39:51.90   	40:47.16   	0:55.25 	Minnnetonka, MN
+732	362-Stang, Ron      	M	48	39:57.83   	40:26.69   	0:28.85 	Troy, OH
+733	361-Stang, Deb      	F	48	40:00.00   	40:28.32   	0:28.50 	Troy, OH
+734	345-Cilip, Michelle 	F	28	40:04.34   	41:06.57   	1:02.23 	Maple Grove, MN
+735	346-Crawford, Jane  	F	58	40:04.62   	41:06.76   	1:02.14 	Maple Grove, MN
+736	510-Lowery, Cole    	M	14	40:23.56   	40:56.52   	0:32.96 	Tonka Bay, MN
+737	168-Pickert, Jeffrey	M	12	40:28.25   	42:01.18   	1:32.93 	Mound, MN
+738	169-Pickert, Melissa	F	34	40:38.83   	42:12.39   	1:33.55 	Mound, MN
+739	57-Mathistad, Reagan	F	11	40:43.01   	40:51.70   	0:08.69 	Waconia, MN
+740	59-Mathistad, Wendy 	F	41	40:55.63   	41:03.29   	0:07.66 	Waconia, MN
+741	214-Hadenfeldt, Heat	F	32	41:18.16   	42:56.85   	1:38.69 	Plymouth, MN
+742	142-Marquardt, Johan	F	48	42:11.62   	42:15.42   	0:03.79 	Victoria, MN
+743	749-Heath, Jimmy    	M	49	42:30.65   	43:38.48   	1:07.82 	Forney, TX
+744	748-Whitcher, Jane  	F	51	42:31.18   	43:38.68   	1:07.49 	Forney, TX
+745	767-Bosacker, Stacey	F	52	42:34.40   	43:54.54   	1:20.14 	Chanhassen, MN
+746	451-Rynda, Ashley   	F	23	42:35.45   	44:16.76   	1:41.30 	Shorewood, MN
+747	452-Hooley, Maggie  	F	24	42:36.21   	44:16.75   	1:40.53 	Shorewood, MN
+748	305-Hayes, Lauren   	F	21	42:37.71   	44:17.52   	1:39.80 	Shorewood, MN
+749	561-Langheinrich, Sh	F	42	42:39.50   	42:47.18   	0:07.68 	Shorewood, MN
+750	304-Hayes, Kelly    	F	23	42:39.63   	44:20.38   	1:40.74 	Shorewood, MN
+751	450-Wagner, Lisa    	F	47	43:08.95   	44:00.83   	0:51.87 	Tonka Bay, MN
+752	110-Taylor, Maggie  	F	8	43:32.32   	44:43.58   	1:11.26 	Shorewood, MN
+753	434-Amon, Madeline  	F	23	43:33.36   	44:42.76   	1:09.40 	Plymouth, MN
+754	109-Taylor, Bridget 	F	6	43:34.04   	44:45.52   	1:11.48 	Shorewood, MN
+755	164-Kelley, Jenny   	F	30	43:50.89   	44:35.53   	0:44.64 	Minnetonka, MN
+756	350-Kallas, Micki   	F	60	43:55.37   	45:33.18   	1:37.80 	Minnetonka, MN
+757	351-Kallas, John    	M	60	43:55.77   	45:34.26   	1:38.49 	Minnetonka, MN
+758	279-Schulz, Marissa 	F	44	44:07.66   	44:38.77   	0:31.10 	Chanhassen, MN
+759	278-Schulz, Anna    	F	8	44:10.71   	44:36.22   	0:25.50 	Chanhassen, MN
+760	472-Hoelscher, Brian	M	48	44:16.55   	44:24.22   	0:07.67 	Excelsior, MN
+761	509-Lowery, Dolly   	F	49	44:22.77   	44:55.27   	0:32.50 	Tonka Bay, MN
+762	588-Hagberg, Emmee  	F	11	44:24.39   	45:15.65   	0:51.25 	Excelsior, MN
+763	269-Thompson, Julie 	F	54	44:27.78   	45:22.18   	0:54.40 	Excelsior, MN
+764	775-Hammill, Allison	F	14	44:29.59   	45:22.28   	0:52.69 	Pine City, MN
+765	336-DuBois, Christin	F	12	44:41.64   	45:32.27   	0:50.62 	Shorewood, MN
+766	144-Broman, Trudy   	F	56	44:47.63   	45:19.13   	0:31.49 	Wayzata, MN
+767	337-DuBois, Shelley 	F	55	44:49.68   	45:41.98   	0:52.29 	Shorewood, MN
+768	151-Miller, Deb     	F	54	44:49.79   	45:19.34   	0:29.55 	Excelsior, MN
+769	540-Stang, Lisa     	F	51	45:11.72   	45:41.37   	0:29.65 	Sycamore, IL
+770	541-Stang, Michael  	M	52	45:13.19   	45:41.37   	0:28.18 	Sycamore, IL
+771	28-Aich-Olson, Janin	F	48	45:54.56   	47:00.28   	1:05.72 	Bloomington, MN
+772	20-Luehr, Chris     	M	35	45:56.13   	47:28.77   	1:32.64 	Minnetonka, MN
+773	695-Happes, David   	M	44	46:00.37   	46:53.26   	0:52.89 	Cologne, MN
+774	2067-Brocco, Michael	M	54	46:04.14   	46:04.15   	00:00.0 	Woodbury, MN
+775	143-Henry, Katharine	F	19	46:10.44   	46:40.72   	0:30.27 	Edina, MN
+776	435-Amon, Susan     	F	62	46:38.79   	47:48.42   	1:09.63 	Plymouth, MN
+777	167-Pickert, Samanth	F	10	47:41.91   	49:15.26   	1:33.34 	Mound, MN
+778	395-Womeldorff, Deni	F	53	47:48.83   	49:37.76   	1:48.93 	Minnetonka, MN
+779	387-Hendrickson, Kar	F	37	47:49.26   	49:37.76   	1:48.50 	Minnetonka, MN
+780	377-Thomasson, Tobia	M	7	48:06.69   	49:54.18   	1:47.48 	Excelsior, MN
+781	375-Thomasson, Debor	F	49	48:14.46   	50:02.35   	1:47.89 	Excelsior, MN
+782	530-Becker, Fiona   	F	14	48:17.47   	50:03.28   	1:45.80 	Excelsior, MN
+783	819-Parker, Chris   	F	53	48:31.16   	49:14.80   	0:43.64 	Shorewood, MN
+784	553-Smith, Madeline 	F	16	49:25.91   	50:29.78   	1:03.86 	Dearborn, MI
+785	554-Smith, Jennifer 	F	45	49:35.12   	50:38.51   	1:03.39 	Dearborn, MI
+786	261-Traxler, Bill   	M	51	50:01.89   	51:33.53   	1:31.64 	Victoria, MN
+787	245-Carothers, Kelly	F	31	50:54.45   	51:38.60   	0:44.15 	Chaska, MN
+788	396-Flekke, Anna    	F	9	51:30.42   	53:18.54   	1:48.11 	Minnetonka, MN
+789	441-Flekke, Gregg   	M	52	51:49.77   	53:36.41   	1:46.64 	Minnetonka, MN
+790	678-Carstensen, Kari	F	42	52:00.00   	53:42.20   	1:42.64 	Chanhassen, MN
+791	120-Garrigan, Megan 	F	33	52:01.25   	52:53.76   	0:52.51 	Rio Rancho, NM
+792	31-Carlson, Lynn    	F	47	52:15.28   	53:07.78   	0:52.50 	Excelsior, MN
+793	32-Carlson, Allison 	F	11	52:15.85   	53:07.65   	0:51.79 	Excelsior, MN
+794	238-Vice, Irene     	F	56	52:22.22   	52:54.97   	0:32.74 	Chaska, MN
+795	761-Carlson, Maureen	F	57	52:31.68   	52:54.16   	0:22.47 	Richfield, MN
+796	30-Burns, Kevin     	M	30	53:33.68   	54:09.50   	0:35.81 	Santa Monica, CA
+797	260-Traxler, Lizzi  	F	24	54:45.65   	56:18.54   	1:32.89 	Victoria, MN
+798	106-Keller, Georgia 	F	19	55:58.98   	57:21.80   	1:22.81 	Maple Grove, MN
+799	584-Taylor, Bode    	M	9	56:46.97   	58:24.18   	1:37.20 	Spring Park, MN
+800	581-Nelson, Bobbie  	F	63	56:54.36   	58:31.50   	1:37.14 	Spring Park, MN
+801	66-Megna, Jeff      	M	54	57:04.50   	57:16.11   	0:11.61 	Sugar Land, TX
+802	107-Keller, Dawn    	F	49	57:21.80   	57:21.80   	00:00.0 	Maple Grove, MN
+803	56-Mathistad, Liam  	M	9	57:39.65   	58:31.29   	0:51.64 	Waconia, MN
+804	58-Mathistad, Steven	M	42	57:39.79   	58:31.69   	0:51.90 	Waconia, MN
+805	415-Ewald, Anna     	F	19	1:04:44.31 	1:04:44.31 	00:00.0 	Excelsior, MN

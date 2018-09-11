@@ -1,0 +1,497 @@
+BIB LIST FOR GRASSHOPPER INVITATIONAL-2015
+Generated: 9/21/2015 9:35:26 AM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Acheson, Ian            	Blake (M)               	M	7	B-JH	4394
+Adams, Edward           	Blake (M)               	M	7	B-JH	4395
+Barakat, Hussein        	Blake (M)               	M	11	B-JV	4396
+Barrows, Julian         	Blake (M)               	M	7	B-JH	4397
+Blum, Jacob             	Blake (M)               	M	10	B-JV	4398
+Blum, Nathan            	Blake (M)               	M	8	B-JH	4399
+Champlin, Saji          	Blake (M)               	M	9	B-JV	4400
+Chute, Trace            	Blake (M)               	M	8	B-JH	4401
+Cunningham, Ryan        	Blake (M)               	M	7	B-JH	4402
+Dekko, Zach             	Blake (M)               	M	10	B-V	4403
+Elbakkal, Kareem        	Blake (M)               	M	10	B-V	4404
+Erlandson, John         	Blake (M)               	M	7	B-JH	4405
+Gill, Chris             	Blake (M)               	M	10	B-V	4406
+Jhanjee, Shiv           	Blake (M)               	M	10	B-JV	4407
+Klinefelter, Scott      	Blake (M)               	M	8	B-JH	4408
+Longley, William        	Blake (M)               	M	8	B-JH	4409
+Lyman, William          	Blake (M)               	M	9	B-V	4410
+Mitchell, Michael       	Blake (M)               	M	11	B-V	4411
+Morsman, Tommy          	Blake (M)               	M	8	B-JH	4412
+Nowak, Charlie          	Blake (M)               	M	8	B-JH	4413
+Owens, Max              	Blake (M)               	M	10	B-V	4414
+Palaskas, MIke          	Blake (M)               	M	9	B-JV	4415
+Pan, Tommy              	Blake (M)               	M	7	B-JH	4416
+Pannell, William        	Blake (M)               	M	10	B-JV	4417
+Reid, Aksel             	Blake (M)               	M	7	B-JH	4418
+Rekas, Will             	Blake (M)               	M	7	B-JH	4419
+Riedel, Julius          	Blake (M)               	M	7	B-JH	4420
+Roach, Henry            	Blake (M)               	M	9	B-JV	4421
+Smith, Michael          	Blake (M)               	M	11	B-V	4422
+Swing, Kyle             	Blake (M)               	M	10	B-JV	4423
+Weatherly, Kyle         	Blake (M)               	M	9	B-JV	4424
+Woerner, Cole           	Blake (M)               	M	10	B-JV	4425
+Abraham, Bailey         	Blake (F)               	F	7	G-V	4426
+Ankeny, Ellie           	Blake (F)               	F	12	G-V	4427
+Ankeny, Maggie          	Blake (F)               	F	8	G-JH	4428
+Bernhardt, Kate         	Blake (F)               	F	11	G-JV	4429
+Champlin, Samira        	Blake (F)               	F	12	G-JV	4430
+Chute, Charlotte        	Blake (F)               	F	7	G-JH	4431
+Chute, Sarah            	Blake (F)               	F	10	G-V	4432
+Elbakkal, Laila         	Blake (F)               	F	7	G-JH	4433
+Field, Myka             	Blake (F)               	F	7	G-JH	4434
+Fleming, Ahna           	Blake (F)               	F	7	G-JH	4435
+Fox, Nora               	Blake (F)               	F	7	G-JH	4436
+Griffin, Grace          	Blake (F)               	F	7	G-JH	4437
+Koullick, Alexandra     	Blake (F)               	F	8	G-V	4438
+Lucas, Cynthia          	Blake (F)               	F	11	G-V	4439
+Meskan, Madeleine       	Blake (F)               	F	8	G-JH	4440
+Ohrt, Bella             	Blake (F)               	F	7	G-JH	4441
+Ohrt, Olivia            	Blake (F)               	F	10	G-V	4442
+Pekarek, Maddie         	Blake (F)               	F	7	G-JH	4443
+Rierson, Miki           	Blake (F)               	F	9	G-JV	4444
+Shoemate, Ana           	Blake (F)               	F	11	G-JV	4445
+Smith, Amelia           	Blake (F)               	F	9	G-JV	4446
+Weyerhaeuser, Jackie    	Blake (F)               	F	7	G-V	4447
+Yang, Flora             	Blake (F)               	F	8	G-JH	4448
+Arrell, Lexi            	Breck (F)               	F	8	G-JH	4449
+Berman, Elena           	Breck (F)               	F	11	G-V	4450
+Czeneszew, Maya         	Breck (F)               	F	10	G-V	4451
+Drysdale, Marianne      	Breck (F)               	F	12	G-V	4452
+Hogan, Caroline         	Breck (F)               	F	9	G-JV	4453
+Johansson, Nora         	Breck (F)               	F	9	G-JV	4454
+Miller, Lucia           	Breck (F)               	F	9	G-JV	4455
+Murali, Archana         	Breck (F)               	F	11	G-JV	4456
+Noskova, Petra          	Breck (F)               	F	11	G-JV	4457
+Phillips, Taylor        	Breck (F)               	F	10	G-V	4458
+Rex, Sara               	Breck (F)               	F	9	G-JV	4459
+Richter, Morgan         	Breck (F)               	F	8	G-V	4460
+Riskevich, Kendall      	Breck (F)               	F	9	G-V	4461
+Scott, Maggie           	Breck (F)               	F	11	G-V	4462
+Silton, Maddie          	Breck (F)               	F	10	G-JV	4463
+Solohub, Katherine      	Breck (F)               	F	9	G-JV	4464
+Yuan, Stacy             	Breck (F)               	F	11	G-JV	4465
+Bubula, Henry           	Breck (M)               	M	9	B-JV	4466
+Clarke, Cameron         	Breck (M)               	M	9	B-JV	4467
+Dlugosch, Colin         	Breck (M)               	M	8	B-JH	4468
+Dougherty, Sean         	Breck (M)               	M	9	B-JV	4469
+Ekberg, Jon             	Breck (M)               	M	11	B-V	4470
+Fries, Declan           	Breck (M)               	M	8	B-JH	4471
+Guzman, Alex            	Breck (M)               	M	12	B-V	4472
+Helgaas, Tait           	Breck (M)               	M	12	B-V	4473
+Jundt, Max              	Breck (M)               	M	12	B-V	4474
+Klopp, Harrison         	Breck (M)               	M	10	B-JV	4475
+Kong, Albert            	Breck (M)               	M	9	B-JV	4476
+Madson, Blaine          	Breck (M)               	M	10	B-V	4477
+Moyer, Julian           	Breck (M)               	M	8	B-JH	4478
+Murphy, Will            	Breck (M)               	M	7	B-JH	4479
+Peterson, Jed           	Breck (M)               	M	9	B-JV	4480
+Rex, Samuel             	Breck (M)               	M	11	B-V	4481
+Salveson, Finn          	Breck (M)               	M	9	B-V	4482
+Sorum, Andrew           	Breck (M)               	M	9	B-JV	4483
+Belden, Sara            	Cooper (F)              	F	12	G-V	4484
+Daniels, Ingrid         	Cooper (F)              	F	11	G-JV	4485
+Dean, Tasha             	Cooper (F)              	F	10	G-JV	4486
+Gagnon, Sabine          	Cooper (F)              	F	11	G-JV	4487
+Hepp, Bernadette        	Cooper (F)              	F	11	G-JV	4488
+Hepp, Elizabeth         	Cooper (F)              	F	11	G-V	4489
+Heusinkveld, Amelia     	Cooper (F)              	F	12	G-V	4490
+Jandl, Emily            	Cooper (F)              	F	9	G-JV	4491
+Lorentz, Anna           	Cooper (F)              	F	11	G-JV	4492
+Smude, Elizabeth        	Cooper (F)              	F	10	G-V	4493
+Sorenson, Marcella      	Cooper (F)              	F	11	G-JV	4494
+Urevig, Allison         	Cooper (F)              	F	12	G-V	4495
+Zieska, Alice           	Cooper (F)              	F	10	G-V	4496
+Bangura, Al             	Cooper (M)              	M	12	B-JV	4497
+Boswell, Nolan          	Cooper (M)              	M	8	B-V	4498
+De Jesus, Kyle          	Cooper (M)              	M	12	B-V	4499
+Gibba, Sulayman         	Cooper (M)              	M	12	B-V	4500
+Griffin-Wiesner, Isaac  	Cooper (M)              	M	12	B-V	4501
+Herman, Sam             	Cooper (M)              	M	11	B-JV	4502
+Hernick, Sam            	Cooper (M)              	M	8	B-JV	4503
+Horgan, Thomas          	Cooper (M)              	M	8	B-JV	4504
+Lindahl, Brian          	Cooper (M)              	M	7	B-JV	4505
+Lindgren, David         	Cooper (M)              	M	10	B-JV	4506
+Ly, Jansoper            	Cooper (M)              	M	12	B-JV	4507
+Maki, Ethan             	Cooper (M)              	M	8	B-JV	4508
+Marshall, Dan           	Cooper (M)              	M	12	B-JV	4509
+Nelson, Payton          	Cooper (M)              	M	10	B-JV	4510
+Omar, Muhsin            	Cooper (M)              	M	10	B-JV	4511
+Parlow, Stephen         	Cooper (M)              	M	11	B-V	4512
+Speck, Nathan           	Cooper (M)              	M	12	B-JV	4513
+Stinson, Joe            	Cooper (M)              	M	12	B-JV	4514
+Thomas, Zachary         	Cooper (M)              	M	11	B-JV	4515
+Thompson, Joe           	Cooper (M)              	M	12	B-JV	4516
+Westerlund, Zachary     	Cooper (M)              	M	12	B-V	4517
+Williams, Garrett       	Cooper (M)              	M	12	B-V	4518
+Ambrus, Muriel          	DeLaSalle (F)           	F	9	G-V	4519
+Bartley-Dier, Emma      	DeLaSalle (F)           	F	11	G-JV	4520
+Boehme, Erin            	DeLaSalle (F)           	F	10	G-JV	4521
+Boehme, Liz             	DeLaSalle (F)           	F	12	G-JV	4522
+Bohrer, Kylee           	DeLaSalle (F)           	F	11	G-JV	4523
+Butterfield, Corinne    	DeLaSalle (F)           	F	10	G-JV	4524
+Cervantes, Celeste      	DeLaSalle (F)           	F	10	G-JV	4525
+Delgado, Natalie        	DeLaSalle (F)           	F	9	G-JV	4526
+Doane, Isabel           	DeLaSalle (F)           	F	10	G-JV	4527
+Doane, Zoe              	DeLaSalle (F)           	F	12	G-JV	4528
+Johnson, Abby           	DeLaSalle (F)           	F	9	G-JV	4529
+Koland, Julia           	DeLaSalle (F)           	F	11	G-JV	4530
+Lyngen, Leah            	DeLaSalle (F)           	F	9	G-V	4531
+Nestingen, Ellie        	DeLaSalle (F)           	F	10	G-JV	4532
+Ordonez Mejia, Ana      	DeLaSalle (F)           	F	10	G-JV	4533
+Speidel, Dacoda         	DeLaSalle (F)           	F	10	G-V	4534
+Streble, Geni           	DeLaSalle (F)           	F	10	G-JV	4535
+Stuart, Molly           	DeLaSalle (F)           	F	9	G-JV	4536
+Wohletz, Katherine      	DeLaSalle (F)           	F	12	G-JV	4537
+Zarnoti, Emily          	DeLaSalle (F)           	F	12	G-V	4538
+Abanu, Ayinde           	DeLaSalle (M)           	M	12	B-JV	4539
+Blaine-Sauer, Isaac     	DeLaSalle (M)           	M	9	B-JV	4540
+Brand, Nathan           	DeLaSalle (M)           	M	11	B-JV	4541
+Brezonik, Joe           	DeLaSalle (M)           	M	9	B-JV	4542
+Calcaterra, Cormac      	DeLaSalle (M)           	M	9	B-JV	4543
+Carlson, Louis          	DeLaSalle (M)           	M	12	B-V	4544
+Carpenter, Quinn        	DeLaSalle (M)           	M	11	B-JV	4545
+Daly, Danny             	DeLaSalle (M)           	M	9	B-JV	4546
+Draper, Jenson          	DeLaSalle (M)           	M	12	B-JV	4547
+Fimon, Zach             	DeLaSalle (M)           	M	12	B-JV	4548
+Geddes, John            	DeLaSalle (M)           	M	9	B-JV	4549
+Gruidl, Max             	DeLaSalle (M)           	M	9	B-JV	4550
+Gustafson, Zach         	DeLaSalle (M)           	M	11	B-JV	4551
+Hanson, Jacob           	DeLaSalle (M)           	M	12	B-JV	4552
+Helmke, Keegan          	DeLaSalle (M)           	M	9	B-JV	4553
+Hennen, Joe             	DeLaSalle (M)           	M	10	B-JV	4554
+Hirschboeck, AJ         	DeLaSalle (M)           	M	12	B-JV	4555
+Holthusen, Jack         	DeLaSalle (M)           	M	9	B-V	4556
+Ito, Jeff               	DeLaSalle (M)           	M	9	B-JV	4557
+Johnson, Anthony        	DeLaSalle (M)           	M	12	B-JV	4558
+Kenigsberg, Alex        	DeLaSalle (M)           	M	9	B-JV	4559
+Kester, Jonah           	DeLaSalle (M)           	M	10	B-V	4560
+Kulesa, Sam             	DeLaSalle (M)           	M	9	B-V	4561
+Nassif, Nick            	DeLaSalle (M)           	M	12	B-JV	4562
+Ney, Jacob              	DeLaSalle (M)           	M	12	B-JV	4563
+Ortiz, Peter            	DeLaSalle (M)           	M	9	B-JV	4564
+Pirozzolo, Sam          	DeLaSalle (M)           	M	9	B-JV	4565
+Steinhagen, Carter      	DeLaSalle (M)           	M	11	B-V	4566
+Suek, Kyle              	DeLaSalle (M)           	M	11	B-V	4567
+Thompson, Jack          	DeLaSalle (M)           	M	12	B-JV	4568
+Timmerman, Luke         	DeLaSalle (M)           	M	9	B-JV	4569
+Valure, Bram            	DeLaSalle (M)           	M	11	B-JV	4570
+Walker, Nate            	DeLaSalle (M)           	M	9	B-JV	4571
+Wenner, Alex            	DeLaSalle (M)           	M	9	B-JV	4572
+Xiong, Pengshing        	DeLaSalle (M)           	M	11	B-JV	4573
+Brustad, Jenna          	Mound-Westonka (F)      	F	7	G-JH	4574
+Godoy-Henderson, Clara  	Mound-Westonka (F)      	F	10	G-V	4575
+Hannegrefs, Elizabeth   	Mound-Westonka (F)      	F	5	G-JH	4576
+Howarth, Amy            	Mound-Westonka (F)      	F	10	G-V	4577
+Kohls, Ella             	Mound-Westonka (F)      	F	12	G-V	4578
+Kuhl, Kenzie            	Mound-Westonka (F)      	F	5	G-JH	4579
+Malchow, Sarah          	Mound-Westonka (F)      	F	8	G-JH	4580
+Mather, Alaina          	Mound-Westonka (F)      	F	5	G-JH	4581
+Matt, Meghan            	Mound-Westonka (F)      	F	12	G-V	4582
+Rude, Claire            	Mound-Westonka (F)      	F	12	G-V	4583
+Sipprell, Nora          	Mound-Westonka (F)      	F	5	G-JH	4584
+Woychick, Audrey        	Mound-Westonka (F)      	F	10	G-JV	4585
+Abbegglen, Sam          	Mound-Westonka (M)      	M	12	B-V	4586
+Almtman, Max            	Mound-Westonka (M)      	M	7	B-JH	4587
+Andrews, Jett           	Mound-Westonka (M)      	M	7	B-JH	4588
+Brakemeier, Mason       	Mound-Westonka (M)      	M	6	B-JH	4589
+Brown, Nick             	Mound-Westonka (M)      	M	9	B-JV	4590
+Brustad, Robby          	Mound-Westonka (M)      	M	7	B-JH	4591
+Doepnerhove, Carsten    	Mound-Westonka (M)      	M	9	B-JV	4592
+Eberhardt, Jack         	Mound-Westonka (M)      	M	6	B-JH	4593
+Fenzl, Roman            	Mound-Westonka (M)      	M	7	B-JH	4594
+Franck, Tyler           	Mound-Westonka (M)      	M	8	B-JH	4595
+Garlick, Cole           	Mound-Westonka (M)      	M	8	B-JH	4596
+Gravelle, Tyler         	Mound-Westonka (M)      	M	7	B-JH	4597
+Hanson, Nolan           	Mound-Westonka (M)      	M	7	B-JH	4598
+Herder, Charlie         	Mound-Westonka (M)      	M	7	B-JH	4599
+Humbert, Matt           	Mound-Westonka (M)      	M	10	B-V	4600
+Kaczanowski, Tim        	Mound-Westonka (M)      	M	12	B-JV	4601
+Kittelson, Tanner       	Mound-Westonka (M)      	M	7	B-JH	4602
+Kline, Josh             	Mound-Westonka (M)      	M	12	B-JV	4603
+Kohls, Reed             	Mound-Westonka (M)      	M	10	B-V	4604
+Lawrence, Weston        	Mound-Westonka (M)      	M	7	B-JH	4605
+Lee, Blake              	Mound-Westonka (M)      	M	6	B-JH	4606
+Merritt, Carson         	Mound-Westonka (M)      	M	7	B-JH	4607
+Milner, Michael         	Mound-Westonka (M)      	M	12	B-V	4608
+Miner, Isaac            	Mound-Westonka (M)      	M	7	B-JH	4609
+Munsterteiger, Brock    	Mound-Westonka (M)      	M	9	B-JV	4610
+Nemecek, Lance          	Mound-Westonka (M)      	M	6	B-JH	4611
+Philipps, Tristan       	Mound-Westonka (M)      	M	7	B-JH	4612
+Reinhardt, Charlie      	Mound-Westonka (M)      	M	9	B-V	4613
+Retterath, Kade         	Mound-Westonka (M)      	M	9	B-JV	4614
+Richter, Evan           	Mound-Westonka (M)      	M	12	B-V	4615
+Ricke, Patrick          	Mound-Westonka (M)      	M	7	B-JH	4616
+Ryall, Jack             	Mound-Westonka (M)      	M	7	B-JH	4617
+Slechta, Marcus         	Mound-Westonka (M)      	M	6	B-JH	4618
+Soule, Connor           	Mound-Westonka (M)      	M	8	B-JH	4619
+Stokes, Rob             	Mound-Westonka (M)      	M	12	B-V	4620
+Ung, Brandon            	Mound-Westonka (M)      	M	10	B-JV	4621
+Wetherille, Matt        	Mound-Westonka (M)      	M	12	B-JV	4622
+Woychick, Joe           	Mound-Westonka (M)      	M	9	B-JV	4623
+Brenden, Naomi          	Northwest (F)           	F	10	G-V	4624
+Chamberlain, Christine  	Northwest (F)           	F	10	G-JV	4625
+Chamberlain, Marielle   	Northwest (F)           	F	8	G-JH	4626
+Chernyavsky, Sienna     	Northwest (F)           	F	10	G-V	4627
+Fraser, Delaney         	Northwest (F)           	F	12	G-JV	4628
+Lee, Ellie              	Northwest (F)           	F	12	G-V	4629
+Roble, Sophia           	Northwest (F)           	F	7	G-JH	4630
+Simmer, Jerilynn        	Northwest (F)           	F	8	G-JH	4631
+Simmer, Jessica         	Northwest (F)           	F	6	G-JH	4632
+Sixta, Katie            	Northwest (F)           	F	10	G-JV	4633
+Stahl, Aryn             	Northwest (F)           	F	10	G-JV	4634
+Stahl, Elise            	Northwest (F)           	F	11	G-V	4635
+Swanson, Erika          	Northwest (F)           	F	9	G-V	4636
+Veillette, Ashley       	Northwest (F)           	F	8	G-JH	4637
+Bendickson, Jake        	Northwest (M)           	M	10	B-JV	4638
+Binsfeld, Jacob         	Northwest (M)           	M	9	B-JV	4639
+Brenden, Gabe           	Northwest (M)           	M	7	B-JH	4640
+Fuglestad, William      	Northwest (M)           	M	9	B-JV	4641
+Gearin, Spencer         	Northwest (M)           	M	11	B-V	4642
+Gearin, Tyler           	Northwest (M)           	M	9	B-V	4643
+Pavlish, Tristan        	Northwest (M)           	M	7	B-JH	4644
+Peterman, Jayden        	Northwest (M)           	M	8	B-JH	4645
+Schmalz, Kirby          	Northwest (M)           	M	8	B-JH	4646
+Sixta, Anthony          	Northwest (M)           	M	11	B-JV	4647
+Spencer, Gus            	Northwest (M)           	M	10	B-V	4648
+Swanson, Luke           	Northwest (M)           	M	6	B-JH	4649
+Cavas, Silvia           	Orono (F)               	F	12	G-JV	4650
+Denneson, Abygail       	Orono (F)               	F	6	G-JH	4651
+Edwards, Annabella      	Orono (F)               	F	6	G-JH	4652
+Fay, Rachel             	Orono (F)               	F	12	G-JV	4653
+Harrison, Sarah         	Orono (F)               	F	12	G-JV	4654
+Hutton, Alana           	Orono (F)               	F	7	G-JH	4655
+Johnson, Avalon         	Orono (F)               	F	8	G-JH	4656
+Johnson, Greta          	Orono (F)               	F	12	G-V	4657
+Johnson, Nina           	Orono (F)               	F	7	G-JH	4658
+Larson, Ella            	Orono (F)               	F	10	G-JV	4659
+Leslie, Grace           	Orono (F)               	F	11	G-V	4660
+Lundberg, Gaberiella    	Orono (F)               	F	6	G-JH	4661
+Maddock, Sami           	Orono (F)               	F	11	G-V	4662
+Minor, Grace            	Orono (F)               	F	8	G-JH	4663
+Morrison, Victoria      	Orono (F)               	F	12	G-JV	4664
+Reese, Cameron          	Orono (F)               	F	11	G-V	4665
+Shelp, Quincy           	Orono (F)               	F	6	G-JH	4666
+Soderstrom, Elsa        	Orono (F)               	F	10	G-V	4667
+Soderstrom, Lucy        	Orono (F)               	F	12	G-JV	4668
+Suchy, Claire           	Orono (F)               	F	8	G-JH	4669
+Ting, Samantha          	Orono (F)               	F	12	G-V	4670
+Weetman, Lauren         	Orono (F)               	F	9	G-JV	4671
+White, Halle            	Orono (F)               	F	12	G-JV	4672
+Wock, Riviera           	Orono (F)               	F	6	G-JH	4673
+Banavige, Ronan         	Orono (M)               	M	7	B-JH	4674
+Beck, Richard           	Orono (M)               	M	11	B-JV	4675
+Bloomquist, Isaac       	Orono (M)               	M	9	B-JV	4676
+Cadwallader, Kyle       	Orono (M)               	M	11	B-V	4677
+Dudley, Timmy           	Orono (M)               	M	10	B-V	4678
+Ellis, Charlie          	Orono (M)               	M	9	B-JV	4679
+Fiataruolo, Angelo      	Orono (M)               	M	6	B-JH	4680
+Halloran, Emmett        	Orono (M)               	M	9	B-V	4681
+Hickey, Thomas          	Orono (M)               	M	11	B-JV	4682
+Hutton, William         	Orono (M)               	M	11	B-JV	4683
+Johnson, Austin         	Orono (M)               	M	9	B-JV	4684
+Johnson, Samuel         	Orono (M)               	M	9	B-JV	4685
+Kavanagh, Braden        	Orono (M)               	M	7	B-JH	4686
+Klombies, Kieran        	Orono (M)               	M	8	B-JH	4687
+Koltes, Matt            	Orono (M)               	M	8	B-JH	4688
+Kvern, Kevin            	Orono (M)               	M	12	B-V	4689
+Lahtinen, Matt          	Orono (M)               	M	12	B-V	4690
+Larson, Henry j         	Orono (M)               	M	12	B-JV	4691
+Myhre, Jack             	Orono (M)               	M	8	B-JH	4692
+Nguyen, Brandon         	Orono (M)               	M	8	B-JH	4693
+Payton, Tristan         	Orono (M)               	M	9	B-JV	4694
+Quinn, Jack             	Orono (M)               	M	11	B-JV	4695
+Rice, Simon             	Orono (M)               	M	9	B-JV	4696
+Sarles, Paul            	Orono (M)               	M	12	B-V	4697
+Soderstrom, Finn        	Orono (M)               	M	7	B-JH	4698
+van Dyck, Lukas         	Orono (M)               	M	10	B-V	4699
+Whyte, Justin           	Orono (M)               	M	11	B-V	4700
+Wickstrom, Logan        	Orono (M)               	M	11	B-JV	4701
+Winkey, Austin          	Orono (M)               	M	11	B-JV	4702
+Brunsman, Ella          	Providence Academy (F)  	F	12	G-JV	4703
+Carney, Quinn           	Providence Academy (F)  	F	12	G-JV	4704
+Carney, Tess            	Providence Academy (F)  	F	9	G-JV	4705
+Hodgkin, Madison        	Providence Academy (F)  	F	12	G-JV	4706
+Johnson, Sohpia         	Providence Academy (F)  	F	12	G-JV	4707
+Necksnicky, Riley       	Providence Academy (F)  	F	9	G-JV	4708
+Palomarez, Anamaria     	Providence Academy (F)  	F	10	G-JV	4709
+Rastetter, Anna         	Providence Academy (F)  	F	12	G-JV	4710
+Reschenberg, Lizzie     	Providence Academy (F)  	F	12	G-JV	4711
+Trend, Jamie            	Providence Academy (F)  	F	10	G-JV	4712
+White, Megan            	Providence Academy (F)  	F	12	G-JV	4713
+Beukelman, Andrew       	Providence Academy (M)  	M	12	B-V	4714
+Boldt, Noah             	Providence Academy (M)  	M	12	B-JV	4715
+Farnam, Nolan           	Providence Academy (M)  	M	11	B-V	4716
+Hohenecker, Tyson       	Providence Academy (M)  	M	10	B-JV	4717
+Kettler, Adam           	Providence Academy (M)  	M	10	B-JV	4718
+Knode, Anthony          	Providence Academy (M)  	M	12	B-V	4719
+O'Meara, Lane           	Providence Academy (M)  	M	9	B-V	4720
+O'Neill, Kevin          	Providence Academy (M)  	M	12	B-V	4721
+Partoll, Peter          	Providence Academy (M)  	M	12	B-V	4722
+Straszewski, Michael    	Providence Academy (M)  	M	9	B-JV	4723
+Trende, Reed            	Providence Academy (M)  	M	12	B-V	4724
+Bierbaum, Madaline      	Southwest (F)           	F	9	G-JV	4725
+Coldwell, Alison        	Southwest (F)           	F	11	G-V	4726
+Edinburgh, Sarah        	Southwest (F)           	F	12	G-V	4727
+Green, Mia              	Southwest (F)           	F	9	G-JV	4728
+Hannah, Maddie          	Southwest (F)           	F	9	G-V	4729
+Hess, Camila            	Southwest (F)           	F	7	G-JH	4730
+Johnson, Penelope       	Southwest (F)           	F	8	G-JH	4731
+Launstein, Maddie       	Southwest (F)           	F	10	G-JV	4732
+Moran, Samantha         	Southwest (F)           	F	11	G-V	4733
+Rian, Mackenzie         	Southwest (F)           	F	7	G-JV	4734
+Richmond, Lily          	Southwest (F)           	F	9	G-V	4735
+Ryden, Marie            	Southwest (F)           	F	11	G-JV	4736
+Ryden, Nicole           	Southwest (F)           	F	9	G-JV	4737
+Tieleman, Ara           	Southwest (F)           	F	9	G-JV	4738
+Wise, Anna              	Southwest (F)           	F	7	G-JH	4739
+Archie, Carson          	Southwest (M)           	M	8	B-JH	4740
+Ashrafzadeh-Kian, Cyrus 	Southwest (M)           	M	12	B-V	4741
+Carlsen, Michael        	Southwest (M)           	M	12	B-JV	4742
+Dean, Owen              	Southwest (M)           	M	9	B-JV	4743
+Eikens, Patrick         	Southwest (M)           	M	10	B-JV	4744
+Firman, Riley           	Southwest (M)           	M	8	B-JH	4745
+Francois, Charles       	Southwest (M)           	M	9	B-JV	4746
+Hockenberry, David      	Southwest (M)           	M	9	B-JV	4747
+Karia, Denys            	Southwest (M)           	M	12	B-JV	4748
+Legrand, Evan           	Southwest (M)           	M	9	B-JV	4749
+Markegard, Carter       	Southwest (M)           	M	11	B-JV	4750
+Nelson, Brady           	Southwest (M)           	M	10	B-JV	4751
+Nimz, Jack              	Southwest (M)           	M	12	B-JV	4752
+Olson, Conlan           	Southwest (M)           	M	12	B-V	4753
+Patel, Avi              	Southwest (M)           	M	11	B-JV	4754
+Peterson, Ben           	Southwest (M)           	M	9	B-JV	4755
+Petrilla, Aidan         	Southwest (M)           	M	11	B-JV	4756
+Pfister, James          	Southwest (M)           	M	11	B-JV	4757
+Schnabel, Max           	Southwest (M)           	M	9	B-JV	4758
+Sharif, Amir            	Southwest (M)           	M	11	B-JV	4759
+Surprise, Dylan         	Southwest (M)           	M	9	B-JV	4760
+Tieleman, Will          	Southwest (M)           	M	11	B-V	4761
+Vaaler, Charles         	Southwest (M)           	M	9	B-JV	4762
+Zagar, Seay             	Southwest (M)           	M	9	B-JV	4763
+Curran, Emma            	Spring Lake Park (F)    	F	10	G-V	4764
+Fey, Gabrielle          	Spring Lake Park (F)    	F	12	G-V	4765
+Guse, Erin              	Spring Lake Park (F)    	F	12	G-JV	4766
+Hart, Kelsie            	Spring Lake Park (F)    	F	11	G-V	4767
+Hutton, Anna            	Spring Lake Park (F)    	F	8	G-JV	4768
+Lawson, Charis          	Spring Lake Park (F)    	F	7	G-JV	4769
+McGinnity, Riley        	Spring Lake Park (F)    	F	11	G-JV	4770
+Sheedlo, Annie          	Spring Lake Park (F)    	F	11	G-V	4771
+Sheedlo, Leah           	Spring Lake Park (F)    	F	9	G-V	4772
+Unruh, Rylie            	Spring Lake Park (F)    	F	8	G-JV	4773
+VanDenTop, Autumn       	Spring Lake Park (F)    	F	7	G-V	4774
+VanDenTop, Claire       	Spring Lake Park (F)    	F	7	G-V	4775
+Watts, Katherine        	Spring Lake Park (F)    	F	12	G-JV	4776
+Zachary, Caitlin        	Spring Lake Park (F)    	F	11	G-JV	4777
+Darby, Jonathan         	Spring Lake Park (M)    	M	11	B-JV	4778
+Denno, Schaffer         	Spring Lake Park (M)    	M	11	B-V	4779
+Elsesser, George        	Spring Lake Park (M)    	M	11	B-V	4780
+Erickson, Owen          	Spring Lake Park (M)    	M	7	B-JV	4781
+Herron, Sebrum          	Spring Lake Park (M)    	M	11	B-V	4782
+Lawson, Felipe          	Spring Lake Park (M)    	M	9	B-JV	4783
+McGhee, Tavin           	Spring Lake Park (M)    	M	10	B-JV	4784
+Miller, Logan           	Spring Lake Park (M)    	M	8	B-JV	4785
+Odowa, Liban            	Spring Lake Park (M)    	M	11	B-JV	4786
+Olsen, Quinn            	Spring Lake Park (M)    	M	9	B-V	4787
+Putnam, Bennett         	Spring Lake Park (M)    	M	10	B-JV	4788
+Sheedlo, Sam            	Spring Lake Park (M)    	M	7	B-V	4789
+Shroyer, Quinn          	Spring Lake Park (M)    	M	12	B-V	4790
+Smith, Brendan          	Spring Lake Park (M)    	M	7	B-V	4791
+Watson, Ned             	Spring Lake Park (M)    	M	10	B-JV	4792
+Whann, Joe              	Spring Lake Park (M)    	M	8	B-JV	4793
+York, Logan             	Spring Lake Park (M)    	M	7	B-JV	4794
+Becker, Isabelle        	St Louis Park (F)       	F	9	G-JV	4795
+Bjorgaard, Becca        	St Louis Park (F)       	F	9	G-JV	4796
+Breyak, Emma            	St Louis Park (F)       	F	11	G-JV	4797
+Brinkman, Kate          	St Louis Park (F)       	F	10	G-JV	4798
+Cahalan, Mia            	St Louis Park (F)       	F	8	G-JH	4799
+Callahan, April         	St Louis Park (F)       	F	9	G-JV	4800
+Christiansen, Katie     	St Louis Park (F)       	F	9	G-JV	4801
+Epstien, Lindsey        	St Louis Park (F)       	F	9	G-JV	4802
+Fredrickson, Katie      	St Louis Park (F)       	F	10	G-V	4803
+Hill, Marta             	St Louis Park (F)       	F	8	G-JH	4804
+Hope, Ruth              	St Louis Park (F)       	F	11	G-JV	4805
+James, Marcie           	St Louis Park (F)       	F	11	G-V	4806
+Kasper, Anna            	St Louis Park (F)       	F	9	G-JV	4807
+Kirchner, Emily         	St Louis Park (F)       	F	9	G-JV	4808
+Kjaer, Savannah         	St Louis Park (F)       	F	10	G-JV	4809
+Meredith, Alissa        	St Louis Park (F)       	F	11	G-JV	4810
+Myers, Kaia             	St Louis Park (F)       	F	8	G-V	4811
+Nathan, Julia           	St Louis Park (F)       	F	12	G-JV	4812
+Perkins, Megan          	St Louis Park (F)       	F	10	G-V	4813
+Peterson, Emma          	St Louis Park (F)       	F	9	G-JV	4814
+Prestholdt, Carissa     	St Louis Park (F)       	F	8	G-V	4815
+Ramsperger, Anna        	St Louis Park (F)       	F	8	G-JH	4816
+Ramsperger, Libby       	St Louis Park (F)       	F	9	G-JV	4817
+Reuter, Steph           	St Louis Park (F)       	F	11	G-JV	4818
+Schmelzle, Cecelia      	St Louis Park (F)       	F	9	G-V	4819
+Tyler, Altheagrace      	St Louis Park (F)       	F	9	G-JV	4820
+Williams, Grace         	St Louis Park (F)       	F	12	G-V	4821
+Amelse, Austin          	St Louis Park (M)       	M	7	B-JH	4822
+Behnken, Nick           	St Louis Park (M)       	M	12	B-JV	4823
+Benjamin, David J.      	St Louis Park (M)       	M	9	B-JV	4824
+Brown, Mitchell         	St Louis Park (M)       	M	8	B-JH	4825
+Burke, Will             	St Louis Park (M)       	M	11	B-JV	4826
+Callahan, Vincent       	St Louis Park (M)       	M	11	B-V	4827
+Charpentier, Gavin      	St Louis Park (M)       	M	9	B-V	4828
+Djerf, Patrick          	St Louis Park (M)       	M	8	B-JH	4829
+Djerf, Philip           	St Louis Park (M)       	M	10	B-JV	4830
+Dodge, Ben              	St Louis Park (M)       	M	10	B-JV	4831
+Elias, Jack             	St Louis Park (M)       	M	11	B-V	4832
+Foner, Aedan            	St Louis Park (M)       	M	12	B-JV	4833
+Foner, Emmett           	St Louis Park (M)       	M	9	B-JV	4834
+Goins, Jackson          	St Louis Park (M)       	M	10	B-JV	4835
+Guddal, Tommy           	St Louis Park (M)       	M	10	B-V	4836
+Halstead, Creston       	St Louis Park (M)       	M	9	B-JV	4837
+Halvorson, Will         	St Louis Park (M)       	M	9	B-JV	4838
+Holden, Max             	St Louis Park (M)       	M	9	B-JV	4839
+Huyck, Will             	St Louis Park (M)       	M	11	B-JV	4840
+Jensen, Tanner          	St Louis Park (M)       	M	9	B-JV	4841
+Kelly, Nolan            	St Louis Park (M)       	M	9	B-JV	4842
+Kietzmann, Will         	St Louis Park (M)       	M	7	B-JH	4843
+Klein, David            	St Louis Park (M)       	M	8	B-JH	4844
+Kraemer, John           	St Louis Park (M)       	M	10	B-JV	4845
+Miller, Joey            	St Louis Park (M)       	M	8	B-JH	4846
+Nackerud, Anders        	St Louis Park (M)       	M	11	B-JV	4847
+Olson, Ollie            	St Louis Park (M)       	M	8	B-JH	4848
+Perkins, Collin         	St Louis Park (M)       	M	10	B-JV	4849
+Peterson, Gavin D       	St Louis Park (M)       	M	12	B-JV	4850
+Phelan, Conrad          	St Louis Park (M)       	M	12	B-V	4851
+Plantz, Rakesh          	St Louis Park (M)       	M	8	B-JH	4852
+Rost, Carter            	St Louis Park (M)       	M	8	B-JH	4853
+Schmelzle, Carter       	St Louis Park (M)       	M	11	B-JV	4854
+Schwietering, Will      	St Louis Park (M)       	M	8	B-JH	4855
+Sokolowski, Jackson     	St Louis Park (M)       	M	11	B-V	4856
+Stack-Vanasse, Raymond  	St Louis Park (M)       	M	12	B-JV	4857
+Whitlow, Quinn          	St Louis Park (M)       	M	9	B-V	4858
+Willette, Jacob         	St Louis Park (M)       	M	11	B-JV	4859
+Zeigle, Carlos          	St Louis Park (M)       	M	11	B-JV	4860
+Zeigle, Leo             	St Louis Park (M)       	M	9	B-JV	4861
+Baskfield, Hannah       	St Peter (F)            	F	12	G-V	4862
+Blaschko, Mallory       	St Peter (F)            	F	12	G-V	4863
+Harbo, Ingrid           	St Peter (F)            	F	11	G-V	4864
+Helder, Alison          	St Peter (F)            	F	10	G-JV	4865
+Hussan, Salmo           	St Peter (F)            	F	9	G-V	4866
+Irvin, Alanna           	St Peter (F)            	F	8	G-JH	4867
+Lind, Izzy              	St Peter (F)            	F	8	G-V	4868
+Peterson, Emily         	St Peter (F)            	F	9	G-V	4869
+Schilling, Katie        	St Peter (F)            	F	11	G-V	4870
+Artmann, Andrew         	St Peter (M)            	M	10	B-JV	4871
+Braun, Hunter           	St Peter (M)            	M	10	B-V	4872
+Domras, Parker          	St Peter (M)            	M	7	B-JH	4873
+Eide, Ben               	St Peter (M)            	M	10	B-JV	4874
+Eide, Tom               	St Peter (M)            	M	9	B-V	4875
+Foster, Earl            	St Peter (M)            	M	11	B-V	4876
+Gurrola, Trevor         	St Peter (M)            	M	10	B-V	4877
+Lehtinen, Shawn         	St Peter (M)            	M	8	B-V	4878
+Lund, Eli               	St Peter (M)            	M	8	B-JH	4879
+More, Bailey            	St Peter (M)            	M	9	B-V	4880
+Remmert, Charlie        	St Peter (M)            	M	8	B-JH	4881
+Segler, Zach            	St Peter (M)            	M	7	B-JH	4882
+Throdahl, Logan         	St Peter (M)            	M	7	B-JH	4883
+Vacek, Cody             	St Peter (M)            	M	12	B-V	4884
+West, Shef              	Blake (M)               	M	6	B-JH	4885
+Ackerberg, Reina        	Blake (F)               	F	6	G-JH	4886

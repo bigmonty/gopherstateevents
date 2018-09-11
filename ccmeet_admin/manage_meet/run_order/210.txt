@@ -1,0 +1,244 @@
+Mpls Classic Interval 2013
+12/19/2013
+
+Running Order
+
+
+Overall Running Order
+
+B-V
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+--------------------------------------------------------------------------------------------
+1)    15309-Carlsen, Johannes  	Mpls South          	182	1:00.00		B-V	1
+2)    15180-Gordon, Stuart     	Mpls Southwest      	1	1:15.00		B-V	1
+3)    17137-Brookner, Ethan    	Mpls Washburn       	91	1:30.00		B-V	1
+4)    17158-Clifton, Andrew    	Henry               	150	1:45.00		B-V	1
+5)    15310-Casey, Eamon       	Mpls South          	184	2:00.00		B-V	1
+6)    15198-Shaheen, Sam       	Mpls Southwest      	2	2:15.00		B-V	1
+7)    14979-Bode, Cullen       	Mpls Washburn       	92	2:30.00		B-V	1
+8)    17160-Brogdon, Teagan    	Henry               	151	2:45.00		B-V	1
+9)    15311-Coady, Sam         	Mpls South          	186	3:00.00		B-V	1
+10)   15199-Sinkler, Sam       	Mpls Southwest      	3	3:15.00		B-V	1
+11)   17148-Sell, Andrew       	Mpls Washburn       	93	3:30.00		B-V	1
+12)   17163-Clifton, Joe       	Henry               	152	3:45.00		B-V	1
+13)   17176-Ellis, Oliver      	Mpls South          	203	4:00.00		B-V	1
+14)   15170-Alexander, Graeme  	Mpls Southwest      	4	4:15.00		B-V	1
+15)   14962-Lowry, Gus         	Mpls Washburn       	94	4:30.00		B-V	1
+16)   17319-Mansfield, Xavier  	Henry               	153	4:45.00		B-V	1
+17)   15318-Fargione, Tristan  	Mpls South          	206	5:00.00		B-V	1
+18)   15174-Carlson, Denny     	Mpls Southwest      	5	5:15.00		B-V	1
+19)   14969-White, Connor      	Mpls Washburn       	95	5:30.00		B-V	1
+20)   17162-Xiong, Mike        	Henry               	154	5:45.00		B-V	1
+21)   17179-Leirbach, Oscar    	Mpls South          	219	6:00.00		B-V	1
+22)   15172-Anders-MacLeod, Sor	Mpls Southwest      	6	6:15.00		B-V	1
+23)   14978-Woodward, Owen     	Mpls Washburn       	96	6:30.00		B-V	1
+24)   17230-Sonquist, Issac    	Henry               	155	6:45.00		B-V	1
+25)   15329-Nelson, Sam        	Mpls South          	226	7:00.00		B-V	1
+26)   15204-Villalta, Matthew  	Mpls Southwest      	7	7:15.00		B-V	1
+27)   17142-Donovan, Martin    	Mpls Washburn       	97	7:30.00		B-V	1
+28)   17255-Philaphandeth, Says	Henry               	156	7:45.00		B-V	1
+29)   19013-Nemeth, Andras     	Mpls South          	227	8:00.00		B-V	1
+30)   15187-Marita-Davis, Ryan 	Mpls Southwest      	8	8:15.00		B-V	1
+31)   17143-Kiehl, Thomas      	Mpls Washburn       	98	8:30.00		B-V	1
+32)   17159-Wilson, Raequan    	Henry               	157	8:45.00		B-V	1
+33)   15333-Oxford, George     	Mpls South          	231	9:00.00		B-V	1
+34)   19062-Sinkler, Adlai     	Mpls Southwest      	9	9:15.00		B-V	1
+35)   17150-Sklaney, Ben       	Mpls Washburn       	99	9:30.00		B-V	1
+36)   15335-Rudrud, Gunnar     	Mpls South          	240	9:45.00		B-V	1
+37)   15194-Rothman, Noah      	Mpls Southwest      	10	10:00.0		B-V	1
+38)   14959-Wright, Adam       	Mpls Washburn       	100	10:15.0		B-V	1
+
+G-V
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+39)   15255-Breen, Shira       	Mpls South          	178	13:15.0		G-V	1
+40)   15160-Richmond, Daisy    	Mpls Southwest      	11	13:30.0		G-V	1
+41)   14939-Anderson, Kyra     	Mpls Washburn       	111	13:45.0		G-V	1
+42)   15269-Eckstrom, Carly    	Mpls South          	201	14:00.0		G-V	1
+43)   15161-Ryden, Anna        	Mpls Southwest      	12	14:15.0		G-V	1
+44)   14930-Maynard, Olivia    	Mpls Washburn       	112	14:30.0		G-V	1
+45)   17206-Gomez, Guanani     	Mpls South          	210	14:45.0		G-V	1
+46)   17092-Gotsche, Maya      	Mpls Southwest      	13	15:00.0		G-V	1
+47)   18962-Kimbrell, Austyn   	Mpls Washburn       	113	15:15.0		G-V	1
+48)   17197-Kleven, Anna       	Mpls South          	214	15:30.0		G-V	1
+49)   17091-Counihan, Abby     	Mpls Southwest      	14	15:45.0		G-V	1
+50)   17133-Tupper, Skylar     	Mpls Washburn       	114	16:00.0		G-V	1
+51)   17198-Mulhern, Kaitlyn   	Mpls South          	224	16:15.0		G-V	1
+52)   15125-Altbaum, Alice     	Mpls Southwest      	15	16:30.0		G-V	1
+53)   14928-Manson, Eva        	Mpls Washburn       	115	16:45.0		G-V	1
+54)   17199-Neufeld, Laurel    	Mpls South          	228	17:00.0		G-V	1
+55)   15154-Michl, Marie       	Mpls Southwest      	16	17:15.0		G-V	1
+56)   14931-Peterson, Elisha   	Mpls Washburn       	116	17:30.0		G-V	1
+57)   15292-Simon, Tahlia      	Mpls South          	243	17:45.0		G-V	1
+58)   17108-Guillery, Madeleine	Mpls Southwest      	17	18:00.0		G-V	1
+59)   14929-Maves, Natalie     	Mpls Washburn       	117	18:15.0		G-V	1
+60)   15297-Strebe, Olivia     	Mpls South          	247	18:30.0		G-V	1
+61)   17109-Ryden, Marie       	Mpls Southwest      	18	18:45.0		G-V	1
+62)   17132-Tufvesson, Natalie 	Mpls Washburn       	118	19:00.0		G-V	1
+63)   15300-Turner, Laura      	Mpls South          	250	19:15.0		G-V	1
+64)   19073-Richmond, Lily     	Mpls Southwest      	19	19:30.0		G-V	1
+65)   14926-Cowdery, Charlotte 	Mpls Washburn       	119	19:45.0		G-V	1
+66)   15302-Walz, Helen        	Mpls South          	251	20:00.0		G-V	1
+67)   14937-White, Greta       	Mpls Washburn       	120	20:15.0		G-V	1
+
+B-JV
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+68)   19002-Carlsen, Patrick   	Mpls South          	183	23:15.0		B-JV	1
+69)   15193-Rokke, James       	Mpls Southwest      	21	23:30.0		B-JV	1
+70)   18950-Clemence, Aidan    	Mpls Washburn       	101	23:45.0		B-JV	1
+71)   19059-Xiong, Muja        	Henry               	158	24:00.0		B-JV	1
+72)   19003-Cavert, Johan      	Mpls South          	185	24:15.0		B-JV	1
+73)   17118-Olson, Conlon      	Mpls Southwest      	22	24:30.0		B-JV	1
+74)   18957-Strabola, Roberto  	Mpls Washburn       	102	24:45.0		B-JV	1
+75)   17161-Kester, Nick       	Henry               	159	25:00.0		B-JV	1
+76)   17170-Coady, Will        	Mpls South          	187	25:15.0		B-JV	1
+77)   17119-Kerker, William    	Mpls Southwest      	23	25:30.0		B-JV	1
+78)   18955-Peterson, Luke     	Mpls Washburn       	103	25:45.0		B-JV	1
+79)   19095-Bradley, Jezier    	Henry               	160	26:00.0		B-JV	1
+80)   17172-Craves, Avery      	Mpls South          	190	26:15.0		B-JV	1
+81)   19064-Shaw, Jonah        	Mpls Southwest      	24	26:30.0		B-JV	1
+82)   18948-Bartley-Dier, Kyle 	Mpls Washburn       	104	26:45.0		B-JV	1
+83)   17173-Cross, Duncan      	Mpls South          	191	27:00.0		B-JV	1
+84)   19088-Lopno, Will        	Mpls Southwest      	25	27:15.0		B-JV	1
+85)   18953-Marschall, Oscar   	Mpls Washburn       	105	27:30.0		B-JV	1
+86)   15313-Curle, Niklas      	Mpls South          	194	27:45.0		B-JV	1
+87)   19067-Tieleman, Will     	Mpls Southwest      	26	28:00.0		B-JV	1
+88)   18954-Peterson, Donovan  	Mpls Washburn       	106	28:15.0		B-JV	1
+89)   17174-DelCarmen, Emilio  	Mpls South          	196	28:30.0		B-JV	1
+90)   19063-Anders-Macleod, Lac	Mpls Southwest      	27	28:45.0		B-JV	1
+91)   18956-Saarinen, Henry    	Mpls Washburn       	107	29:00.0		B-JV	1
+92)   19006-Dregni, Marco      	Mpls South          	199	29:15.0		B-JV	1
+93)   17116-Ilyushev, Alex     	Mpls Southwest      	29	29:30.0		B-JV	1
+94)   18951-Hutt, Stuart       	Mpls Washburn       	108	29:45.0		B-JV	1
+95)   15314-Dannaher, Noah     	Mpls South          	204	30:00.0		B-JV	1
+96)   15201-Ulring, Adam       	Mpls Southwest      	39	30:15.0		B-JV	1
+97)   18952-Markworth, Elijah  	Mpls Washburn       	109	30:30.0		B-JV	1
+98)   19009-Jamison, Miles     	Mpls South          	213	30:45.0		B-JV	1
+99)   17120-Schwartzberg, Levi 	Mpls Southwest      	48	31:00.0		B-JV	1
+100)  18949-Braaten, Jacob     	Mpls Washburn       	110	31:15.0		B-JV	1
+101)  17181-Maret, Sam         	Mpls South          	222	31:30.0		B-JV	1
+102)  18958-Tellez, Carlos     	Mpls Washburn       	136	31:45.0		B-JV	1
+103)  19012-McManus, Max       	Mpls South          	223	32:00.0		B-JV	1
+104)  17138-Burns, MacKenzie   	Mpls Washburn       	137	32:15.0		B-JV	1
+105)  19014-Peterson, Kirby    	Mpls South          	234	32:30.0		B-JV	1
+106)  15334-Riggins, Jack      	Mpls South          	238	32:45.0		B-JV	1
+107)  19016-Scofield, Will     	Mpls South          	242	33:00.0		B-JV	1
+108)  15338-Thomegreene, Tyler 	Mpls South          	249	33:15.0		B-JV	1
+109)  19018-Werth, Danya       	Mpls South          	254	33:30.0		B-JV	1
+110)  17184-Willette, Louie    	Mpls South          	255	33:45.0		B-JV	1
+
+G-JV
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+111)  15252-Barnhill, Emily    	Mpls South          	174	36:45.0		G-JV	1
+112)  19080-Bunce, Elizabeth   	Mpls Southwest      	30	37:00.0		G-JV	1
+113)  14925-Colbert, Ellie     	Mpls Washburn       	121	37:15.0		G-JV	1
+114)  17164-Philaphandeth, Sele	Henry               	164	37:30.0		G-JV	1
+115)  19029-Breen, tova        	Mpls South          	179	37:45.0		G-JV	1
+116)  19081-Thompson, Arianna  	Mpls Southwest      	31	38:00.0		G-JV	1
+117)  17126-Duda, Gloria       	Mpls Washburn       	122	38:15.0		G-JV	1
+118)  17254-Moua, Madona       	Henry               	165	38:30.0		G-JV	1
+119)  15346-Briton, Hollis     	Mpls South          	180	38:45.0		G-JV	1
+120)  17104-Johnson, Lenna     	Mpls Southwest      	32	39:00.0		G-JV	1
+121)  14927-Gordon, Hannah     	Mpls Washburn       	123	39:15.0		G-JV	1
+122)  19060-Henne, Anja        	Henry               	166	39:30.0		G-JV	1
+123)  17191-Coultrip, Chloe    	Mpls South          	189	39:45.0		G-JV	1
+124)  17103-Hall, Coya         	Mpls Southwest      	33	40:00.0		G-JV	1
+125)  14942-Perpich, Mary      	Mpls Washburn       	124	40:15.0		G-JV	1
+126)  17165-Cooper, Tori       	Henry               	167	40:30.0		G-JV	1
+127)  15261-Cullison, Clio     	Mpls South          	192	40:45.0		G-JV	1
+128)  17099-Bielinski, Laurel  	Mpls Southwest      	34	41:00.0		G-JV	1
+129)  18964-Miller, Maren      	Mpls Washburn       	125	41:15.0		G-JV	1
+130)  17192-Donovan, Brigie    	Mpls South          	198	41:30.0		G-JV	1
+131)  15149-Mackin, Andrea     	Mpls Southwest      	35	41:45.0		G-JV	1
+132)  18963-Lindemann, Gianna  	Mpls Washburn       	126	42:00.0		G-JV	1
+133)  19039-Earthman, Bronwyn  	Mpls South          	200	42:15.0		G-JV	1
+134)  15136-Engel, Olivia      	Mpls Southwest      	36	42:30.0		G-JV	1
+135)  17134-Woodward, Isabel   	Mpls Washburn       	127	42:45.0		G-JV	1
+136)  17194-Eisenbeis, Phoebe  	Mpls South          	202	43:00.0		G-JV	1
+137)  17093-Green, Emily       	Mpls Southwest      	37	43:15.0		G-JV	1
+138)  18965-Nelson-Bonneville, 	Mpls Washburn       	128	43:30.0		G-JV	1
+139)  17196-Fortier, Meagan    	Mpls South          	205	43:45.0		G-JV	1
+140)  15142-Grace, Mary        	Mpls Southwest      	38	44:00.0		G-JV	1
+141)  18966-Peterson, Ella     	Mpls Washburn       	129	44:15.0		G-JV	1
+142)  15273-Frober, Makaia     	Mpls South          	208	44:30.0		G-JV	1
+143)  19091-Guillery, Tatar    	Mpls Southwest      	77	44:45.0		G-JV	1
+144)  19040-Froehle-Baker, Adia	Mpls South          	209	45:00.0		G-JV	1
+145)  15279-Krasky, Becca      	Mpls South          	215	45:15.0		G-JV	1
+146)  15280-Larson, Emma       	Mpls South          	217	45:30.0		G-JV	1
+147)  19042-Larson, Grace      	Mpls South          	218	45:45.0		G-JV	1
+148)  15281-Leys, Rebecca      	Mpls South          	220	46:00.0		G-JV	1
+149)  15283-Meyers, Annika     	Mpls South          	225	46:15.0		G-JV	1
+150)  17200-O Laughlin, Maya   	Mpls South          	230	46:30.0		G-JV	1
+151)  17201-Roedl, Kendra      	Mpls South          	239	46:45.0		G-JV	1
+152)  15293-Sjodin, Julia      	Mpls South          	244	47:00.0		G-JV	1
+153)  15296-Strand, Eleanor    	Mpls South          	245	47:15.0		G-JV	1
+154)  17203-Welch, Addie       	Mpls South          	253	47:30.0		G-JV	1
+155)  15259-Colwell, Cassie    	Mpls South          	256	47:45.0		G-JV	1
+
+B-NOV
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+156)  19004-Cunningham, Ivan   	Mpls South          	193	50:45.0		B-NOV	1
+157)  17231-Khang, Chong       	Henry               	161	50:45.0		B-NOV	1
+158)  19001-Bergman, Ezra      	Mpls South          	175	50:45.0		B-NOV	1
+159)  17114-Fry, Peter         	Mpls Southwest      	51	50:45.0		B-NOV	1
+160)  19072-Rochelle-Share, Ela	Mpls Southwest      	28	50:45.0		B-NOV	1
+161)  19086-Fanner, Alex       	Mpls Southwest      	52	51:00.0		B-NOV	1
+162)  19112-doyle, Joey        	Mpls Southwest      	53	51:00.0		B-NOV	1
+163)  19005-Dabala, Seefan     	Mpls South          	195	51:00.0		B-NOV	1
+164)  19007-Frauenheim Danke, S	Mpls South          	207	51:00.0		B-NOV	1
+165)  19008-Henderson, Simon   	Mpls South          	212	51:00.0		B-NOV	1
+166)  19010-Kristensen, Rasmus 	Mpls South          	216	51:15.0		B-NOV	1
+167)  19011-Makila, Finn       	Mpls South          	221	51:15.0		B-NOV	1
+168)  19087-Johnson, Charlie   	Mpls Southwest      	54	51:15.0		B-NOV	1
+169)  19085-Damm, Teddy        	Mpls Southwest      	56	51:15.0		B-NOV	1
+170)  19065-Patel, Avinash     	Mpls Southwest      	55	51:15.0		B-NOV	1
+171)  19069-Nistler, Noah      	Mpls Southwest      	59	51:30.0		B-NOV	1
+172)  19068-Durrett, Will      	Mpls Southwest      	57	51:30.0		B-NOV	1
+173)  19113-Mcfalls , Klass    	Mpls Southwest      	58	51:30.0		B-NOV	1
+174)  19015-Phiravanh, Tommy   	Mpls South          	235	51:30.0		B-NOV	1
+175)  19017-Swope, Izak        	Mpls South          	248	51:30.0		B-NOV	1
+176)  19066-Smith, Owen        	Mpls Southwest      	60	51:45.0		B-NOV	1
+177)  19070-Stovitz, Sam       	Mpls Southwest      	61	51:45.0		B-NOV	1
+
+G-NOV
+NO.   RSTR-NAME                	TEAM                	BIB	START		RACE	GATE
+-------------------------------------------------------------------------------------------
+178)  15133-Cournoyer, Rachel  	Mpls Southwest      	62	54:45.0		G-NOV	1
+179)  19075-Leith Lodge, Annika	Mpls Southwest      	63	54:45.0		G-NOV	1
+180)  19025-Anderson, Holly    	Mpls South          	171	54:45.0		G-NOV	1
+181)  19045-Odumuye, Tosin     	Mpls South          	0	54:45.0		G-NOV	1
+182)  18960-Carroll, Isabella  	Mpls Washburn       	130	54:45.0		G-NOV	1
+183)  18968-Schroeder, Annabell	Mpls Washburn       	131	55:00.0		G-NOV	1
+184)  18959-Bias, Samantha     	Mpls Washburn       	132	55:00.0		G-NOV	1
+185)  19026-Barnett-Cashman, Ce	Mpls South          	173	55:00.0		G-NOV	1
+186)  19028-Berlovitz, Marie   	Mpls South          	176	55:00.0		G-NOV	1
+187)  15168-Taylor, Madeline   	Mpls Southwest      	64	55:00.0		G-NOV	1
+188)  19083-Dusek, Natalie l   	Mpls Southwest      	65	55:15.0		G-NOV	1
+189)  17096-Falk, Allison      	Mpls Southwest      	66	55:15.0		G-NOV	1
+190)  19032-Cagemoe, Ciara     	Mpls South          	181	55:15.0		G-NOV	1
+191)  19101-Hauver, Ellie      	Mpls Washburn       	133	55:15.0		G-NOV	1
+192)  18967-Polacek, Anna      	Mpls Washburn       	134	55:15.0		G-NOV	1
+193)  18961-Helper, Leeza      	Mpls Washburn       	135	55:30.0		G-NOV	1
+194)  19047-Paulin, Soraya     	Mpls South          	232	55:30.0		G-NOV	1
+195)  19037-Demgen, Margaret   	Mpls South          	197	55:30.0		G-NOV	1
+196)  17101-Edinburgh, Sarah   	Mpls Southwest      	68	55:30.0		G-NOV	1
+197)  17097-Bart, Ellen        	Mpls Southwest      	67	55:30.0		G-NOV	1
+198)  17106-Shapiro, Sarah     	Mpls Southwest      	70	55:45.0		G-NOV	1
+199)  17313-Maras, Julia       	Mpls Southwest      	69	55:45.0		G-NOV	1
+200)  19049-Poehlman, Paulina  	Mpls South          	236	55:45.0		G-NOV	1
+201)  19051-Riah, Aida         	Mpls South          	237	55:45.0		G-NOV	1
+202)  19052-Schauff, Maggie    	Mpls South          	241	55:45.0		G-NOV	1
+203)  19053-Strebe, Isabel     	Mpls South          	246	56:00.0		G-NOV	1
+204)  17107-Staeger, Colleen   	Mpls Southwest      	71	56:00.0		G-NOV	1
+205)  19093-Voltz, Susie       	Mpls Southwest      	73	56:00.0		G-NOV	1
+206)  19079-Dwyer, Sophia      	Mpls Southwest      	72	56:00.0		G-NOV	1
+207)  19077-Chihak, Bea        	Mpls Southwest      	74	56:00.0		G-NOV	1
+208)  19092-Cournoyer, Leah    	Mpls Southwest      	79	56:15.0		G-NOV	1
+209)  19082-Goodman, Petie     	Mpls Southwest      	80	56:15.0		G-NOV	1
+210)  19084-King, Jamie        	Mpls Southwest      	75	56:15.0		G-NOV	1
+211)  19078-Slekhovtsova, Nicol	Mpls Southwest      	76	56:15.0		G-NOV	1
+212)  19074-Ryden, Nicole      	Mpls Southwest      	78	56:15.0		G-NOV	1
+213)  17110-Schwartzberg, Lilly	Mpls Southwest      	81	56:30.0		G-NOV	1

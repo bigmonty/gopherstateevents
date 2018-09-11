@@ -1,0 +1,478 @@
+BIB LIST FOR LAKE CONF SKATE 2-2012
+Generated: 1/12/2012 5:01:52 AM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Zurn, Henry             	Eden Prairie (M)        	M	11	B-V	101
+Vergeront, Joseph       	Eden Prairie (M)        	M	12	B-V	102
+Bye, Thomas             	Eden Prairie (M)        	M	11	B-V	103
+Stewart, Ryan           	Eden Prairie (M)        	M	11	B-V	104
+Roudabush, Nick         	Eden Prairie (M)        	M	11	B-V	105
+Hansen, Andrew          	Eden Prairie (M)        	M	12	B-V	106
+Stenoien, Mitchell      	Eden Prairie (M)        	M	11	B-V	107
+Holdahl, Ethan          	Eden Prairie (M)        	M	12	B-V	108
+Teynor, Nathan          	Eden Prairie (M)        	M	12	B-V	109
+Grootwassink, Jared     	Eden Prairie (M)        	M	11	B-V	110
+Konkel, Mitchell        	Eden Prairie (M)        	M	12	B-V	111
+Olawsky, Evan           	Eden Prairie (M)        	M	12	B-V	112
+Etteldorf, Andrew       	Eden Prairie (M)        	M	11	B-V	113
+Fisher, Andrew          	Eden Prairie (M)        	M	10	B-V	114
+Drach, Spencer          	Eden Prairie (M)        	M	11	B-JVS	115
+Holtan, Quin            	Eden Prairie (M)        	M	11	B-JVS	116
+Howe, Jonathan          	Eden Prairie (M)        	M	11	B-JVS	117
+Lattimore, Benjamin     	Eden Prairie (M)        	M	11	B-JVS	119
+Jenderko, Nicholas      	Eden Prairie (M)        	M	10	B-JVS	120
+Savereide, Erik         	Eden Prairie (M)        	M	10	B-JVS	121
+Nelson, John            	Eden Prairie (M)        	M	11	B-JVS	122
+Nermyr, Charles         	Eden Prairie (M)        	M	11	B-JVS	123
+Peters, Zachary         	Eden Prairie (M)        	M	10	B-JVS	124
+Pettit, Jake            	Eden Prairie (M)        	M	9	B-JVS	125
+Rudin, Mason            	Eden Prairie (M)        	M	10	B-JVS	126
+McDowall, Miles         	Eden Prairie (M)        	M	10	B-JVS	127
+Huschke, Daniel         	Eden Prairie (M)        	M	9	B-JVS	128
+Russell, Marcus         	Eden Prairie (M)        	M	9	B-JVS	129
+Korus, Daniel           	Eden Prairie (M)        	M	9	B-JVS	130
+Christensen, Will       	Eden Prairie (M)        	M	9	B-JVS	131
+Cavello, Christian      	Eden Prairie (M)        	M	10	B-JVS	132
+Ramsburg, James         	Eden Prairie (M)        	M	10	B-JVS	133
+Rios de Leon, Andy      	Eden Prairie (M)        	M	10	B-JVS	134
+Jay, Josh               	Eden Prairie (M)        	M	9	B-JVS	135
+Krause, Tim             	Eden Prairie (M)        	M	9	B-JVS	136
+Gardner, Mitch          	Eden Prairie (M)        	M	9	B-JVS	137
+Simons, Grant           	Eden Prairie (M)        	M	9	B-JVS	138
+Fritz, Derek            	Eden Prairie (M)        	M	9	B-JVS	139
+Derks, Nathan           	Eden Prairie (M)        	M	9	B-JVS	140
+Karnowski, Braxton      	Eden Prairie (M)        	M	11	B-JVS	141
+Hoelz, Julian           	Eden Prairie (M)        	M	12	B-JVS	142
+Bachour, Salam          	Eden Prairie (M)        	M	11	B-JVS	143
+Trom, Teal              	Eden Prairie (M)        	M	11	B-JVS	144
+Hallowell, Matthew      	Eden Prairie (M)        	M	10	B-JVS	145
+Fazio, Jake             	Eden Prairie (M)        	M	9	B-JVS	146
+Heck, Kesh              	Eden Prairie (M)        	M	9	B-JVS	147
+Olawsky, Alex           	Eden Prairie (M)        	M	9	B-JVS	148
+Huffman, Billy          	Eden Prairie (M)        	M	9	B-JVS	149
+Hoeschen, Andrew        	Eden Prairie (M)        	M	11	B-JVS	150
+Young, Konrad           	Eden Prairie (M)        	M	9	B-JVS	151
+Hildahl, Hailey         	Eden Prairie (F)        	F	12	G-V	201
+Schaepe, Elizabeth      	Eden Prairie (F)        	F	12	G-V	202
+Stewart, Eryn           	Eden Prairie (F)        	F	10	G-V	203
+Huschke, Adrienne       	Eden Prairie (F)        	F	12	G-V	204
+Witte, Cayla            	Eden Prairie (F)        	F	12	G-V	205
+Arvidson, Jenna         	Eden Prairie (F)        	F	11	G-V	206
+Paulsen, Briana         	Eden Prairie (F)        	F	10	G-V	207
+Hoch, Hanna             	Eden Prairie (F)        	F	12	G-V	208
+Schulz, Carlin          	Eden Prairie (F)        	F	12	G-V	209
+Gardner, Erica          	Eden Prairie (F)        	F	11	G-V	210
+Berman, Melissa         	Eden Prairie (F)        	F	11	G-V	211
+Tauer, Andria           	Eden Prairie (F)        	F	12	G-V	212
+Mueller, Caroline       	Eden Prairie (F)        	F	11	G-V	213
+Martens, Allison        	Eden Prairie (F)        	F	12	G-V	214
+Hanson, Madison         	Eden Prairie (F)        	F	10	G-JVS	215
+Rouse, Grace            	Eden Prairie (F)        	F	10	G-JVS	216
+Johnson, Sarah          	Eden Prairie (F)        	F	11	G-JVS	217
+Bjerkness, Annika       	Eden Prairie (F)        	F	12	G-JVS	218
+Bausch, Lydia           	Eden Prairie (F)        	F	11	G-JVS	219
+Colford, Greta          	Eden Prairie (F)        	F	10	G-JVS	220
+Sligh, Madison          	Eden Prairie (F)        	F	11	G-JVS	221
+Vergeront, Katie        	Eden Prairie (F)        	F	10	G-JVS	222
+Joe, Tammy              	Eden Prairie (F)        	F	10	G-JVS	223
+Dengel, Olivia          	Eden Prairie (F)        	F	10	G-JVS	224
+Birkle, Elise           	Eden Prairie (F)        	F	9	G-JVS	225
+Drach, Abigail          	Eden Prairie (F)        	F	9	G-JVS	226
+Platt, Brittany         	Eden Prairie (F)        	F	11	G-JVS	227
+Manicor, Ashley         	Eden Prairie (F)        	F	10	G-JVS	228
+Madison, Maria          	Eden Prairie (F)        	F	10	G-JVS	230
+Gibson, Deanna          	Eden Prairie (F)        	F	12	G-JVS	231
+Best, Rachel            	Eden Prairie (F)        	F	11	G-JVS	232
+Reese, Katherine        	Eden Prairie (F)        	F	11	G-JVS	233
+Zurn, Claire            	Eden Prairie (F)        	F	9	G-JVS	234
+Nelson, Rachel          	Eden Prairie (F)        	F	9	G-JVS	235
+Vollmer, Katie          	Eden Prairie (F)        	F	9	G-JVS	236
+Schnirring, Sam         	Eden Prairie (F)        	F	9	G-JVS	237
+Batchlor, Micayla       	Eden Prairie (F)        	F	9	G-JVS	238
+Stolz, Katherine        	Eden Prairie (F)        	F	11	G-JVS	239
+Kronlokken, Anne        	Eden Prairie (F)        	F	10	G-JVS	240
+Colford, Heidi          	Eden Prairie (F)        	F	10	G-JVS	241
+Urbanski, Olivia        	Eden Prairie (F)        	F	10	G-JVS	242
+Schulz, Natalie         	Eden Prairie (F)        	F	10	G-JVS	243
+Keenan, Megan           	Eden Prairie (F)        	F	11	G-JVS	244
+Hanson, Lilly           	Eden Prairie (F)        	F	10	G-JVS	245
+Miller, Ellie           	Eden Prairie (F)        	F	9	G-JVS	246
+Furmanski, Kayla        	Eden Prairie (F)        	F	10	G-JVS	247
+Colford, Andrea         	Eden Prairie (F)        	F	10	G-JVS	248
+Hanahoe, Erin           	Eden Prairie (F)        	F	11	G-JVS	249
+Emerson, Maria          	Eden Prairie (F)        	F	9	G-JVS	250
+Fischer, Emily          	Eden Prairie (F)        	F	9	G-JVS	251
+Johnson, Colette        	Eden Prairie (F)        	F	9	G-JVS	252
+Martens, Abby           	Eden Prairie (F)        	F	9	G-JVS	253
+Minder, Alyssa          	Eden Prairie (F)        	F	9	G-JVS	254
+Rao, Saahithi           	Eden Prairie (F)        	F	9	G-JVS	255
+Stolz, Emily            	Eden Prairie (F)        	F	9	G-JVS	256
+Olson, Jessica          	Eden Prairie (F)        	F	10	G-JVS	257
+Berntson, Matthew       	Edina (M)               	M	12	B-V	301
+Rock, Matthew           	Edina (M)               	M	12	B-V	302
+Murney, Michael         	Edina (M)               	M	12	B-V	303
+Johansen, Sever         	Edina (M)               	M	10	B-V	304
+Kikyo, Fumitaka         	Edina (M)               	M	12	B-V	305
+Gieseke, Tyler          	Edina (M)               	M	12	B-V	306
+Ellenberger., Jack      	Edina (M)               	M	12	B-V	307
+Illig, Peter            	Edina (M)               	M	10	B-V	308
+Jarvinen, Henry         	Edina (M)               	M	9	B-V	309
+Goldman, Riley          	Edina (M)               	M	11	B-V	310
+Ellenberger, David      	Edina (M)               	M	10	B-V	311
+Parady, Jonah           	Edina (M)               	M	10	B-V	312
+Schmitz, Daniel         	Edina (M)               	M	12	B-V	313
+Swiler, Jack            	Edina (M)               	M	11	B-V	314
+Anderegg, Charlie       	Edina (M)               	M	7	B-JVS	315
+Eliot, Andrew           	Edina (M)               	M	7	B-JVS	316
+Jarvinen, George        	Edina (M)               	M	7	B-JVS	317
+Hussey, Connor          	Edina (M)               	M	10	B-JVS	318
+Kuhs, Max               	Edina (M)               	M	7	B-JVS	319
+Brosius, Gabe           	Edina (M)               	M	8	B-JVS	320
+Elliot, Andrew          	Edina (M)               	M	8	B-JVS	321
+Lenarz, Joe             	Edina (M)               	M	7	B-JVS	322
+Van Dyke, Jackson       	Edina (M)               	M	9	B-JVS	323
+Loff, Andrew            	Edina (M)               	M	9	B-JVS	324
+Malone, Zach            	Edina (M)               	M	11	B-JVS	325
+Chestler, Noah          	Edina (M)               	M	10	B-JVS	326
+Sullivan, Daniel        	Edina (M)               	M	10	B-JVS	327
+Wandrei, Brian          	Edina (M)               	M	11	B-JVS	328
+Staunton, Kyle          	Edina (M)               	M	11	B-JVS	329
+Schmiel, Matthew        	Edina (M)               	M	11	B-JVS	330
+Ogren, Alexander        	Edina (M)               	M	10	B-JVS	331
+Knoll, Peter            	Edina (M)               	M	11	B-JVS	332
+Barr, Austin            	Edina (M)               	M	11	B-JVS	333
+Bonello, Max            	Edina (M)               	M	12	B-JVS	334
+Fulk, Dominic           	Edina (M)               	M	10	B-JVS	335
+Lemmer, Lucas           	Edina (M)               	M	11	B-JVS	336
+Bain, Piper             	Edina (F)               	F	12	G-V	401
+Aufderheide, Allison    	Edina (F)               	F	12	G-V	402
+Johansen, Maija         	Edina (F)               	F	12	G-V	403
+Horns, Zoe              	Edina (F)               	F	11	G-V	404
+Downey, Sarah           	Edina (F)               	F	11	G-V	405
+Rock, Elaine            	Edina (F)               	F	12	G-V	406
+Kuhs, Molly             	Edina (F)               	F	11	G-V	407
+Weicht, Patricia        	Edina (F)               	F	12	G-V	408
+Raasch, Caitlin         	Edina (F)               	F	12	G-V	409
+Savre, Erin             	Edina (F)               	F	10	G-V	410
+Peterson, Samantha      	Edina (F)               	F	10	G-V	411
+Bentley, Jessica        	Edina (F)               	F	11	G-V	413
+Connors, Micaela W      	Edina (F)               	F	12	G-V	414
+Ashbrook, Katherine     	Edina (F)               	F	7	G-JVS	415
+Bernstein, Melissa      	Edina (F)               	F	7	G-JVS	416
+Crosby, Sophia          	Edina (F)               	F	7	G-JVS	417
+Gratzek, Chloe          	Edina (F)               	F	8	G-JVS	418
+Hage, Anna              	Edina (F)               	F	7	G-JVS	419
+Hinrichs, Regan         	Edina (F)               	F	8	G-JVS	420
+Huepenbecker, Laura     	Edina (F)               	F	9	G-JVS	421
+Jackson, Patricia       	Edina (F)               	F	8	G-JVS	422
+Jessen, Kelly           	Edina (F)               	F	8	G-JVS	423
+Kemp, Lindsey           	Edina (F)               	F	8	G-JVS	424
+Gage, Greta             	Edina (F)               	F	11	G-JVS	425
+Lindberg, Ella          	Edina (F)               	F	9	G-JVS	426
+LaLuzerne, Elizabeth    	Edina (F)               	F	10	G-JVS	427
+Ling, Clare             	Edina (F)               	F	10	G-JVS	428
+Loeffelholz, Bridgit    	Edina (F)               	F	10	G-JVS	429
+Klos, Emily             	Edina (F)               	F	7	G-JVS	430
+Morris, Kathryn         	Edina (F)               	F	11	G-JVS	431
+Oconnell, Kitty         	Edina (F)               	F	8	G-JVS	432
+McKlveen, Charlotte     	Edina (F)               	F	9	G-JVS	433
+Rock, Pixie             	Edina (F)               	F	9	G-JVS	434
+Scattergood, Stephanie  	Edina (F)               	F	12	G-JVS	435
+Schmitz, Abbey          	Edina (F)               	F	10	G-JVS	436
+Wilmert, Talia          	Edina (F)               	F	8	G-JVS	437
+Little, Claire          	Edina (F)               	F	11	G-JVS	438
+Steffen, Sarah          	Edina (F)               	F	12	G-JVS	439
+Walker, Sunita          	Edina (F)               	F	9	G-JVS	440
+Anderegg, Genevieve     	Edina (F)               	F	9	G-JVS	441
+Bowlin, Hannah          	Edina (F)               	F	11	G-JVS	442
+Adkins, Samantha        	Edina (F)               	F	10	G-JVS	443
+Bowlin, Alayna          	Edina (F)               	F	8	G-JVS	444
+Dryden, Hanna           	Edina (F)               	F	9	G-JVS	445
+Dirnberger, Harris      	Hopkins (M)             	M	11	B-V	501
+Taylor, Jordan          	Hopkins (M)             	M	12	B-V	502
+Ellingson, Jakob        	Hopkins (M)             	M	11	B-V	503
+Leach, Bjorn            	Hopkins (M)             	M	11	B-V	504
+Lavanger, Matthew       	Hopkins (M)             	M	10	B-V	505
+Narum, John             	Hopkins (M)             	M	12	B-V	506
+Blaser, Aaron           	Hopkins (M)             	M	12	B-V	507
+Jones, Will             	Hopkins (M)             	M	12	B-V	508
+Arneson, Sam            	Hopkins (M)             	M	11	B-V	509
+Chizek, William         	Hopkins (M)             	M	11	B-V	510
+Taylor, Trey            	Hopkins (M)             	M	9	B-V	511
+Snyder, Mark            	Hopkins (M)             	M	10	B-V	512
+Lidstone, Kyle          	Hopkins (M)             	M	12	B-V	513
+L'Heureux, Marc         	Hopkins (M)             	M	11	B-V	514
+Heimlich, Wyatt         	Hopkins (M)             	M	10	B-JVS	515
+Klecker, Joe            	Hopkins (M)             	M	9	B-JVS	516
+Marshall, Sam           	Hopkins (M)             	M	9	B-JVS	517
+Teawalt, Matt           	Hopkins (M)             	M	12	B-JVS	518
+Van Lierop, Leif        	Hopkins (M)             	M	9	B-JVS	519
+Vander Velden, Nicklaus 	Hopkins (M)             	M	10	B-JVS	520
+Mitchell, Edward        	Hopkins (M)             	M	12	B-JVS	521
+Ahlquist, Hunter        	Hopkins (M)             	M	9	B-JVS	522
+Martin, John (Jack)     	Hopkins (M)             	M	9	B-JVS	523
+Maag, Eirk              	Hopkins (M)             	M	11	B-JVS	524
+Cleary, Dylan           	Hopkins (M)             	M	9	B-JVS	525
+Homan, Jay              	Hopkins (M)             	M	12	B-JVS	526
+Krelitz, Benjamin       	Hopkins (M)             	M	9	B-JVS	527
+Palkert, Robert         	Hopkins (M)             	M	8	B-JVS	529
+Dewitz, Alec            	Hopkins (M)             	M	11	B-JVS	530
+Nelson, Brett           	Hopkins (M)             	M	9	B-JVS	531
+Hall, Andrew            	Hopkins (M)             	M	12	B-JVS	532
+Makey, Kyle             	Hopkins (M)             	M	9	B-JVS	533
+Johnson, Jasper         	Hopkins (M)             	M	10	B-JVS	534
+Youakim, Gannon         	Hopkins (M)             	M	9	B-JVS	535
+Johnson, Haydn          	Hopkins (M)             	M	9	B-JVS	536
+Nelson, Erik            	Hopkins (M)             	M	8	B-JVS	537
+Parker, Ben             	Hopkins (M)             	M	11	B-JVS	538
+Sheldon, Zachary        	Hopkins (M)             	M	8	B-JVS	539
+Mitchell, Robert        	Hopkins (M)             	M	9	B-JVS	540
+Peterson, Simon         	Hopkins (M)             	M	8	B-JVS	541
+Hoffman, Alexander      	Hopkins (M)             	M	7	B-JVS	542
+Skoglund-Anderson, Stenn	Hopkins (M)             	M	10	B-JVS	543
+Bolstad, Morgan         	Hopkins (M)             	M	11	B-JVS	544
+Parker, Jacob           	Hopkins (M)             	M	7	B-JVS	545
+Matson, Jason           	Hopkins (M)             	M	9	B-JVS	546
+Clague, Sam             	Hopkins (M)             	M	7	B-JVS	547
+Benton, Sarah           	Hopkins (F)             	F	11	G-V	601
+Ellingson, Siena        	Hopkins (F)             	F	9	G-V	602
+Lavanger, Julia         	Hopkins (F)             	F	12	G-V	603
+Heiberg, Kaelynn        	Hopkins (F)             	F	10	G-V	604
+Lidstone, Kim           	Hopkins (F)             	F	12	G-V	605
+Benton, Claire          	Hopkins (F)             	F	8	G-V	606
+Hinck, Madeline         	Hopkins (F)             	F	11	G-V	607
+Olson, Jennifer         	Hopkins (F)             	F	9	G-V	608
+Craemer, Katherine      	Hopkins (F)             	F	9	G-V	609
+Berntsen, Ingrid        	Hopkins (F)             	F	12	G-V	610
+Johnson, Madeline       	Hopkins (F)             	F	11	G-V	611
+Mechache, Miriam Mimi   	Hopkins (F)             	F	12	G-V	612
+Gorlin, Rebecca         	Hopkins (F)             	F	11	G-V	613
+Anderson, Renae         	Hopkins (F)             	F	7	G-V	614
+Matson, Eleanor         	Hopkins (F)             	F	9	G-JVS	615
+Burnett, Emma           	Hopkins (F)             	F	9	G-JVS	616
+Krietzman, Roxy         	Hopkins (F)             	F	10	G-JVS	617
+Marti, Claire           	Hopkins (F)             	F	9	G-JVS	618
+Miller, Luciana         	Hopkins (F)             	F	7	G-JVS	619
+Pederson, Maria         	Hopkins (F)             	F	8	G-JVS	620
+Caouette, Emily         	Hopkins (F)             	F	11	G-JVS	621
+Dunnewind, Jordan       	Hopkins (F)             	F	9	G-JVS	622
+Ruthenbeck, Elyse       	Hopkins (F)             	F	7	G-JVS	623
+Torrison, Jessica       	Hopkins (F)             	F	7	G-JVS	624
+Bauer, Molly            	Hopkins (F)             	F	8	G-JVS	625
+VanderVelden, Christina 	Hopkins (F)             	F	8	G-JVS	626
+Douglass, Chance        	Hopkins (F)             	F	7	G-JVS	627
+Bach, Anika             	Hopkins (F)             	F	10	G-JVS	629
+Farhat, Bri             	Hopkins (F)             	F	8	G-JVS	630
+Novak, Lynsey           	Hopkins (F)             	F	8	G-JVS	631
+Biehlmann, Cybill       	Hopkins (F)             	F	8	G-JVS	632
+O'Meara, Maeve          	Hopkins (F)             	F	7	G-JVS	633
+Dirnberger, Sophie      	Hopkins (F)             	F	7	G-JVS	634
+Poppie, Lauren          	Hopkins (F)             	F	11	G-JVS	635
+Bennett, Bridget        	Hopkins (F)             	F	12	G-JVS	636
+Ries, Alexander         	Hopkins (F)             	F	8	G-JVS	637
+Krietzman, Ruby         	Hopkins (F)             	F	8	G-JVS	639
+Cich, Anna              	Hopkins (F)             	F	12	G-JVS	640
+Hvass, Olivia           	Hopkins (F)             	F	12	G-JVS	641
+Voydetich, Amanda       	Hopkins (F)             	F	12	G-JVS	643
+Clay, Lindsay           	Hopkins (F)             	F	9	G-JVS	644
+Klecker, Elizabeth      	Hopkins (F)             	F	7	G-JVS	645
+Alquist, Anne           	Hopkins (F)             	F	7	G-JVS	646
+Youakim, Maddie         	Hopkins (F)             	F	11	G-JVS	647
+Giesting, Anna          	Hopkins (F)             	F	7	G-JVS	648
+Maeder, Linette         	Hopkins (F)             	F	12	G-JVS	649
+Magaard, Kirsten        	Hopkins (F)             	F	7	G-JVS	650
+Goldberg, Zach          	Minnetonka (M)          	M	12	B-V	701
+Speca, Marcus           	Minnetonka (M)          	M	12	B-V	702
+Hagberg, Julian         	Minnetonka (M)          	M	12	B-V	703
+Touhey, Colin           	Minnetonka (M)          	M	10	B-V	704
+Anderson, Kyle          	Minnetonka (M)          	M	12	B-V	705
+Hager, Matt             	Minnetonka (M)          	M	11	B-V	706
+Nemitz, Aaron           	Minnetonka (M)          	M	11	B-V	707
+Celleri, Ricardo        	Minnetonka (M)          	M	12	B-V	708
+Sebold, James           	Minnetonka (M)          	M	10	B-V	709
+Halbmaier, Casey        	Minnetonka (M)          	M	11	B-V	710
+Croskey, John           	Minnetonka (M)          	M	10	B-V	711
+Atwood, Chris           	Minnetonka (M)          	M	10	B-V	712
+Stempel, Jens           	Minnetonka (M)          	M	11	B-V	713
+Ryan, Ethan             	Minnetonka (M)          	M	11	B-V	714
+Lerhal, Sondre          	Minnetonka (M)          	M	12	B-JVS	720
+Janssen, Nate           	Minnetonka (M)          	M	12	B-JVS	721
+Green, Ramsey           	Minnetonka (M)          	M	11	B-JVS	722
+Horst, Justin           	Minnetonka (M)          	M	10	B-JVS	723
+Nelson, Riley           	Minnetonka (M)          	M	11	B-JVS	724
+Ahrenholtz, Chip        	Minnetonka (M)          	M	10	B-JVS	725
+Lindberg, Cal           	Minnetonka (M)          	M	9	B-JVS	726
+Johnson, Hunter         	Minnetonka (M)          	M	9	B-JVS	727
+Sibley, Andrew          	Minnetonka (M)          	M	9	B-JVS	728
+Ott, Josh               	Minnetonka (M)          	M	10	B-JVS	729
+Schwebach, Andrew       	Minnetonka (M)          	M	11	B-JVS	730
+Nelson, Jem             	Minnetonka (M)          	M	12	B-JVS	731
+McElhinny, Alec         	Minnetonka (M)          	M	9	B-JVS	732
+Land, Micah             	Minnetonka (M)          	M	9	B-JVS	733
+Weise, Ry               	Minnetonka (M)          	M	9	B-JVS	734
+Rajala, Noah            	Minnetonka (M)          	M	9	B-JVS	735
+Thiss, Cullen           	Minnetonka (M)          	M	11	B-JVS	736
+Rose, Andrew            	Minnetonka (M)          	M	10	B-JVS	737
+Bishop, Eric            	Minnetonka (M)          	M	10	B-JVS	738
+Crane, Avery            	Minnetonka (M)          	M	9	B-JVS	739
+Biber, Josh             	Minnetonka (M)          	M	12	B-JVS	740
+Nyberg, Anders          	Minnetonka (M)          	M	9	B-JVS	741
+Ryan, Grant             	Minnetonka (M)          	M	9	B-JVS	742
+Wallace, Zac            	Minnetonka (M)          	M	10	B-JVS	743
+Smith, Cole             	Minnetonka (M)          	M	11	B-JVS	744
+Hagerman, Holden        	Minnetonka (M)          	M	9	B-JVS	745
+Pletsch, Corey z        	Minnetonka (M)          	M	12	B-JVS	746
+DelMain, Liam           	Minnetonka (M)          	M	8	B-JVS	747
+Haakenstad, Anne        	Minnetonka (F)          	F	11	G-V	801
+Johnson, Alissa         	Minnetonka (F)          	F	11	G-V	802
+McGoldrick, Caitlin     	Minnetonka (F)          	F	11	G-V	803
+Hansen, Taylor          	Minnetonka (F)          	F	12	G-V	804
+Jewett, Hayley          	Minnetonka (F)          	F	12	G-V	805
+Smith, Courtney         	Minnetonka (F)          	F	11	G-V	806
+Kapsner, Libby          	Minnetonka (F)          	F	11	G-V	807
+Hendrickson, Kristen    	Minnetonka (F)          	F	11	G-V	808
+Dahlin, Emma            	Minnetonka (F)          	F	11	G-V	809
+Hoffmeister, Elisa      	Minnetonka (F)          	F	10	G-V	810
+O'Connor, Maddie        	Minnetonka (F)          	F	10	G-V	811
+McGoldrick, Valerie     	Minnetonka (F)          	F	9	G-V	812
+Nesbitt, Meredith       	Minnetonka (F)          	F	9	G-V	813
+Janssen, Meghan         	Minnetonka (F)          	F	9	G-V	814
+Hanzlik, Deneen         	Minnetonka (F)          	F	9	G-JVS	820
+Klaysmat, Madeline      	Minnetonka (F)          	F	9	G-JVS	822
+Erickson, Paige         	Minnetonka (F)          	F	10	G-JVS	823
+Thiss, Britni           	Minnetonka (F)          	F	9	G-JVS	824
+Klaysmat, Kori          	Minnetonka (F)          	F	11	G-JVS	825
+Hansen, Amalie          	Minnetonka (F)          	F	10	G-JVS	826
+Thorson, Marissa        	Minnetonka (F)          	F	12	G-JVS	827
+Goldberg, Ali           	Minnetonka (F)          	F	9	G-JVS	829
+Beitel, Heather         	Minnetonka (F)          	F	9	G-JVS	831
+Griggs, Madelyn         	Minnetonka (F)          	F	9	G-JVS	832
+Nelson, Amy             	Minnetonka (F)          	F	9	G-JVS	833
+Kornahrens, John        	Wayzata (M)             	M	12	B-V	901
+Peterson, Derek         	Wayzata (M)             	M	11	B-V	902
+Andrews, Ellis          	Wayzata (M)             	M	12	B-V	903
+Johnson, Kristian J     	Wayzata (M)             	M	10	B-V	904
+Blankenship, Carter     	Wayzata (M)             	M	9	B-V	905
+Kabarowski, Jason       	Wayzata (M)             	M	11	B-V	906
+Meyer, Joe              	Wayzata (M)             	M	10	B-V	907
+Baeumler, Nathaniel     	Wayzata (M)             	M	12	B-V	908
+Quirk, Andrew           	Wayzata (M)             	M	9	B-V	909
+Phyle, Daniel           	Wayzata (M)             	M	11	B-V	910
+Millan, Michael         	Wayzata (M)             	M	11	B-V	911
+Sund, Gunnar            	Wayzata (M)             	M	12	B-V	912
+Smith, Clayton          	Wayzata (M)             	M	9	B-V	913
+Alviani, Kyle           	Wayzata (M)             	M	11	B-V	914
+Grossen, Jack           	Wayzata (M)             	M	8	B-JVS	915
+Bremseth, Issac         	Wayzata (M)             	M	9	B-JVS	916
+Cameron, Andrew         	Wayzata (M)             	M	10	B-JVS	917
+Millan, Andrew          	Wayzata (M)             	M	8	B-JVS	918
+Louwagie, Kyle          	Wayzata (M)             	M	12	B-JVS	919
+Santana-Gonalez, Manuel 	Wayzata (M)             	M	11	B-JVS	920
+Roberts, Riley          	Wayzata (M)             	M	10	B-JVS	921
+Smith, Jacob            	Wayzata (M)             	M	8	B-JVS	922
+Periakaruppan, Lakshu   	Wayzata (M)             	M	8	B-JVS	923
+Anderson, Bobby         	Wayzata (M)             	M	9	B-JVS	924
+Roberts, Jonathan       	Wayzata (M)             	M	10	B-JVS	925
+Canfield, Connor        	Wayzata (M)             	M	9	B-JVS	926
+Sund, Bjorn             	Wayzata (M)             	M	10	B-JVS	927
+Sandall, Nicholas       	Wayzata (M)             	M	11	B-JVS	928
+McQuinn, Kelan          	Wayzata (M)             	M	12	B-JVS	929
+Schwendeman, Noah       	Wayzata (M)             	M	12	B-JVS	930
+Hobbs, Justin           	Wayzata (M)             	M	9	B-JVS	931
+Yentzer, Brad           	Wayzata (M)             	M	10	B-JVS	932
+Blake, Alex             	Wayzata (M)             	M	10	B-JVS	933
+Bremseth, Jotham        	Wayzata (M)             	M	7	B-JVS	934
+Lange, Matt             	Wayzata (M)             	M	9	B-JVS	935
+Anderson, Ben           	Wayzata (M)             	M	9	B-JVS	936
+Sherry, Garett          	Wayzata (M)             	M	9	B-JVS	937
+Burgstahler, Blake      	Wayzata (M)             	M	8	B-JVS	938
+Deakins, Grant          	Wayzata (M)             	M	8	B-JVS	939
+Meehan, Rudy            	Wayzata (M)             	M	8	B-JVS	940
+Musliner, Kevin         	Wayzata (M)             	M	9	B-JVS	941
+Sushko, Alex            	Wayzata (M)             	M	11	B-JVS	942
+Cornell, Jakob          	Wayzata (M)             	M	9	B-JVS	943
+Jette, Connor           	Wayzata (M)             	M	7	B-JVS	944
+Etling, Max             	Wayzata (M)             	M	10	B-JVS	945
+Brick, Charles          	Wayzata (M)             	M	9	B-JVS	946
+Halverson, Joshua       	Wayzata (M)             	M	7	B-JVS	947
+Thirunavu, Vineeth      	Wayzata (M)             	M	9	B-JVS	948
+Swenson, Graham         	Wayzata (M)             	M	11	B-JVS	949
+Sonnesyn, Alayna        	Wayzata (F)             	F	10	G-V	1001
+Sonnesyn, Marit         	Wayzata (F)             	F	12	G-V	1002
+Schneider, Nicole       	Wayzata (F)             	F	9	G-V	1003
+Kay, Jessie             	Wayzata (F)             	F	12	G-V	1004
+Griwac, Mikayla         	Wayzata (F)             	F	11	G-V	1005
+French, Anna            	Wayzata (F)             	F	9	G-V	1006
+Agre, Mata              	Wayzata (F)             	F	12	G-V	1007
+Balls-Barker, Bryn      	Wayzata (F)             	F	11	G-V	1008
+Holscher, Emily         	Wayzata (F)             	F	11	G-V	1009
+Keller-Miller, Mackenzie	Wayzata (F)             	F	10	G-V	1010
+Keller-Miller, Michaela 	Wayzata (F)             	F	8	G-V	1011
+Keller-Miller, Kristine 	Wayzata (F)             	F	8	G-V	1012
+Anderson, Tessa         	Wayzata (F)             	F	10	G-V	1013
+Farquhar, Lauren        	Wayzata (F)             	F	11	G-V	1014
+Frenz, Evelyn           	Wayzata (F)             	F	8	G-JVS	1015
+Schindler, Grace        	Wayzata (F)             	F	10	G-JVS	1016
+Halverson, Annika       	Wayzata (F)             	F	10	G-JVS	1017
+Griwac, Madeline        	Wayzata (F)             	F	9	G-JVS	1018
+Smith, Meredith         	Wayzata (F)             	F	12	G-JVS	1019
+Colpitts, Kylene        	Wayzata (F)             	F	11	G-JVS	1020
+Gormley, Zoe            	Wayzata (F)             	F	7	G-JVS	1021
+Anderson, Britta        	Wayzata (F)             	F	9	G-JVS	1022
+Silbaugh, Abby          	Wayzata (F)             	F	9	G-JVS	1023
+Bremseth, Jessica       	Wayzata (F)             	F	11	G-JVS	1024
+Neese, Rachel           	Wayzata (F)             	F	10	G-JVS	1025
+Peterson, Liese         	Wayzata (F)             	F	10	G-JVS	1026
+McDonald, Janele        	Wayzata (F)             	F	9	G-JVS	1027
+Anderson, Maya A        	Wayzata (F)             	F	12	G-JVS	1028
+Schindler, Claire       	Wayzata (F)             	F	8	G-JVS	1029
+Aufdembring, Rachel     	Wayzata (F)             	F	11	G-JVS	1030
+Hermann, Jessie         	Wayzata (F)             	F	11	G-JVS	1031
+Sullivan, Elizabeth     	Wayzata (F)             	F	12	G-JVS	1032
+Ramirez, Veronica       	Wayzata (F)             	F	9	G-JVS	1033
+Moy, Elizabeth          	Wayzata (F)             	F	11	G-JVS	1034
+Schindler, Oliva        	Wayzata (F)             	F	11	G-JVS	1035
+Bethin, Leah            	Wayzata (F)             	F	12	G-JVS	1036
+Bebchuk, Melissa        	Wayzata (F)             	F	9	G-JVS	1037
+Farquhar, Katie         	Wayzata (F)             	F	9	G-JVS	1038
+Schindler, Victoria     	Wayzata (F)             	F	10	G-JVS	1039
+Ree, Katrin             	Wayzata (F)             	F	9	G-JVS	1040
+Mehr, Ellen             	Wayzata (F)             	F	12	G-JVS	1041
+Orzeske, Maddie         	Wayzata (F)             	F	9	G-JVS	1042
+Myers, Katherine        	Wayzata (F)             	F	9	G-JVS	1043
+Swenson, Madeline       	Wayzata (F)             	F	9	G-JVS	1044
+Weas, Hannah            	Wayzata (F)             	F	9	G-JVS	1045
+Burgess, Emily          	Wayzata (F)             	F	8	G-JVS	1046
+Eckman, Corey           	Wayzata (F)             	F	8	G-JVS	1047
+Johnson, Linnae         	Wayzata (F)             	F	8	G-JVS	1048
+Jones, Abby             	Wayzata (F)             	F	11	G-JVS	1049
+Patnode, Claire         	Wayzata (F)             	F	8	G-JVS	1050
+Dahl, Miranda           	Wayzata (F)             	F	8	G-JVS	1051
+Schwarz, Kaitlin        	Wayzata (F)             	F	8	G-JVS	1052
+Sullivan, Hannah        	Wayzata (F)             	F	7	G-JVS	1053
+Gossen, Melissa         	Wayzata (F)             	F	11	G-JVS	1054
+Hlywka, Livvy           	Wayzata (F)             	F	8	G-JVS	1055
+Jette, Megan            	Wayzata (F)             	F	9	G-JVS	1056
+Brew, Anna              	Wayzata (F)             	F	7	G-JVS	1057
+Denniston, Anne         	Wayzata (F)             	F	11	G-JVS	1058
+Lerdau, Annika          	Wayzata (F)             	F	7	G-JVS	1059
+Thomsen, Jaycie         	Wayzata (F)             	F	7	G-JVS	1060
+Miller, Leah            	Wayzata (F)             	F	12	G-JVS	1061
+Kulberg, Martha         	Wayzata (F)             	F	10	G-JVS	1062
+Bach, Kaylen            	Wayzata (F)             	F	8	G-JVS	1063
+Steffi, Alyssa          	Wayzata (F)             	F	7	G-JVS	1064
+Sushko, Anastasia       	Wayzata (F)             	F	10	G-JVS	1065
+Williams, Madeline      	Wayzata (F)             	F	8	G-JVS	1066
+Pate, Elisabeth         	Wayzata (F)             	F	9	G-JVS	1067
+Schiro, Kelly           	Wayzata (F)             	F	12	G-JVS	1068
+Schmitt, Claudia        	Wayzata (F)             	F	9	G-JVS	1069
+Louwigie, Erin          	Wayzata (F)             	F	10	G-JVS	1070
+Weimer, Monika          	Wayzata (F)             	F	10	G-JVS	1071
+Nepper, Paige           	Wayzata (F)             	F	11	G-JVS	1072
+Bailey, Lauren          	Wayzata (F)             	F	12	G-JVS	1073
+Pyrz, Caiti             	Wayzata (F)             	F	10	G-JVS	1074
+Reding, Richelle        	Wayzata (F)             	F	11	G-JVS	1075
+Batman, Ellie           	Wayzata (F)             	F	10	G-JVS	1076
+Kunkel, Brooke          	Wayzata (F)             	F	11	G-JVS	1077
+Mehhan, Carlee          	Wayzata (F)             	F	11	G-JVS	1078
+Seager, Annika          	Wayzata (F)             	F	7	G-JVS	1079

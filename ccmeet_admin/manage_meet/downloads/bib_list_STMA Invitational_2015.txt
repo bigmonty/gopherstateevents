@@ -1,0 +1,717 @@
+BIB LIST FOR STMA INVITATIONAL-2015
+Generated: 10/6/2015 5:48:20 AM
+
+NAME                    	TEAM                    	M/F	GR	RACE	BIB 
+Becker, Alli            	Anoka (F)               	F	9	GV	1
+Brand, Emily            	Anoka (F)               	F	12	GJV	2
+Brezinka, Isabelle      	Anoka (F)               	F	11	GV	3
+Butler, Delaney         	Anoka (F)               	F	10	GV	4
+Edholm., Greta          	Anoka (F)               	F	12	GJV	5
+Fink, Grace             	Anoka (F)               	F	8	G78	6
+Floding, Briana         	Anoka (F)               	F	12	GV	7
+Hartman, Grace          	Anoka (F)               	F	11	GJV	8
+Hirsch, Jaraca          	Anoka (F)               	F	9	GJV	9
+Johnson, Abby           	Anoka (F)               	F	10	GJV	10
+Johnson, Lydia          	Anoka (F)               	F	10	GV	11
+Josephson, Noelle       	Anoka (F)               	F	10	GV	12
+Kalkman, Maria          	Anoka (F)               	F	12	GV	13
+Krone, Taylor           	Anoka (F)               	F	10	GV	14
+Lathrop, Miranda        	Anoka (F)               	F	8	G78	15
+Martin, Emma            	Anoka (F)               	F	12	GJV	16
+McGowan, Kayla          	Anoka (F)               	F	9	GJV	17
+Meinert, Kirsten        	Anoka (F)               	F	11	GJV	18
+Merrick-Melberg, Mina   	Anoka (F)               	F	8	G78	19
+O'Connor, Maddie        	Anoka (F)               	F	8	G78	20
+Paulson, Sydney         	Anoka (F)               	F	10	GV	21
+Quist., Emily           	Anoka (F)               	F	12	GJV	22
+Rowe, Madi              	Anoka (F)               	F	10	GJV	23
+Rubin, Payton           	Anoka (F)               	F	12	GJV	24
+Santiago, Celeste       	Anoka (F)               	F	11	GJV	25
+Soper, Makayla          	Anoka (F)               	F	12	GJV	26
+Steffens, Emma          	Anoka (F)               	F	12	GV	27
+Taschuk, Grace          	Anoka (F)               	F	9	GJV	28
+Thieschafer, Alysa      	Anoka (F)               	F	9	GJV	29
+Vaillant, Ellen         	Anoka (F)               	F	2	GJV	30
+Vang, Paris             	Anoka (F)               	F	9	GJV	31
+Ward, Clair             	Anoka (F)               	F	11	GJV	32
+Baldus, Jacob           	Anoka (M)               	M	12	BV	33
+Baldus, Michael         	Anoka (M)               	M	9	BJV	34
+Baldus, Peter           	Anoka (M)               	M	7	BJV	35
+Ballensky, Jacob        	Anoka (M)               	M	12	BJV	36
+Bender, Will            	Anoka (M)               	M	8	B78	37
+Birklid, Caleb          	Anoka (M)               	M	12	BJV	38
+Butler, Ethan           	Anoka (M)               	M	12	BJV	39
+Christensen, Dane       	Anoka (M)               	M	12	BJV	40
+Cooper, Lance           	Anoka (M)               	M	10	BJV	41
+Craven, Ben             	Anoka (M)               	M	11	BJV	42
+Cross, Alex             	Anoka (M)               	M	12	BJV	43
+Culley, Nathan          	Anoka (M)               	M	8	B78	44
+Dacon, Nicholas         	Anoka (M)               	M	12	BJV	45
+Davis, Jesse            	Anoka (M)               	M	7	BJV	46
+Deleon, Hunter          	Anoka (M)               	M	12	BV	47
+DeWitt, Carter          	Anoka (M)               	M	11	BJV	48
+Donner, Colton          	Anoka (M)               	M	10	BJV	49
+Douglas, Logan          	Anoka (M)               	M	10	BJV	50
+Eckley, Jarin           	Anoka (M)               	M	10	BJV	51
+Fleischman, Avery       	Anoka (M)               	M	10	BJV	52
+Frauly, Tate            	Anoka (M)               	M	11	BJV	53
+Fritz, Zach             	Anoka (M)               	M	11	BV	54
+Fry, Tanner             	Anoka (M)               	M	12	BJV	55
+Fuller, Blake           	Anoka (M)               	M	7	BJV	56
+Gable, Darrin           	Anoka (M)               	M	11	BJV	57
+Goldenstein, Payton     	Anoka (M)               	M	9	BJV	58
+Gorham, Ross            	Anoka (M)               	M	9	BJV	59
+Griffith, Nathan        	Anoka (M)               	M	12	BV	60
+Guimont, Jack           	Anoka (M)               	M	9	BJV	61
+Haubner, Joe            	Anoka (M)               	M	12	BJV	62
+Johnson, Isaac          	Anoka (M)               	M	11	BJV	63
+Johnson, Noah           	Anoka (M)               	M	9	BJV	64
+Kertz, Ethan            	Anoka (M)               	M	9	BJV	65
+Kinfu, Elias            	Anoka (M)               	M	12	BJV	66
+Kinfu, Matthew          	Anoka (M)               	M	11	BJV	67
+Kraemer, Trevor         	Anoka (M)               	M	9	BJV	68
+LaMotte, Baker          	Anoka (M)               	M	12	BJV	69
+Langer, Nathaniel       	Anoka (M)               	M	10	BV	70
+Lee, Alex               	Anoka (M)               	M	10	BJV	71
+Leonard, Thomas         	Anoka (M)               	M	12	BV	72
+Loreno, Connor          	Anoka (M)               	M	10	BJV	73
+Lukan, John             	Anoka (M)               	M	10	BJV	74
+Magnuson, Chandler      	Anoka (M)               	M	12	BJV	75
+Meinert, Josh           	Anoka (M)               	M	9	BJV	76
+Meyers, Alex            	Anoka (M)               	M	11	BJV	77
+Minshull, Leighton      	Anoka (M)               	M	10	BV	78
+Mirovsky, Triston       	Anoka (M)               	M	12	BJV	79
+Mueller, Sam            	Anoka (M)               	M	12	BJV	80
+Mugglin, Ian            	Anoka (M)               	M	8	B78	81
+Mugglin, Jordan         	Anoka (M)               	M	10	BJV	82
+Neeser, Reid            	Anoka (M)               	M	12	BJV	83
+Olson, Connor           	Anoka (M)               	M	12	BJV	84
+Ostrander, Connor       	Anoka (M)               	M	8	BJV	85
+Pelletier, Daniel       	Anoka (M)               	M	9	BJV	86
+Quist, Sam              	Anoka (M)               	M	11	BJV	87
+Radzom, Brandon         	Anoka (M)               	M	12	BV	88
+Redepenning, Andrew     	Anoka (M)               	M	8	B78	89
+Redepenning, Harrison   	Anoka (M)               	M	12	BV	90
+Saba, Ben               	Anoka (M)               	M	12	BJV	91
+Sabin, Teddy            	Anoka (M)               	M	11	BJV	92
+Schipper, Jeremy        	Anoka (M)               	M	12	BJV	93
+Schurstein-Otto, Jordan 	Anoka (M)               	M	9	BJV	94
+Schuster, Jared         	Anoka (M)               	M	11	BJV	95
+Skoglund, Sam           	Anoka (M)               	M	11	BJV	96
+Steffens, Nick          	Anoka (M)               	M	10	BJV	97
+Sumner, Riley           	Anoka (M)               	M	10	BJV	98
+Taylor, Aaron           	Anoka (M)               	M	9	BJV	99
+Teed, Avery             	Anoka (M)               	M	9	BJV	100
+Thompson, Dain          	Anoka (M)               	M	10	BJV	101
+Toay, Jacob             	Anoka (M)               	M	9	BV	102
+Townsend, Taron         	Anoka (M)               	M	10	BV	103
+Weinberger, Jack        	Anoka (M)               	M	10	BJV	104
+Williams, Cole          	Anoka (M)               	M	12	BV	105
+Yehle, Tyler            	Anoka (M)               	M	10	BJV	106
+Ylinen, Alec            	Anoka (M)               	M	12	BJV	107
+Baxter, Kate            	Apple Valley (F)        	F	10	GV	108
+Begaye, Kayla           	Apple Valley (F)        	F	9	GJV	109
+Cybart, Hannah          	Apple Valley (F)        	F	9	GJV	110
+Dubois, Sam             	Apple Valley (F)        	F	10	GJV	111
+Fernandez-Castaneda Torn	Apple Valley (F)        	F	10	GV	112
+Howard, Teresa          	Apple Valley (F)        	F	10	GV	113
+Hughes, Hallie          	Apple Valley (F)        	F	9	GV	114
+Lorenz, Katie           	Apple Valley (F)        	F	11	GV	115
+Martens, Madie          	Apple Valley (F)        	F	12	GJV	116
+Michelson, Claire       	Apple Valley (F)        	F	10	GJV	117
+Milbauer, Anna          	Apple Valley (F)        	F	12	GJV	118
+Moynihan, Molly         	Apple Valley (F)        	F	10	GV	119
+Neiderkorn, Rachel      	Apple Valley (F)        	F	11	GV	120
+Reinertson, Anikka      	Apple Valley (F)        	F	12	GJV	121
+Sheldon, Tori           	Apple Valley (F)        	F	12	GJV	122
+Van Dreser, Jenna       	Apple Valley (F)        	F	9	GJV	123
+Abasher, Yassin         	Apple Valley (M)        	M	12	BV	124
+Bettes, Brian           	Apple Valley (M)        	M	12	BV	125
+Boerboon, Michael       	Apple Valley (M)        	M	11	BV	126
+Connors, Jonathan       	Apple Valley (M)        	M	9	BJV	127
+Crippes, Thomas         	Apple Valley (M)        	M	11	BV	128
+Cybart, Josh            	Apple Valley (M)        	M	11	BJV	129
+Cybart, Mikey           	Apple Valley (M)        	M	12	BJV	130
+Durbin, Jonathan        	Apple Valley (M)        	M	9	BJV	131
+Ewald, Elliot           	Apple Valley (M)        	M	8	BJV	132
+Gallmeier, Will         	Apple Valley (M)        	M	10	BJV	133
+Grelson, Joe            	Apple Valley (M)        	M	12	BJV	134
+Gullikson, Shane        	Apple Valley (M)        	M	10	BJV	135
+Halloran, Noah          	Apple Valley (M)        	M	12	BV	136
+Hapke, Robert           	Apple Valley (M)        	M	12	BV	137
+Hill, Calvin            	Apple Valley (M)        	M	11	BJV	138
+Hochsprung, Nikolaus    	Apple Valley (M)        	M	9	BJV	139
+Johnson, Alex           	Apple Valley (M)        	M	11	BJV	140
+Kivett, Josh            	Apple Valley (M)        	M	12	BJV	141
+Kivett, Sam             	Apple Valley (M)        	M	10	BJV	142
+Monsen, Ethan           	Apple Valley (M)        	M	10	BV	143
+Mortensen, Elijah       	Apple Valley (M)        	M	10	BJV	144
+Moynihan, Max           	Apple Valley (M)        	M	10	BV	145
+Ness, Dalton            	Apple Valley (M)        	M	9	BJV	146
+Owen, Jake              	Apple Valley (M)        	M	11	BV	147
+Palacios, Gonzalo       	Apple Valley (M)        	M	9	BJV	148
+Pearson, Noah           	Apple Valley (M)        	M	10	BV	149
+Pederson, Nicholas      	Apple Valley (M)        	M	9	BJV	150
+Peterson, Ryan          	Apple Valley (M)        	M	11	BJV	151
+Ramirez, Adam           	Apple Valley (M)        	M	9	BJV	152
+Reger, Hunter           	Apple Valley (M)        	M	11	BJV	153
+Roberts, Brandon        	Apple Valley (M)        	M	10	BJV	154
+Saice, Mitchell         	Apple Valley (M)        	M	11	BJV	155
+Steinberg, Kyle         	Apple Valley (M)        	M	12	BV	156
+Stremski, Justin        	Apple Valley (M)        	M	9	BJV	157
+Tan, Jackie             	Apple Valley (M)        	M	12	BJV	158
+Thompson, Sam           	Apple Valley (M)        	M	10	BJV	159
+Van Horsen, Karl        	Apple Valley (M)        	M	9	BJV	160
+Williams, Josh          	Apple Valley (M)        	M	9	BJV	161
+Williams, Nathan        	Apple Valley (M)        	M	12	BV	162
+Berg, Kaitlin           	Buffalo (F)             	F	8	G78	163
+Boyum, Olyvia           	Buffalo (F)             	F	8	G78	164
+Braun, Sophia           	Buffalo (F)             	F	8	G78	165
+Carlson, Kaitlyn        	Buffalo (F)             	F	8	G78	166
+Doggett, Madeline       	Buffalo (F)             	F	8	G78	167
+Fairbanks, Destiny      	Buffalo (F)             	F	7	G78	168
+Garrett, Carly          	Buffalo (F)             	F	8	G78	169
+Johnson, Lucy           	Buffalo (F)             	F	8	G78	170
+Latchem Reiter, Emma    	Buffalo (F)             	F	8	G78	171
+Lavato, Josie           	Buffalo (F)             	F	8	G78	172
+Mattson, Maitie         	Buffalo (F)             	F	8	G78	1859
+Mattson, Maize          	Buffalo (F)             	F	8	G78	1860
+Mattson, Maizie         	Buffalo (F)             	F	8	G78	1861
+Moringstar, Mya         	Buffalo (F)             	F	8	G78	1862
+Nosbush, Sophia         	Buffalo (F)             	F	8	G78	1863
+O"Malley, Alexis        	Buffalo (F)             	F	8	G78	1864
+Palmer, Jenna           	Buffalo (F)             	F	8	G78	1865
+Rhodes, Sydney          	Buffalo (F)             	F	7	G78	1866
+Ruhr, Danielle          	Buffalo (F)             	F	8	G78	1867
+Stenson, Ryleigh        	Buffalo (F)             	F	7	G78	1868
+Thorson, Anna           	Buffalo (F)             	F	8	G78	1869
+Tiernan, Mya            	Buffalo (F)             	F	8	GV	1870
+Vick, Morgan            	Buffalo (F)             	F	8	G78	1871
+Volden, Sarah           	Buffalo (F)             	F	8	G78	1872
+Wren, Katelyn           	Buffalo (F)             	F	8	G78	1873
+Zweifel, Lauren         	Buffalo (F)             	F	8	G78	1874
+Anderson, Cole          	Buffalo (M)             	M	7	B78	1875
+Baloun, Kyle            	Buffalo (M)             	M	8	B78	1876
+Berg, Jarod             	Buffalo (M)             	M	7	B78	1877
+Cantin, Jonny           	Buffalo (M)             	M	7	B78	1878
+Driver, Joey            	Buffalo (M)             	M	7	B78	1879
+Duncan, Logan           	Buffalo (M)             	M	8	B78	1880
+Eastlund, Ben           	Buffalo (M)             	M	7	B78	1881
+Emerick, Frank          	Buffalo (M)             	M	8	B78	1882
+Giggings, Troy          	Buffalo (M)             	M	8	B78	1883
+Heger, Jacob            	Buffalo (M)             	M	7	B78	1884
+Hoepner, Thomas         	Buffalo (M)             	M	8	B78	1885
+Huotori, Dane           	Buffalo (M)             	M	8	B78	1886
+Ingebrigtson, Zach      	Buffalo (M)             	M	7	B78	1887
+Issacs Olson, Camaron   	Buffalo (M)             	M	8	B78	1888
+Kinneberg, Jacob        	Buffalo (M)             	M	8	B78	1889
+Klaphake, Owen          	Buffalo (M)             	M	7	B78	1890
+Korbel, Hunter          	Buffalo (M)             	M	7	B78	1891
+Kugler, Jacob           	Buffalo (M)             	M	8	B78	1892
+Locke, Karsten          	Buffalo (M)             	M	7	B78	1893
+Lynch, Eric             	Buffalo (M)             	M	7	B78	1894
+MacCallum, Max          	Buffalo (M)             	M	8	B78	1895
+Mattson, Brennan        	Buffalo (M)             	M	7	B78	1896
+McGarvey, Anders        	Buffalo (M)             	M	7	B78	1897
+Nylander, Drew          	Buffalo (M)             	M	7	B78	1898
+Oak, Nick               	Buffalo (M)             	M	8	B78	1899
+Patras, Brandon         	Buffalo (M)             	M	7	B78	1900
+Roth, Benjamin          	Buffalo (M)             	M	8	B78	4001
+Rud, Justin             	Buffalo (M)             	M	7	B78	4002
+Ryan, Parker            	Buffalo (M)             	M	7	B78	4003
+Schmidt, Carter         	Buffalo (M)             	M	7	B78	4004
+Stonecipher, Patrick    	Buffalo (M)             	M	8	B78	4005
+Worth, Chase            	Buffalo (M)             	M	7	B78	4006
+Yniierto, Kylie         	Buffalo (M)             	M	8	B78	4007
+Zumbusch, Tate          	Buffalo (M)             	M	8	B78	4008
+Belden, Sara            	Cooper (F)              	F	12	GV	4009
+Daniels, Ingrid         	Cooper (F)              	F	11	GJV	4010
+Dean, Tasha             	Cooper (F)              	F	10	GJV	4011
+Gagnon, Sabine          	Cooper (F)              	F	11	GJV	4012
+Hepp, Bernadette        	Cooper (F)              	F	11	GJV	4013
+Hepp, Elizabeth         	Cooper (F)              	F	11	GV	4014
+Heusinkveld, Amelia     	Cooper (F)              	F	12	GV	4015
+Jandl, Emily            	Cooper (F)              	F	9	GJV	4016
+Lorentz, Anna           	Cooper (F)              	F	11	GJV	4017
+Smude, Elizabeth        	Cooper (F)              	F	10	GV	4018
+Sorenson, Marcella      	Cooper (F)              	F	11	GJV	4019
+Urevig, Allison         	Cooper (F)              	F	12	GV	4020
+Zieska, Alice           	Cooper (F)              	F	10	GV	4021
+Bangura, Al             	Cooper (M)              	M	12	BV	4022
+Boswell, Nolan          	Cooper (M)              	M	8	BV	4023
+De Jesus, Kyle          	Cooper (M)              	M	12	BV	4024
+Gibba, Sulayman         	Cooper (M)              	M	12	BV	4025
+Griffin-Wiesner, Isaac  	Cooper (M)              	M	12	BV	4026
+Herman, Sam             	Cooper (M)              	M	11	BJV	4027
+Hernick, Sam            	Cooper (M)              	M	8	BV	4028
+Horgan, Thomas          	Cooper (M)              	M	8	BV	4029
+Lee, Peter              	Cooper (M)              	M	10	BJV	4030
+Lindahl, Brian          	Cooper (M)              	M	7	BJV	4031
+Lindgren, David         	Cooper (M)              	M	10	BJV	4032
+Ly, Jansoper            	Cooper (M)              	M	12	BV	4033
+Maki, Ethan             	Cooper (M)              	M	8	BV	4034
+Marshall, Dan           	Cooper (M)              	M	12	BJV	4035
+Nelson, Payton          	Cooper (M)              	M	10	BJV	4036
+Omar, Muhsin            	Cooper (M)              	M	10	BJV	4037
+Parlow, Stephen         	Cooper (M)              	M	11	BV	4038
+Speck, Nathan           	Cooper (M)              	M	12	BJV	4039
+Stinson, Joe            	Cooper (M)              	M	12	BJV	4040
+Thomas, Zachary         	Cooper (M)              	M	11	BJV	4041
+Thompson, Joe           	Cooper (M)              	M	12	BJV	4042
+Westerlund, Zachary     	Cooper (M)              	M	12	BV	4043
+Williams, Garrett       	Cooper (M)              	M	12	BV	4044
+Bundrock, Noah          	Howard Lake-Waverly (M) 	M	10	BV	4045
+Conzet, Josh            	Howard Lake-Waverly (M) 	M	10	BJV	4046
+Czanstkowski, Nick      	Howard Lake-Waverly (M) 	M	9	BJV	4047
+Horn, Tommy             	Howard Lake-Waverly (M) 	M	10	BV	4048
+Kubes, Ethan            	Howard Lake-Waverly (M) 	M	8	BJV	4049
+Lade, Spencer           	Howard Lake-Waverly (M) 	M	7	BV	4050
+Leukuma, Cole           	Howard Lake-Waverly (M) 	M	7	BJV	4051
+Loder, Micah            	Howard Lake-Waverly (M) 	M	8	BJV	4052
+Morang, Duncan          	Howard Lake-Waverly (M) 	M	8	B78	4053
+Morang, Lucas           	Howard Lake-Waverly (M) 	M	11	BJV	4054
+Olund, Trevin           	Howard Lake-Waverly (M) 	M	9	BV	4055
+Prine, Gerrick          	Howard Lake-Waverly (M) 	M	9	BV	4056
+Rumsey, Cullin          	Howard Lake-Waverly (M) 	M	7	B78	4057
+Schank, Connor          	Howard Lake-Waverly (M) 	M	12	BV	4058
+Stueven, Loren          	Howard Lake-Waverly (M) 	M	12	BV	4059
+Workman, Jackson        	Howard Lake-Waverly (M) 	M	8	BJV	4060
+Brabec, Erin            	Howard Lake-Waverly (F) 	F	9	GV	4061
+Czanstkowski, Kyra      	Howard Lake-Waverly (F) 	F	7	G78	4062
+Determan, Willow        	Howard Lake-Waverly (F) 	F	8	GJV	4063
+Dressel, Emily          	Howard Lake-Waverly (F) 	F	8	G78	4064
+Erstad, Bella           	Howard Lake-Waverly (F) 	F	7	GJV	4065
+Helgeson, Gwen          	Howard Lake-Waverly (F) 	F	9	GV	4066
+Karels, Phoebe          	Howard Lake-Waverly (F) 	F	7	G78	4067
+Lamphere, Amber         	Howard Lake-Waverly (F) 	F	8	GV	4068
+Lorenson, Rebecca       	Howard Lake-Waverly (F) 	F	7	G78	4069
+Miller, Maggie          	Howard Lake-Waverly (F) 	F	12	GV	4070
+Minkin, Emilie          	Howard Lake-Waverly (F) 	F	8	GV	4071
+Thompson, Alexandra     	Howard Lake-Waverly (F) 	F	11	GV	4072
+Walker, Hailey          	Howard Lake-Waverly (F) 	F	7	G78	4073
+Weber, Savanna          	Howard Lake-Waverly (F) 	F	10	GJV	4074
+Wood, Danielle          	Howard Lake-Waverly (F) 	F	7	GV	4075
+Allison, Riley          	Maple Grove (F)         	F	9	GV	4076
+Ascencio, Danelle       	Maple Grove (F)         	F	10	GJV	4077
+Bies, Madison           	Maple Grove (F)         	F	12	GJV	4078
+Bolcer, Christina       	Maple Grove (F)         	F	8	GV	4079
+Bolcer, Gabby           	Maple Grove (F)         	F	10	GV	4080
+Brakob, Genna           	Maple Grove (F)         	F	12	GV	4081
+Carlson, Kalle          	Maple Grove (F)         	F	11	GJV	4082
+Caven, Molly            	Maple Grove (F)         	F	12	GJV	4083
+Coughlin, Meghan        	Maple Grove (F)         	F	12	GJV	4084
+Dickerson, Rachel       	Maple Grove (F)         	F	10	GJV	4085
+Fink, Emma              	Maple Grove (F)         	F	12	GV	4086
+Frederick, Allyson      	Maple Grove (F)         	F	9	GJV	4087
+Hadera , Lidia          	Maple Grove (F)         	F	9	GJV	4088
+Hasic, Dina             	Maple Grove (F)         	F	12	GJV	4089
+Hauch, Jena             	Maple Grove (F)         	F	11	GV	4090
+Haus, Brooke            	Maple Grove (F)         	F	7	G78	4091
+Heroux, Christina       	Maple Grove (F)         	F	10	GJV	4092
+Ingrassia, Kaylee       	Maple Grove (F)         	F	10	GV	4093
+Ingrassia, Lauren       	Maple Grove (F)         	F	7	G78	4094
+Johnson, Olivia         	Maple Grove (F)         	F	9	GJV	4095
+Jones, Sierra           	Maple Grove (F)         	F	12	GJV	4096
+Juettner, Chloe         	Maple Grove (F)         	F	12	GJV	4097
+Kastelle, Lindsey       	Maple Grove (F)         	F	11	GV	4098
+Kivi, Ellen             	Maple Grove (F)         	F	8	G78	4099
+Kjome, Sarah            	Maple Grove (F)         	F	10	GJV	4100
+LeNeau, Ava             	Maple Grove (F)         	F	8	G78	4101
+Leonard, Katie          	Maple Grove (F)         	F	12	GJV	4102
+Little, Elizabeth       	Maple Grove (F)         	F	9	GJV	4103
+Manrodt, Anna           	Maple Grove (F)         	F	9	GJV	4104
+Manse, Paige            	Maple Grove (F)         	F	8	G78	4105
+Marino, Maddie          	Maple Grove (F)         	F	9	GV	4106
+McIntyre, Maggie        	Maple Grove (F)         	F	10	GJV	4107
+McVay, Caitlyn          	Maple Grove (F)         	F	9	GJV	4108
+Moroz, Ella             	Maple Grove (F)         	F	9	GJV	4109
+Otten, Mady             	Maple Grove (F)         	F	9	GJV	4110
+Peterson, Leah          	Maple Grove (F)         	F	12	GJV	4111
+Quale, Jordan           	Maple Grove (F)         	F	12	GJV	4112
+Rask, Campbell          	Maple Grove (F)         	F	7	G78	4113
+Ries, Emily             	Maple Grove (F)         	F	8	G78	4114
+Rolfs, Charolette       	Maple Grove (F)         	F	9	GJV	4115
+Rolfs, Laurel           	Maple Grove (F)         	F	7	G78	4116
+Rosacker, Tara          	Maple Grove (F)         	F	9	GJV	4117
+Rosacker, Taylor        	Maple Grove (F)         	F	11	GJV	4118
+Rowland, Lily           	Maple Grove (F)         	F	9	GJV	4119
+Saari, Rachel           	Maple Grove (F)         	F	9	GJV	4120
+Sack, Hannah            	Maple Grove (F)         	F	12	GJV	4121
+Salzman, Justine        	Maple Grove (F)         	F	9	GJV	4122
+Savage, Grace           	Maple Grove (F)         	F	7	G78	4123
+Scheidler, Lauren       	Maple Grove (F)         	F	12	GV	4124
+Stiefel, Caitlyn        	Maple Grove (F)         	F	10	GJV	4125
+Tate, Juliette          	Maple Grove (F)         	F	10	GJV	4126
+Taylor, Keeley          	Maple Grove (F)         	F	11	GJV	4127
+Thoe, Annaliese         	Maple Grove (F)         	F	7	G78	4128
+Tillman, Lauren         	Maple Grove (F)         	F	9	GJV	4129
+Tobias, Lauren          	Maple Grove (F)         	F	11	GJV	4130
+Tobias, Maddie          	Maple Grove (F)         	F	8	G78	4131
+Wright, Julia           	Maple Grove (F)         	F	10	GJV	4132
+Yamauchi, Alisha        	Maple Grove (F)         	F	11	GJV	4133
+Zebrev, Natasha         	Maple Grove (F)         	F	9	GV	4134
+Zimmer, Libby           	Maple Grove (F)         	F	12	GV	4135
+Bair, Calvin            	Maple Grove (M)         	M	9	BJV	4136
+Baranick, Jaden         	Maple Grove (M)         	M	11	BJV	4137
+Barbour, Jack           	Maple Grove (M)         	M	11	BJV	4138
+Bialke, Ben             	Maple Grove (M)         	M	10	BJV	4139
+Blesener, Kellen        	Maple Grove (M)         	M	7	B78	4140
+Bolland, Jordan         	Maple Grove (M)         	M	8	B78	4141
+Brakob, Justin          	Maple Grove (M)         	M	11	BV	4142
+Breidenbach, Aaron      	Maple Grove (M)         	M	12	BJV	4143
+Bueckers, Therin        	Maple Grove (M)         	M	9	BJV	4144
+Buendorf, Payton        	Maple Grove (M)         	M	10	BJV	4145
+Carlson, Kasey          	Maple Grove (M)         	M	10	BJV	4146
+Cassibo, Riley          	Maple Grove (M)         	M	9	BJV	4147
+Caven, Charles          	Maple Grove (M)         	M	8	B78	4148
+Clark, Nathan           	Maple Grove (M)         	M	10	BV	4149
+Dahl, Logan             	Maple Grove (M)         	M	9	BJV	4150
+Dalton, Jake            	Maple Grove (M)         	M	10	BJV	4151
+Drake, Alex             	Maple Grove (M)         	M	8	B78	4152
+Dumbauld, Reid          	Maple Grove (M)         	M	9	BJV	4153
+Evans, Charles          	Maple Grove (M)         	M	9	BJV	4154
+Fischer, London         	Maple Grove (M)         	M	7	B78	4155
+Fjellman, Sam           	Maple Grove (M)         	M	8	B78	4156
+French, Sawyer          	Maple Grove (M)         	M	9	BJV	4157
+Garner, Evan            	Maple Grove (M)         	M	7	B78	4158
+Hagemeister, Austin     	Maple Grove (M)         	M	12	BJV	4159
+Halligan, Evan          	Maple Grove (M)         	M	7	B78	4160
+Harbinson, John         	Maple Grove (M)         	M	12	BJV	4161
+Hempe, Matt             	Maple Grove (M)         	M	11	BJV	4162
+Heroux, Gideon          	Maple Grove (M)         	M	8	B78	4163
+Holcomb, Isaac          	Maple Grove (M)         	M	11	BV	4164
+Isaacs, Jace            	Maple Grove (M)         	M	11	BJV	4165
+Iverson, Blake          	Maple Grove (M)         	M	10	BV	4166
+Johnson, Grant          	Maple Grove (M)         	M	11	BV	4167
+Johnson, Josh           	Maple Grove (M)         	M	11	BJV	4168
+Kivi, Max               	Maple Grove (M)         	M	10	BV	4169
+Knight, Bronson         	Maple Grove (M)         	M	9	BJV	4170
+Kochenderfer, Paul      	Maple Grove (M)         	M	8	B78	4171
+Kryzer, Kyle            	Maple Grove (M)         	M	9	BJV	4172
+Kwon, Chris             	Maple Grove (M)         	M	10	BJV	4173
+larson, Noel            	Maple Grove (M)         	M	10	BJV	4174
+Lovdahl, Evan           	Maple Grove (M)         	M	7	B78	4175
+Mersereau, Asher        	Maple Grove (M)         	M	9	BJV	4176
+Miley, Alex             	Maple Grove (M)         	M	11	BV	4177
+Miley, Ryan             	Maple Grove (M)         	M	9	BV	4178
+Monk, Jackson           	Maple Grove (M)         	M	11	BJV	4179
+Morrison, Isaiah        	Maple Grove (M)         	M	10	BJV	4180
+O'Hearn, Jacob          	Maple Grove (M)         	M	12	BV	4181
+Pelto, Gavin            	Maple Grove (M)         	M	9	BJV	4182
+Perdew, Connor          	Maple Grove (M)         	M	9	BJV	4183
+Pool, Dylan             	Maple Grove (M)         	M	7	B78	4184
+Quall, Blake            	Maple Grove (M)         	M	9	BV	4185
+Raph, Landon            	Maple Grove (M)         	M	9	BJV	4186
+Rolfs, Jacob            	Maple Grove (M)         	M	11	BJV	4187
+Ruemping, Isaac         	Maple Grove (M)         	M	8	B78	4188
+Smith, Brenden          	Maple Grove (M)         	M	7	B78	4189
+Stiff, Andrew           	Maple Grove (M)         	M	9	BJV	4190
+Strain, Logan           	Maple Grove (M)         	M	9	BJV	4191
+Su, Matthew             	Maple Grove (M)         	M	10	BJV	4192
+Tansey, Neil            	Maple Grove (M)         	M	9	BJV	4193
+Taufiq, Daniel          	Maple Grove (M)         	M	12	BJV	4194
+Timperley, Sawyer       	Maple Grove (M)         	M	10	BJV	4195
+Tripp, Leighton         	Maple Grove (M)         	M	9	BJV	4196
+Trom, Jackson           	Maple Grove (M)         	M	7	B78	4197
+Turnquist, Tyler        	Maple Grove (M)         	M	8	B78	4198
+Vinje, Jackson          	Maple Grove (M)         	M	8	B78	4199
+Weins, Jared            	Maple Grove (M)         	M	11	BJV	4200
+Wontaa, Sonkarley       	Maple Grove (M)         	M	10	BJV	4201
+Wright, Austin          	Maple Grove (M)         	M	8	B78	4202
+Wright, Parker          	Maple Grove (M)         	M	12	BV	4203
+Young, CJ               	Maple Grove (M)         	M	8	BV	4204
+Demarais, Augusta       	Maple Lake (F)          	F	7	G78	4205
+Erickson, Mollie        	Maple Lake (F)          	F	7	G78	4206
+Graham, Kate            	Maple Lake (F)          	F	7	G78	4207
+Miller, Mary            	Maple Lake (F)          	F	7	G78	4208
+Tongen, Peyton          	Maple Lake (F)          	F	8	G78	4209
+Beffel, Noah            	Maple Lake (M)          	M	7	B78	4210
+Brown, Linus            	Maple Lake (M)          	M	8	B78	4211
+Donnett, Jacob          	Maple Lake (M)          	M	8	B78	4212
+Jacobsen, Rayne         	Maple Lake (M)          	M	8	B78	4213
+Neutz, Dan              	Maple Lake (M)          	M	7	B78	4214
+Stockman, Joe           	Maple Lake (M)          	M	8	B78	4215
+Welch, Jaden            	Maple Lake (M)          	M	8	B78	4216
+Weninger, Logan         	Maple Lake (M)          	M	8	B78	4217
+Alfords, Grace          	Rogers (F)              	F	10	GJV	4218
+Ames, Elise             	Rogers (F)              	F	7	GV	4219
+Anderson, Brianna       	Rogers (F)              	F	9	GJV	4220
+Anderson, Stacy         	Rogers (F)              	F	10	GJV	4221
+Bandy, Lily             	Rogers (F)              	F	8	G78	4222
+Barry, Sarah            	Rogers (F)              	F	7	G78	4223
+Benz, Kaitlyn           	Rogers (F)              	F	11	GJV	4224
+Beutz, Nicole           	Rogers (F)              	F	9	GV	4225
+Brockberg, Jasmine      	Rogers (F)              	F	10	GV	4226
+Bruers, Abigail         	Rogers (F)              	F	8	G78	4227
+Cargill, Ellie          	Rogers (F)              	F	10	GV	4228
+Carlson, Alexa          	Rogers (F)              	F	9	GJV	4229
+Clark, Grace            	Rogers (F)              	F	11	GJV	4230
+Crow, Elise             	Rogers (F)              	F	9	GJV	4231
+Dallman, Alyssa         	Rogers (F)              	F	11	GJV	4232
+Duke, Ava               	Rogers (F)              	F	7	G78	4233
+Eshleman, Holly         	Rogers (F)              	F	9	GJV	4234
+Golden, Angelina        	Rogers (F)              	F	7	G78	4235
+Hansen, Madison         	Rogers (F)              	F	10	GV	4236
+Hetchler, Breanna       	Rogers (F)              	F	7	G78	4237
+Janckila, Sarah         	Rogers (F)              	F	11	GJV	4238
+Jensen, Gretta          	Rogers (F)              	F	8	G78	4239
+Jordan, Paige           	Rogers (F)              	F	8	GV	4240
+Kaehler, Amanda         	Rogers (F)              	F	9	GJV	4241
+Karels, Ali             	Rogers (F)              	F	8	G78	4242
+Karls, Jenna            	Rogers (F)              	F	12	GJV	4243
+Kemmetmueller, Katelyn  	Rogers (F)              	F	12	GV	4244
+LeClaire, Marissa       	Rogers (F)              	F	10	GJV	4245
+Nezarevic, Aliyah       	Rogers (F)              	F	9	GJV	4246
+Palumbo, Emma           	Rogers (F)              	F	7	G78	4247
+Parent, Sara            	Rogers (F)              	F	8	G78	4248
+Piazza, Lia             	Rogers (F)              	F	9	GJV	4249
+Rapovich, Kylee         	Rogers (F)              	F	10	GJV	4250
+Reimer, Marie           	Rogers (F)              	F	9	GJV	4251
+Rother, Allie           	Rogers (F)              	F	9	GJV	4252
+Schumacher, Breanna     	Rogers (F)              	F	8	G78	4253
+Stein, Katie            	Rogers (F)              	F	8	G78	4254
+Stock, Alexis           	Rogers (F)              	F	7	G78	4255
+Stock, Emma             	Rogers (F)              	F	7	G78	4256
+Teasdale, Hannah        	Rogers (F)              	F	10	GV	4257
+Van Ess, Nicole         	Rogers (F)              	F	9	GV	4258
+Wertzler, Alexis        	Rogers (F)              	F	8	G78	4259
+Anderson, Ethan         	Rogers (M)              	M	9	BV	4260
+Bailie, Brendan         	Rogers (M)              	M	8	B78	4261
+Barkley, Vince          	Rogers (M)              	M	8	B78	4262
+Brunetti, Dylan         	Rogers (M)              	M	11	BV	4263
+Cassady, Nathan         	Rogers (M)              	M	11	BJV	4264
+Clauson, Joey           	Rogers (M)              	M	8	B78	4265
+Corkery, McKone         	Rogers (M)              	M	10	BV	4266
+Corkery, Seamus         	Rogers (M)              	M	8	B78	4267
+Cornwell, Carson        	Rogers (M)              	M	7	B78	4268
+Davidson, Ryan          	Rogers (M)              	M	12	BV	4269
+Davis, Ryan             	Rogers (M)              	M	7	B78	4270
+Fife, Ben               	Rogers (M)              	M	11	BV	4271
+Follmer, Quinn          	Rogers (M)              	M	7	B78	4272
+Franz, Nathan           	Rogers (M)              	M	8	B78	4273
+Friesen, Michael        	Rogers (M)              	M	11	BJV	4274
+Gerberding, Bradon      	Rogers (M)              	M	7	B78	4275
+Glad, Thomas            	Rogers (M)              	M	8	B78	4276
+Heidorn, Alex           	Rogers (M)              	M	7	B78	4277
+Hilden, Nathaniel       	Rogers (M)              	M	8	B78	4278
+Huber, Evan             	Rogers (M)              	M	12	BJV	4279
+Jensen, Nathan          	Rogers (M)              	M	10	BJV	4280
+Jurrens, Chet           	Rogers (M)              	M	10	BV	4281
+Langer, Kyle            	Rogers (M)              	M	10	BJV	4282
+Mikolich, Matt          	Rogers (M)              	M	7	B78	4283
+Nielsen-Tschritter, Rile	Rogers (M)              	M	9	BJV	4284
+Paris, Adam             	Rogers (M)              	M	8	B78	4285
+Peluf, Jack             	Rogers (M)              	M	8	B78	4286
+Prahl, Alex             	Rogers (M)              	M	8	B78	4287
+Prahl, Josh             	Rogers (M)              	M	9	BJV	4288
+Pulling, Eliot          	Rogers (M)              	M	11	BV	4289
+Reiter, Adam            	Rogers (M)              	M	10	BV	4290
+Reshetar, Dale          	Rogers (M)              	M	11	BJV	4291
+Reshetar, Erik          	Rogers (M)              	M	10	BJV	4292
+Reshetar, Joey          	Rogers (M)              	M	8	B78	4293
+Segraves, Tucker        	Rogers (M)              	M	7	B78	4294
+Stark, Brendan          	Rogers (M)              	M	9	BV	4295
+Swenson, Avery          	Rogers (M)              	M	8	B78	4296
+Teasdale, Hyrum         	Rogers (M)              	M	10	BV	4297
+Voronyak, Gabe          	Rogers (M)              	M	9	BJV	4298
+Wageman, Max            	Rogers (M)              	M	12	BJV	4299
+Wald, Braydon           	Rogers (M)              	M	9	BJV	4300
+Akkerrman, Makayla      	STMA (F)                	F	11	GJV	4301
+Albrecht, Lillian       	STMA (F)                	F	8	G78	4302
+Anderson, Abigail       	STMA (F)                	F	10	GJV	4303
+Anderson, Gret          	STMA (F)                	F	10	GJV	4304
+Aydt, Ariel             	STMA (F)                	F	9	GJV	4305
+Barthel, Chrystina      	STMA (F)                	F	7	G78	4306
+Becker, Bethany         	STMA (F)                	F	11	GJV	4307
+Belair, Anna            	STMA (F)                	F	8	G78	4308
+Birk, Allison           	STMA (F)                	F	10	GJV	4309
+Birr, Payton            	STMA (F)                	F	10	GJV	4310
+Bourgerie, Mackenzie    	STMA (F)                	F	8	G78	4311
+Brendefur, Kaci         	STMA (F)                	F	11	GJV	4312
+Brenny, Annie           	STMA (F)                	F	10	GJV	4313
+Brenny, Molly           	STMA (F)                	F	10	GJV	4314
+Brown, Samantha         	STMA (F)                	F	8	G78	4315
+Buckmeier, Erin         	STMA (F)                	F	10	GJV	4316
+Carpenter, Reagan       	STMA (F)                	F	7	G78	4317
+Cavanaugh, Nicole       	STMA (F)                	F	11	GJV	4318
+Cayo, Courtney D.       	STMA (F)                	F	10	GJV	4319
+Cowan, Paige            	STMA (F)                	F	7	G78	4320
+davis, annalise         	STMA (F)                	F	9	GV	4321
+Dick, Isabelle          	STMA (F)                	F	9	GJV	4322
+Dick, Megan             	STMA (F)                	F	11	GJV	4323
+Dold, Whitney           	STMA (F)                	F	10	GJV	4324
+Duley, Emily            	STMA (F)                	F	11	GJV	4325
+Ertl, Jordan            	STMA (F)                	F	11	GJV	4326
+felt, anna              	STMA (F)                	F	9	GV	4327
+Follestad, Rachael      	STMA (F)                	F	11	GJV	4328
+Freund, Erin            	STMA (F)                	F	7	G78	4329
+Fuerstenburg, Lexy      	STMA (F)                	F	10	GJV	4330
+Gaypia, Toneh           	STMA (F)                	F	12	GJV	4331
+Geiger, Kaydan          	STMA (F)                	F	10	GV	4332
+Grant, Peyton           	STMA (F)                	F	10	GJV	4333
+Greeno, Hannah          	STMA (F)                	F	7	G78	4334
+Hamilton, Erin          	STMA (F)                	F	7	G78	4335
+Heiber, Amber           	STMA (F)                	F	10	GJV	4336
+Heil, Lizzy             	STMA (F)                	F	11	GV	4337
+Helman, Lynnea          	STMA (F)                	F	9	GJV	4338
+Hunsley, Allison        	STMA (F)                	F	11	GJV	4339
+Huser, Jessica          	STMA (F)                	F	7	G78	4340
+Immer, Jessica          	STMA (F)                	F	7	G78	4341
+Jensen, Chloe           	STMA (F)                	F	8	G78	4342
+Johnson, Brooke         	STMA (F)                	F	10	GV	4343
+Kainz, Miranda          	STMA (F)                	F	10	GJV	4344
+kemmetmueller, abby     	STMA (F)                	F	9	GJV	4345
+Kessler, Averi          	STMA (F)                	F	9	GJV	4346
+Kisch, Jenny            	STMA (F)                	F	12	GJV	4347
+Klinkhammer, Taylor     	STMA (F)                	F	7	G78	4348
+Knaus, Katelyn C.       	STMA (F)                	F	10	GJV	4349
+Knight, Kailey          	STMA (F)                	F	11	GJV	4350
+Kobilka, Caylyn         	STMA (F)                	F	8	G78	4351
+Kostreba, Allison       	STMA (F)                	F	12	GJV	4352
+Kucera, Megan           	STMA (F)                	F	11	GV	4353
+Lange, Serena           	STMA (F)                	F	10	GJV	4354
+Lanners, Carly          	STMA (F)                	F	7	G78	4355
+Leckie, Savannah        	STMA (F)                	F	9	G78	4356
+LeMonds, Maddie         	STMA (F)                	F	10	GJV	4357
+McAloon, Paige          	STMA (F)                	F	8	GV	4358
+McCarthy, Allie         	STMA (F)                	F	11	GJV	4359
+Mustyatsa, Glafira      	STMA (F)                	F	10	GV	4360
+Nagengast, Valerie      	STMA (F)                	F	11	GJV	4361
+Nde, Azah               	STMA (F)                	F	7	G78	4362
+Nyhus, Belle            	STMA (F)                	F	11	GV	4363
+Olson, Hailey           	STMA (F)                	F	8	G78	4364
+Orham, Clare            	STMA (F)                	F	10	GJV	4365
+Ostrowski, Emma         	STMA (F)                	F	7	G78	4366
+Papp, Marissa           	STMA (F)                	F	8	G78	4367
+Parker, Catie           	STMA (F)                	F	10	GJV	4368
+Parker, Molly           	STMA (F)                	F	8	G78	4369
+Pauba, Hailey           	STMA (F)                	F	9	G78	4370
+pelant, claire          	STMA (F)                	F	9	GJV	4371
+Petersen, Taylor        	STMA (F)                	F	9	GJV	4372
+Peterson, Kylie         	STMA (F)                	F	11	GJV	4373
+Peterson, Makenna       	STMA (F)                	F	10	GJV	4374
+Peterson, Sabel         	STMA (F)                	F	11	GJV	4375
+Pink, Dawson            	STMA (F)                	F	8	G78	4376
+Ricki-Wesseh, Miikenzie 	STMA (F)                	F	7	G78	4377
+Roemer, Mackenzie       	STMA (F)                	F	9	GJV	4378
+Rogers, McKenna         	STMA (F)                	F	12	GV	4379
+Rooker, Amelia          	STMA (F)                	F	8	G78	4380
+Ruhland, Emily          	STMA (F)                	F	12	GJV	4381
+Rysdahl, Grace          	STMA (F)                	F	12	GJV	4382
+salas, mia              	STMA (F)                	F	9	GV	4383
+Sann, Hillary           	STMA (F)                	F	7	G78	4384
+Schmidt, Mary Jo        	STMA (F)                	F	12	GJV	4385
+Schoen, Cara            	STMA (F)                	F	9	GJV	4386
+Schumm, Maddie P.       	STMA (F)                	F	10	GJV	4387
+Siegle, Gabrielle       	STMA (F)                	F	8	G78	4388
+Simat, Ava              	STMA (F)                	F	10	GJV	4389
+Slaughter, Molly        	STMA (F)                	F	11	GJV	4390
+Sylvester, Maria        	STMA (F)                	F	8	G78	4391
+Teters, Alexis          	STMA (F)                	F	10	GJV	4392
+Tymeson, Michela        	STMA (F)                	F	7	G78	4393
+Van Hove, Liz           	STMA (F)                	F	10	GJV	4394
+Walstrom, Gabrielle     	STMA (F)                	F	12	GJV	4395
+Weber, Leah A.          	STMA (F)                	F	9	G78	4396
+Weiss, Paige            	STMA (F)                	F	7	G78	4397
+Wettschreck, Anne       	STMA (F)                	F	7	G78	4398
+Zachman, Katie          	STMA (F)                	F	11	GV	4399
+Anderson, Aric          	STMA (M)                	M	9	BJV	4400
+Antoine, Shane          	STMA (M)                	M	9	BJV	4803
+Backman, Jeremy         	STMA (M)                	M	11	BV	4804
+Balken, Ryan            	STMA (M)                	M	10	BJV	4805
+Barbeln, Brett          	STMA (M)                	M	9	BJV	4806
+Bartholomew, Tyler      	STMA (M)                	M	9	BJV	4807
+Beckstrom, Coty         	STMA (M)                	M	10	BJV	4808
+Behrens, Andrew         	STMA (M)                	M	10	BJV	4809
+Beise, Ben              	STMA (M)                	M	11	BJV	4810
+Benson, Tristan         	STMA (M)                	M	9	B78	4811
+Bice, Wyatt             	STMA (M)                	M	11	BJV	4812
+Blake, Carl             	STMA (M)                	M	11	BJV	4813
+Blazek, Danyan          	STMA (M)                	M	10	BJV	4814
+Bong, Grant             	STMA (M)                	M	8	B78	4815
+Breuer, Jonah           	STMA (M)                	M	9	BV	4816
+Brown, Reed             	STMA (M)                	M	9	BJV	4817
+Bursey, Holden          	STMA (M)                	M	7	B78	4818
+Bury, Matthew           	STMA (M)                	M	8	B78	4819
+Buskey, Max             	STMA (M)                	M	10	BJV	4820
+Cheaye, James           	STMA (M)                	M	7	B78	4821
+Cloutier, Jack          	STMA (M)                	M	9	BJV	4822
+Colgrove, Brian         	STMA (M)                	M	12	BV	4823
+Colgrove, Josh          	STMA (M)                	M	8	B78	4824
+Connelly, Jackson       	STMA (M)                	M	12	BV	4825
+Conrad, Nathan          	STMA (M)                	M	10	BJV	4826
+Cornell, Ethan K.       	STMA (M)                	M	11	BV	4827
+Dehmer, Cayden          	STMA (M)                	M	7	B78	4828
+Devine, Shay            	STMA (M)                	M	11	BJV	4829
+Dierberger, Samuel      	STMA (M)                	M	8	B78	4830
+Dierberger, Will        	STMA (M)                	M	12	BJV	4831
+Dinkel, Nick            	STMA (M)                	M	11	BJV	4832
+Dorenbush, Drew         	STMA (M)                	M	9	BJV	4833
+Draeger, Sam            	STMA (M)                	M	8	B78	4834
+Foss, Aiden             	STMA (M)                	M	7	B78	4835
+Geiger, Jeff            	STMA (M)                	M	12	BV	4836
+Gerads, John            	STMA (M)                	M	8	B78	4837
+Gjesvold, Sterling      	STMA (M)                	M	7	B78	4838
+Grambusch, Nolan        	STMA (M)                	M	12	BJV	4839
+Grunke, Shane           	STMA (M)                	M	10	BJV	4840
+Hamilton, Tommy         	STMA (M)                	M	9	BJV	4841
+Heiber, Alec            	STMA (M)                	M	7	B78	4842
+Helman, Zachary         	STMA (M)                	M	7	B78	4843
+Herbst, Joey            	STMA (M)                	M	11	BV	4844
+Hobza, Hinton           	STMA (M)                	M	10	BJV	4845
+Hughes, Ben             	STMA (M)                	M	8	B78	4846
+Huser, Ben              	STMA (M)                	M	10	BJV	4847
+Hyde, Ryan              	STMA (M)                	M	10	BJV	4848
+Jaeger, Nolan           	STMA (M)                	M	8	B78	4849
+Jeffries, Austin        	STMA (M)                	M	12	BJV	4850
+Kastner, Finn           	STMA (M)                	M	8	B78	4885
+Klepsa, Teagan          	STMA (M)                	M	8	B78	4886
+Knaus, Carter           	STMA (M)                	M	9	BV	4887
+Knutson, Ethan          	STMA (M)                	M	11	BJV	4888
+Layton, Lukas           	STMA (M)                	M	12	BV	4889
+Libbey, Thomas          	STMA (M)                	M	7	B78	4890
+Lyke, James             	STMA (M)                	M	7	B78	4891
+Marsolek, Riley         	STMA (M)                	M	10	BJV	4892
+Mason, Jeffrey          	STMA (M)                	M	8	B78	4893
+Mayerchak, Daniel       	STMA (M)                	M	12	BJV	4894
+McAloon, Alex           	STMA (M)                	M	8	B78	4895
+McCarthy, Wyatt         	STMA (M)                	M	9	BJV	4896
+Meilahn, Mitchell       	STMA (M)                	M	8	B78	4897
+Mialkowski, Kyle        	STMA (M)                	M	8	B78	4898
+Moehn, Lincoln          	STMA (M)                	M	7	B78	4899
+Nadeau, Jack            	STMA (M)                	M	12	BJV	4900
+Nelson, Josh            	STMA (M)                	M	9	BJV	4901
+Nelson, Ryan            	STMA (M)                	M	12	BJV	4902
+Noel, Thaddeus          	STMA (M)                	M	11	BJV	4903
+Notch, Nathan           	STMA (M)                	M	8	B78	4904
+Nygard, Christopher     	STMA (M)                	M	8	B78	4905
+Och, Joey               	STMA (M)                	M	10	BJV	4906
+Olsen, Nolan            	STMA (M)                	M	12	BJV	4907
+patterson, noah         	STMA (M)                	M	10	BJV	4908
+Patton, Sam             	STMA (M)                	M	8	B78	4909
+Peters, Aiden           	STMA (M)                	M	8	B78	4910
+Peters, Evan            	STMA (M)                	M	10	BJV	4911
+Peterson, Connor        	STMA (M)                	M	10	BJV	4912
+Peterson, Jack          	STMA (M)                	M	9	BJV	4913
+Peterson, Luke          	STMA (M)                	M	9	BJV	4914
+Rios, Joe               	STMA (M)                	M	12	BJV	4915
+Robinson, Joey          	STMA (M)                	M	8	B78	4916
+Rowland, Locke          	STMA (M)                	M	7	B78	4917
+Ruberto, Dane           	STMA (M)                	M	11	BJV	4918
+Ruberto, Seth           	STMA (M)                	M	8	B78	4919
+Salonek, Joe            	STMA (M)                	M	12	BV	4920
+Schindler, Nate         	STMA (M)                	M	11	BJV	4921
+Scriver, Eric           	STMA (M)                	M	9	BJV	4922
+Sorby, Owen             	STMA (M)                	M	9	BJV	4923
+Strege, Sam             	STMA (M)                	M	9	BJV	4924
+Sunsten, Brody          	STMA (M)                	M	11	BJV	4925
+Swenson, Tyler          	STMA (M)                	M	11	BJV	4926
+Tanchin, Ron            	STMA (M)                	M	12	BJV	4927
+Thole, Jacob            	STMA (M)                	M	9	BJV	4928
+Thompson, Jake          	STMA (M)                	M	11	BJV	4929
+Vogt, Logan             	STMA (M)                	M	11	BJV	4930
+VonRuden, Brett         	STMA (M)                	M	10	BJV	4931
+Walstrom, Jarod         	STMA (M)                	M	10	BJV	4932
+Williams, Joe           	STMA (M)                	M	9	BJV	4933
+Wolseth, Alex           	STMA (M)                	M	11	BV	4934
+Younberg, Michael       	STMA (M)                	M	10	BV	4935
